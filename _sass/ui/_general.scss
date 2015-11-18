@@ -221,6 +221,10 @@ header {
 	display: inline;
 	padding-left: 1em;
 	}
+	
+	.pagination .active {
+		font-weight: bold;
+		}
 
 .wp-caption-text {
 	@include font-size($milli-size);
