@@ -11,8 +11,7 @@ layout: default
 				{{ content }}
 			</section>
 			<footer>
-			<p class="meta"><span class="meta-ital">By</span> Nathaniel Ward <span class="meta-ital">on</span> <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
-
+			{% if page.url != "/about/" %}<p class="meta"><span class="meta-ital">By</span> Nathaniel Ward <span class="meta-ital">on</span> <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>{% endif %}
 
 			</footer>
 		</article>
