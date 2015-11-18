@@ -3,7 +3,7 @@ layout: default
 ---
 
 	<div class="grid__item one-whole">
-  	{% for post in site.posts %}
+  	{% for post in paginator.posts %}
 		<article class="post_content">
 
 			<h1 class="beta">
@@ -24,4 +24,29 @@ layout: default
 
 		<hr class="rule  rule--ornament">
 	{% endfor %}
+	
+	<nav class="pagination">
+	{% if paginator.total_pages > 1 %}
+		<ul>
+		{% if paginator.previous_page %}
+			<li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+		{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+		{% if page == paginator.page %}
+		  <em>{{ page }}</em>
+		{% elsif page == 1 %}
+		  <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+		{% else %}
+		  <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+		{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+		<li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+		{% endif %}
+		</ul>
+	{% endif %}
+	</nav>
+	
 	</div><!-- /one-whole --> 
