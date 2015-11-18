@@ -1,5 +1,14 @@
-<h1 {% unless page.layout == "post" %}  class="beta"{% endunless %}>
-{% if page.linked %}<a class="permalink" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ page.linked }}">{{ page.title }}</a>
+{% if page.name == "index" %}
+	<h1 class="beta">
+	{% if page.linked %}<a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ post.linked }}">{{ post.title }}</a>
+	{% else %}
+	<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a>
+	{% endif %}
 {% else %}
-<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
-{% endif %}</h1>
+	<h1>
+	{% if page.linked %}<a class="permalink" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ page.linked }}">{{ page.title }}</a>
+	{% else %}
+	<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
+	{% endif %}
+{% endif %}
+</h1>
