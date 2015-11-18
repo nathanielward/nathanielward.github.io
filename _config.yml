@@ -6,6 +6,9 @@ url: http://www.nathanielward.net
 
 # Build settings
 permalink: /:year/:month/:title
+markdown: rdiscount
+rdiscount:
+    extensions: [smart]
 sass:
     sass_dir: _sass
     style: compressed
