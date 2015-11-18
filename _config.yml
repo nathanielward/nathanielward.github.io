@@ -2,7 +2,7 @@
 title: Nathaniel Ward
 description: Nathaniel Ward is an online marketer and fundraiser in Washington, DC.
 baseurl: ""
-url: http://www.nathanielward.net/
+url: http://www.nathanielward.net
 
 # Build settings
 permalink: /:year/:month/:title
