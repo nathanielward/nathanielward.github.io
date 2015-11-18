@@ -211,13 +211,13 @@ header {
 	font-size: 1em;
 	line-height: $base-spacing-unit;
 	}
-.navigation {
+.pagination {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 	text-align: center;
 	}
-.navigation li, .comment-nav li {
+.pagination li, .comment-nav li {
 	display: inline;
 	padding-left: 1em;
 	}
