@@ -1,6 +1,6 @@
 {% if page.name == "index" %}
 	<h1 class="beta">
-	{% if page.linked %}<a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ post.linked }}">{{ post.title }}</a>
+	{% if post.linked %}<a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ post.linked }}">{{ post.title }}</a>
 	{% else %}
 	<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a>
 	{% endif %}
