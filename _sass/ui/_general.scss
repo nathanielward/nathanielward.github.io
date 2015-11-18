@@ -1,0 +1,286 @@
+@charset "utf-8";
+$background-color:	#fff;	// was #fff
+$text-color:		#333;		// gray
+$highlight-color:	#f28b10;	// orange
+$link-color:		#084769;	// blue-green
+$link-hover-color:	#032d44;	// dark blue-green
+$header-font:		"Open Sans", helvetica, arial, sans-serif;
+$char-spacing:		.05em;
+
+body {
+	background: $background-color;
+	color: $text-color;
+	font-family: $brand-face;
+	font-weight: 300;
+   	margin: 0 1em;
+   	letter-spacing: $char-spacing;
+	}
+
+/*--- LAYOUT ---*/
+.grid {
+	max-width: $base-font-size * 30;
+	/* @media screen and (max-width: ($desk-start - 1)) {
+    	max-width: $base-font-size * 40;
+	}*/
+	margin: 0px auto;
+	}
+
+
+/*--- MISCELLANY ---*/
+
+::selection {
+	background: $highlight-color; /* Safari */
+	}
+::-moz-selection {
+	background: $highlight-color; /* Firefox */
+}
+
+// double the bottom margin, add top margin
+.rule {
+	color: $highlight-color;
+	margin-top: 2 * $base-spacing-unit;
+    margin-top:(2 * $base-spacing-unit / $base-font-size)*1rem;
+	margin-bottom: 2 * $base-spacing-unit - 1px;
+    margin-bottom:((2 * $base-spacing-unit - 1px) / $base-font-size)*1rem;
+	}
+
+// ensure iframes expand to fill width
+iframe {
+	//height:auto !important;
+	width:100% !important;
+	}
+
+// fix sharing chicklets
+.stButton {
+	font-size: inherit !important;
+	}
+.stButton .stButton_gradient {
+	background: transparent !important;
+	border: 0 !important;
+	font-family: inherit !important;
+	padding: 0 !important;
+	height: auto !important;
+	}
+.stButton .st-twitter-counter, .stButton .st-facebook-counter {
+	height: 22px !important;
+	}
+.st_facebook_hcount .stArrow, .st_fb_like_hcount .stArrow, .stButton .stArrow, .st_twitter_hcount .stArrow { 
+	background: transparent !important;
+	}
+
+/*--- QUOTES ---*/
+
+// override inuit.css styling
+blockquote{
+    quotes:"";
+	margin:0 2.5em;
+	font-style: italic;
+	
+	i, em {
+		font-style: normal;
+		}
+
+    p:before{
+        content:"";
+        content:"";
+    }
+    p:after{
+        content:"";
+    }
+    p:last-of-type:after{
+        content:"";
+    }
+
+    q:before{
+        content:"";
+    }
+    q:after{
+        content:"";
+    }
+}
+
+blockquote{
+    text-indent:0;
+
+    p:last-of-type{
+    	margin-bottom: 2 * $base-spacing-unit;
+        margin-bottom: ( $base-spacing-unit / $base-font-size ) * 1rem;
+    }
+}
+
+
+/*--- LINKS ---*/
+a {
+	color: $link-color;
+	text-decoration:none;
+	}
+h1 a, .h2 a {
+	color: $text-color;
+	}
+a:hover{
+	color: $link-hover-color;
+	}
+h1 a:hover, h1 a.permalink:hover { color: $link-color; }
+.comments:before{	content:"{\00A0"; /* Insert a bracket then a space */}
+.comments:after{	content:"\00A0}"; /* Insert a space then a bracket */}
+.unsupervised, .post_content h1 {
+	a {
+		color: $text-color;
+		border-bottom: 0px;
+		}
+	a:hover {
+		color: $link-color;
+		border-bottom: 1px dotted $link-color;
+		}
+	}
+.post_content, .info, .meta, .sidebar {
+	a {
+		border-bottom: 1px dotted $link-color;
+		}
+	a:hover {
+		border-bottom: 1px solid $link-hover-color;
+		}
+	}
+
+
+
+/*--- TYPOGRAPHY ---*/
+.caps, .numbers, abbr {
+	font-size: .75em; /* 12px --> 12 / 16 = .75 */
+	line-height: 1em; /* 24px --> 24 / 12 = 2 */
+	letter-spacing: 0.1em; /* per http://www.webtypography.net/Rhythm_and_Proportion/Horizontal_Motion/2.1.6/ */
+	}
+.caps .numbers { font-size: 1em; } /* deals with numbers inside caps */
+.amp {}
+code, kbd, pre, samp {
+	font-family: 'Source Code Pro', monospace, sans-serif;
+	font-weight: 300;
+	}
+sup, sub {
+	vertical-align: baseline;
+  	position: relative;
+  	top: -0.4em;
+	font-size: .75em; /* 12px --> 12 / 16 = .75 */
+	}
+sub {
+	top: 0.4em;
+	}
+.commentlist time {	font-weight: bold; }
+.by {	font-style: italic;	font-size: .75em;	line-height: 1em;}
+.post_content p object {text-indent: 0; max-width: 460px; }
+.youtube-player {margin-bottom: -7px;}
+strong, b {
+	font-weight: 700;
+	}
+em, i {
+	font-style: italic;
+	}
+.hide {visibility: hidden;}
+h1, h2 {
+	font-weight: 400;
+	font-family: $header-font;
+	line-height: $line-height-factor*5/7;
+	}
+header {
+	margin-top: 2 * $base-spacing-unit;
+	margin-top: ( $base-spacing-unit / $base-font-size ) * 1rem;
+	padding-bottom: 2 * $base-spacing-unit;
+	padding-bottom: ( $base-spacing-unit / $base-font-size ) * 1rem;
+	margin-bottom: 2 * $base-spacing-unit - 1;
+	margin-bottom: ( ($base-spacing-unit - 1) / $base-font-size ) * 1rem;
+	border-bottom: 1px solid $highlight-color;
+	}
+.unsupervised {
+	font-family: $header-font;
+	font-weight: 300;
+	letter-spacing: 1px;
+	text-align: center;
+	}
+.meta {
+	font-family: $header-font;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: .8em;
+	line-height: $base-spacing-unit;
+	}
+.meta-ital {
+	text-transform: none;
+	font-style: italic;
+	}
+.count {
+	font-size: 1em;
+	line-height: $base-spacing-unit;
+	}
+.bones_page_navi {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	}
+.bones_page_navi li, .comment-nav li {
+	display: inline;
+	padding-left: 1em;
+	}
+
+.wp-caption-text {
+	@include font-size($milli-size);
+	}
+.comment-form-elements {
+	list-style-type: none;
+	margin: 0;
+
+	li {
+		margin-bottom: $base-spacing-unit;
+		}
+	}
+table {
+	font-family: "Open Sans",Helvetica,Arial,sans-serif;
+	}
+	
+th {
+	border-top: 1px solid $highlight-color;
+	border-bottom: 1px solid $highlight-color;
+	}
+
+
+/*--- FORMS ---*/
+label {
+	width: 100%;
+	display: block;
+	
+	span {
+		display: block;
+		float: left;
+		width: 6em;
+		}
+	
+	input {
+		width: 25em;
+		
+		@media screen and (max-width: ($lap-start - 1)) {
+			width: 100%;
+			}
+		}
+	}
+
+.comment {
+	width: 25em;
+
+	@media screen and (max-width: ($lap-start - 1)) {
+		width: 100%;
+		}
+	}
+
+.comment, input {
+	border-width: 0 0 1px 0;
+	border-style: dotted;
+	border-color: $highlight-color;
+	padding: 3px;
+	}
+	
+.submit {
+	/*margin-left: 6em;*/
+	@media screen and (max-width: ($lap-start - 1)) {
+		margin: 0;
+		}
+	}

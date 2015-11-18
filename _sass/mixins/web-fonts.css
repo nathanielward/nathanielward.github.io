@@ -1,0 +1,40 @@
+/*
+Error: Invalid US-ASCII character "\xE2"
+        on line 97 of /Users/WardN/Dropbox/Site/2.0/css/mixins/web-fonts.scss
+
+92:         $url: $url + $word;
+93:         
+94:         // Add a hyphen between words.
+95:         // A hyphen can actually be used to seperate words instead of a space,
+96:         // in which case the words will be counted as one and no extra hyphens will be added.
+97:         // Again, a string replacement function would make this a lot easier…
+98:         @if $j < length($effect) {
+99:           $url: $url + "-";
+100:         }
+101:       }
+102:       
+
+Backtrace:
+/Users/WardN/Dropbox/Site/2.0/css/mixins/web-fonts.scss:97
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1323:in `rescue in block in find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1320:in `block in find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `each'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `each_with_index'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:896:in `check_sass_encoding'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:423:in `check_encoding!'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:379:in `_to_tree'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:396:in `run'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:62:in `process_result'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:52:in `parse'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/bin/sass:13:in `<top (required)>'
+/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:18:in `load'
+/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:18:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid US-ASCII character \"\xE2\"\A         on line 97 of /Users/WardN/Dropbox/Site/2.0/css/mixins/web-fonts.scss\A \A 92:         $url: $url + $word;\A 93:         \A 94:         // Add a hyphen between words.\A 95:         // A hyphen can actually be used to seperate words instead of a space,\A 96:         // in which case the words will be counted as one and no extra hyphens will be added.\A 97:         // Again, a string replacement function would make this a lot easier…\A 98:         @if $j < length($effect) {\A 99:           $url: $url + \"-\";\A 100:         }\A 101:       }\A 102:       "; }

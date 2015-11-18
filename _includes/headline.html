@@ -1,0 +1,5 @@
+<h1{% if page.layout != "post" %}  class="beta"{% endif %}>
+{% if page.linked %}<a class="permalink" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ page.linked }}">{{ page.title }}</a>
+{% else %}
+<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
+{% endif %}</h1>

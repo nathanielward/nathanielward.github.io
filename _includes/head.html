@@ -1,0 +1,48 @@
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>{% if page.title %}{{ page.title }} | {% endif %}Nathaniel Ward</title>
+<meta name="author" content="Nathaniel Ward">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/favicon57.png">
+
+
+<!-- Prefetch DNS for external assets (Twitter widgets etc). -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//themes.googleusercontent.com">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,600italic,600,300">
+<link rel="stylesheet" href="/css/style.min.css">
+
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@nathanielward">
+<meta name="twitter:domain" content="nathanielward.net">
+<meta name="twitter:creator" content="@nathanielward">
+{% if page.title %}
+    <meta property="og:title" content="{{ page.title }} | Nathaniel Ward" />
+    <meta property="twitter:title" content="{{ page.title }} | Nathaniel Ward" />
+{% endif %}
+<meta name="twitter:image:src" content="/nw500.jpg">
+{% if page.excerpt %}
+	<meta name="description" content="{{ page.excerpt| strip_html }}">
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}">
+	<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+{% else %}
+	<meta name="description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+	<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+{% if page.tags %}
+<meta name="keywords" content="{{ page.tags }}">
+{% endif %}
+
+<link rel="alternate" type="application/rss+xml" title="Nathaniel Ward" href="{{ site.baseurl }}/feed.xml" />
+
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+</head>
