@@ -1,4 +1,4 @@
-{% if page.name == "index" %}
+{% if page.url == "/" %}
 	<h1 class="beta">
 	{% if post.linked %}<a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ post.linked }}">{{ post.title }}</a>
 	{% else %}
