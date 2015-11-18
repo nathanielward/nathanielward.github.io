@@ -6,7 +6,11 @@ layout: default
   	{% for post in site.posts %}
 		<article class="post_content">
 
-			{% include headline.html %}
+			<h1 class="beta">
+			{% if post.linked %}<a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ post.linked }}">{{ post.title }}</a>
+			{% else %}
+			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a>
+			{% endif %}</h1>
 	
 			<section class="post_content_main">
 				{{ post.content }}
