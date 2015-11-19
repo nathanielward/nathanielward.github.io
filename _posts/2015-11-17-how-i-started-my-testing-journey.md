@@ -2,7 +2,6 @@
 title: How I started my testing journey
 author: Nathaniel Ward
 layout: post
-permalink: /2015/11/how-i-started-my-testing-journey/
 categories:
   - Marketing
 tags:
@@ -15,7 +14,7 @@ I had a big problem.
 
 The online fundraising campaign I was running had lost steam. Instead of generating thousands of dollars a day, it was generating just hundreds.
 
-Traffic to the website, driven largely by advertising outside of our control, had fallen off sharply. But the expectations about how much money we’d make from the site hadn’t changed at all.
+Traffic to the website, driven largely by advertising outside of our control, had fallen off sharply. But the expectations about how much money we’d make from the site hadn't changed at all. ---
 
 In short, we had to make more money from fewer website visitors. I knew something needed to change.
 
