@@ -13,13 +13,17 @@
 				{% if post.author.name %}
 					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
 				{% endif %}        
-				{% if post.excerpt %}
-					<description>{{ post.excerpt | xml_escape }}</description>
-				{% else %}
-					<description>{{ post.content | xml_escape }}</description>
-				{% endif %}
+				<description>{{ post.content | xml_escape }}
+				{% if post.linked %}
+					<p><strong><a href=&quot;{{ site.url }}{{ post.url }}&quot;>&#182; Read this article on NathanielWard.net</a></strong></p>
+				{% endif %}        
+				</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
+				{% if post.linked %}
+					<link>{{ post.linked }}</link>
+				{% else %}
+					<link>{{ site.url }}{{ post.url }}</link>
+				{% endif %}
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
