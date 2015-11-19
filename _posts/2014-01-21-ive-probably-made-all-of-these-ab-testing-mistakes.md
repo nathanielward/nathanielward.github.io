@@ -2,7 +2,6 @@
 title: I’ve probably made all of these A/​B testing mistakes
 author: Nathaniel Ward
 layout: post
-permalink: /2014/01/ive-probably-made-all-of-these-ab-testing-mistakes/
 categories:
   - Marketing
 tags:

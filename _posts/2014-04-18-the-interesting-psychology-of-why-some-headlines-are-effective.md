@@ -2,7 +2,6 @@
 title: The interesting psychology of why some headlines are effective
 author: Nathaniel Ward
 layout: post
-permalink: /2014/04/the-interesting-psychology-of-why-some-headlines-are-effective/
 categories:
   - Marketing
 tags:

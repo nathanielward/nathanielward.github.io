@@ -2,7 +2,6 @@
 title: The case against marking form fields as required
 author: Nathaniel Ward
 layout: post
-permalink: /2014/04/the-case-against-marking-form-fields-as-required/
 categories:
   - Marketing
   - What I’m Reading

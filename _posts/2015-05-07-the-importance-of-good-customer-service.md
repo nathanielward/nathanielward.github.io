@@ -2,7 +2,6 @@
 title: The importance of good customer service
 author: Nathaniel Ward
 layout: post
-permalink: /2015/05/the-importance-of-good-customer-service/
 categories:
   - Marketing
 tags:

@@ -2,7 +2,6 @@
 title: Three reasons why you shouldn’t bother with nonprofit benchmark reports
 author: Nathaniel Ward
 layout: post
-permalink: /2015/07/three-reasons-why-you-shouldnt-bother-with-nonprofit-benchmark-reports/
 categories:
   - What I’m Reading
 ---

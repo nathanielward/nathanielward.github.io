@@ -2,7 +2,6 @@
 title: This is the wrong way to measure e-mail success
 author: Nathaniel Ward
 layout: post
-permalink: /2014/12/this-is-the-wrong-way-to-measure-e-mail-success/
 categories:
   - Marketing
 tags:

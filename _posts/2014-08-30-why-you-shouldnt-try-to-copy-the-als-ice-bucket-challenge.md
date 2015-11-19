@@ -2,7 +2,6 @@
 title: 'Why you shouldn’t try to copy the ALS Ice Bucket Challenge'
 author: Nathaniel Ward
 layout: post
-permalink: /2014/08/why-you-shouldnt-try-to-copy-the-als-ice-bucket-challenge/
 categories:
   - Marketing
 tags:

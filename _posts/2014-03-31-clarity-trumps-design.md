@@ -2,7 +2,6 @@
 title: Clarity trumps design
 author: Nathaniel Ward
 layout: post
-permalink: /2014/03/clarity-trumps-design/
 categories:
   - Marketing
 tags:

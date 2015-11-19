@@ -3,7 +3,6 @@ title: How Big Data can lead you to make worse decisions
 author: Nathaniel Ward
 excerpt: "Data should inform your decisions and allow you to confirm or disconfirm hypotheses. It shouldn't make your decisions for you."
 layout: post
-permalink: /2014/03/how-big-data-can-lead-you-to-make-worse-decisions/
 categories:
   - Miscellany
 tags:

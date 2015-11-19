@@ -2,7 +2,6 @@
 title: Why I started using Todoist to manage my tasks
 author: Nathaniel Ward
 layout: post
-permalink: /2015/01/why-i-started-using-todoist-to-manage-my-tasks/
 categories:
   - Miscellany
 tags:

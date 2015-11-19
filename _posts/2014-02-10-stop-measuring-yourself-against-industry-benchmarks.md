@@ -3,7 +3,6 @@ title: Stop measuring yourself against industry benchmarks
 author: Nathaniel Ward
 excerpt: Are you basing your online marketing plans on the latest benchmark study? What on earth for?
 layout: post
-permalink: /2014/02/stop-measuring-yourself-against-industry-benchmarks/
 categories:
   - Marketing
 tags:

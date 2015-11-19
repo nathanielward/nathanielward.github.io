@@ -2,7 +2,6 @@
 title: The three things you should do before you run an online test
 author: Nathaniel Ward
 layout: post
-permalink: /2014/04/the-three-things-you-should-do-before-you-run-an-online-test/
 categories:
   - Marketing
 tags:

@@ -2,7 +2,6 @@
 title: This is just brutal
 author: Nathaniel Ward
 layout: post
-permalink: /2015/03/this-is-just-brutal/
 categories:
   - Miscellany
 tags:

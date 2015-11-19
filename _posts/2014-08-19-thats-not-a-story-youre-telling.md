@@ -3,7 +3,6 @@ title: That’s not a story you’re telling
 author: Nathaniel Ward
 excerpt: "Marketers should tell stories. That's the best way to engage our customers. But too often, we create content that's not a story."
 layout: post
-permalink: /2014/08/thats-not-a-story-youre-telling/
 categories:
   - Marketing
 tags:

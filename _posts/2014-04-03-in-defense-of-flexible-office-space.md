@@ -2,7 +2,6 @@
 title: In defense of flexible office space
 author: Nathaniel Ward
 layout: post
-permalink: /2014/04/in-defense-of-flexible-office-space/
 categories:
   - Miscellany
 tags:

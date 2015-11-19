@@ -3,7 +3,6 @@ title: Use psychology to help your customers relieve mental burdens
 author: Nathaniel Ward
 excerpt: "Here's some fascinating behavioral research. Savvy marketers will use this knowledge to help their customers relieve mental burdens."
 layout: post
-permalink: /2014/07/use-psychology-to-help-your-customers-relieve-mental-burdens/
 categories:
   - Marketing
 tags:
