@@ -2,7 +2,6 @@
 title: Stop screaming
 author: Nathaniel Ward
 layout: post
-permalink: /2015/11/stop-screaming/
 categories:
   - What I’m Reading
 ---

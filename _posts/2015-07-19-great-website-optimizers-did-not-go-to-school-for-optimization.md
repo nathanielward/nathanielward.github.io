@@ -2,7 +2,6 @@
 title: '‘Great website optimizers did not go to school for optimization.’'
 author: Nathaniel Ward
 layout: post
-permalink: /2015/07/great-website-optimizers-did-not-go-to-school-for-optimization/
 categories:
   - Marketing
 ---
