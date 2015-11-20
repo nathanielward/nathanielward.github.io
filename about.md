@@ -14,7 +14,7 @@ Opinions expressed on this site are my own.
 
 ## Contact me
 
-Have a question? [Send me a tweet][2]. Or find me on [Facebook][3] or [LinkedIn][4].
+Have a question? [Send me a tweet][2]. Or find me on [Facebook][3] or [LinkedIn][4]. 
 
  [1]: http://www.dartreview.com/ "The Dartmouth Review"
  [2]: https://twitter.com/?status=Hey,%20@nathanielward%20
