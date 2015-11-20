@@ -217,6 +217,9 @@ header {
 	list-style-type: none;
 	text-align: center;
 	}
+.pagination ul {
+	margin: 0;
+	}
 .pagination li, .comment-nav li {
 	display: inline;
 	padding-left: 1em;
