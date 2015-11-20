@@ -1,0 +1,16 @@
+---
+title: The best day of the week to send a survey
+author: Nathaniel Ward
+layout: post
+linked: http://blog.surveymonkey.com/blog/2011/08/16/day-of-the-week/
+categories:
+  - What I’m Reading
+tags:
+  - E-mail
+  - E-mail marketing
+---
+Survey Monkey crunched the data:
+
+> Response rates were highest for survey invitations sent out on Monday, and lowest for invitations sent on Friday. On average, surveys sent out on Mondays received 10% more responses than average, and surveys sent out on Fridays received 13% fewer responses than average.
+
+But don’t assume these results hold true for your list, and the full post has lots of caveats. Test!
