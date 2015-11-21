@@ -7,9 +7,9 @@ layout: default
 		<article class="post_content">
 
 			<h1>
-			{% if post.linked %}<a href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify }} &rarr;</a>
+			{% if post.linked %}<a href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify | remove: '<p>' | remove '</p>' }} &rarr;</a>
 			{% else %}
-			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify }}</a>
+			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove '</p>' }}</a>
 			{% endif %}</h1>
 	
 			<section class="post_content_main">
