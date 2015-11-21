@@ -13,7 +13,6 @@ tags:
   - Talks
   - Tim Kachuriak
 ---
-![Friction](http://upload.wikimedia.org/wikipedia/en/7/7a/Friction.png)
 
 There’s a powerful force keeping your supporters from giving you money online: friction.
 
