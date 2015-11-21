@@ -1,5 +1,5 @@
 <h1>
-	{% if page.linked %}<a class="permalink" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a> <a href="{{ page.linked }}">{{ page.title | markdownify }} &rarr;</a>
+	{% if page.linked %}<a href="{{ page.linked }}" title="Link to external page">{{ page.title | markdownify }} &rarr;</a>
 {% else %}
 	<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title | markdownify }}</a>
 {% endif %}
