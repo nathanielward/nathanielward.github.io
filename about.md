@@ -1,9 +1,7 @@
 ---
 title: About Nathaniel Ward
-author: Nathaniel Ward
-layout: post
+layout: page
 permalink: /about/
-byline: no
 ---
 I am an online marketer in my hometown of Washington, D.C.
 
