@@ -1,6 +1,6 @@
 <h1>
-	{% if page.linked %}<a href="{{ page.linked }}" title="Link to external page">{{ page.title | markdownify | remove: '<p>' | remove '</p>' }} &rarr;</a>
+	{% if page.linked %}<a href="{{ page.linked }}" title="Link to external page">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }} &rarr;</a>
 {% else %}
-	<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title | markdownify | remove: '<p>' | remove '</p>' }}</a>
+	<a href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
 {% endif %}
 </h1>
