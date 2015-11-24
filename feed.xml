@@ -7,7 +7,7 @@ permalink: /feed/
 		<title>{{ site.title | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
 		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}{% if post.linked %} &#8594;{% endif %}</title>
@@ -16,7 +16,7 @@ permalink: /feed/
 				{% endif %}
 				<description>{{ post.content | xml_escape }}
 				{% if post.linked %}
-					<p><strong><a href=&quot;{{ site.url }}{{ post.url }}&quot;>&#182; Read this article on NathanielWard.net</a></strong></p>
+					&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;&#182; Read this article on NathanielWard.net&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 				{% endif %}        
 				</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
