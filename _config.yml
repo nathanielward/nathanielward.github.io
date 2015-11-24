@@ -8,9 +8,7 @@ url: http://www.nathanielward.net
 permalink: /:year/:month/:title
 paginate: 5
 paginate_path: "/page:num/"
-markdown: rdiscount
-rdiscount:
-    extensions: [smart]
+markdown: kramdown
 sass:
     sass_dir: _sass
     style: compressed
