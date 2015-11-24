@@ -2,6 +2,7 @@
 title: Why I switched this site to Jekyll
 author: Nathaniel Ward
 layout: post
+date: 2015-11-24 10:15:00
 tags: 
     - WordPress
     - Jekyll
