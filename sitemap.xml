@@ -44,7 +44,7 @@ sitemap:
 		<changefreq>{{ page.sitemap.changefreq }}</changefreq>
 	  {% else %}
 		<changefreq>monthly</changefreq>
-	  {% elsif page.previous %}
+	  {% elsif page.url contains "/page" %}
 	  	<priority>0.2</priority>
 	  {% endif %}
 	  {% if page.sitemap.priority %}
