@@ -21,7 +21,7 @@ permalink: /feed/
 				</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				{% if post.linked %}
-					<link>{{ post.linked }}</link>
+					<link>{{ post.linked | xml_escape }}</link>
 				{% else %}
 					<link>{{ site.url }}{{ post.url }}</link>
 				{% endif %}
