@@ -22,7 +22,7 @@ tags:
   * [Stephen Smith points out][2] that when it comes to “privatization” of government parking facilities, “the ‘owners’ are barely even allowed to set their own prices, nevermind decide to use their land for, \*gasp\* something other than parking.”
   * Adam at PlayNice​.ly looks into [what’s required to establish a merchant account for credit card processing][3]. Smashing Magazine covers the same ground and [suggests a few payment processors][4]. Fundraisers should take special note of Adam’s warnings about PayPal, which may impose long-run costs hidden by its easy setup.
   * The reliably progressive StreetsBlog argues that it would be [a mistake to cut federal funding for bike paths and rail transit][5], which it argues are cost-effective. But even if a program is cost-effective, does that mean the *federal* government ought to spend money on it?
-  * Last but not least, [Oregon lawmakers rick-roll the legislature](www.youtube.com/watch?v=fZi4JxbTwPo).
+  * Last but not least, [Oregon lawmakers rick-roll the legislature](https://www.youtube.com/watch?v=fZi4JxbTwPo).
 
  [1]: http://www.washingtonpost.com/business/economy/md-firm-to-take-over-3-calif-libraries-as-debate-grows-over-privatization/2011/03/31/AFbrbO2C_story.html
  [2]: http://marketurbanism.com/2010/12/11/private-parking-contracting-giving-privatization-a-bad-name/
