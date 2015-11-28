@@ -22,7 +22,7 @@ tags:
   * Are participants in marathons and other event-based fundraisers really donors in the same sense as direct-marketing donors? [Tom Belford says no.][2]
   * Pork Barrel Barbecue has released a barbecue-scented fragrance. [Really.][3]
   * It’s not clear why repairing ill-maintained local transit infrastructure [ought to be a federal responsibility][4].
-  * Last but not least, [Conan O’Brien spoke last week at Dartmouth’s commencement](www.youtube.com/watch?v=KmDYXaaT9sA).
+  * Last but not least, [Conan O’Brien spoke last week at Dartmouth’s commencement](https://www.youtube.com/watch?v=KmDYXaaT9sA).
 
  [1]: http://www.washingtoncitypaper.com/blogs/housingcomplex/2011/06/15/fiscal-education/
  [2]: http://www.theagitator.net/dont-miss-these-posts/thonors-not-donors/
