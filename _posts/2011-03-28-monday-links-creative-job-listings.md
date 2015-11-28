@@ -24,7 +24,7 @@ tags:
   * Harry Roberts (whose tips I have come to rely on) [interviews Vitaly Friedman of Smashing Magazine][5].
   * It’s sad that it makes news in D.C. when a real estate development moves forward [relying entirely on private tenants][6].
   * Would you buy [standing-room tickets][7] to see the Capitals?
-  * Last but not least, [Tim Pawlenty’s PAC released a powerful video earlier in the year](www.youtube.com/watch?v=YfkNEq1XioE).
+  * Last but not least, [Tim Pawlenty’s PAC released a powerful video earlier in the year](https://www.youtube.com/watch?v=YfkNEq1XioE).
 
  [1]: http://afewtastefulsnaps.wordpress.com/2011/03/14/award-winning-journalism-job-post/
  [2]: http://www.weeklystandard.com/articles/paranoid-style-liberal-politics_555525.html?nopager%3D1
