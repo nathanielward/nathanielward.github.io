@@ -12,7 +12,7 @@ tags:
   - Humor
   - Video
 ---
-Perhaps [the best advertisement of Sunday’s Super Bowl](www.youtube.com/watch?v=Wq58zS4_jvM) was also the funniest.
+Perhaps [the best advertisement of Sunday’s Super Bowl](https://www.youtube.com/watch?v=Wq58zS4_jvM) was also the funniest.
 
 In one scene, a half-dozen “Green Police” officers surround a man who fails to sort his garbage correctly. Government agents also arrest homeowners for “offenses” like using unapproved light bulbs and running hot-tubs at impermissible temperatures. Later, agents shut down a highway to search cars for environmentally-unfriendly contraband. This is perhaps the best, and funniest, argument I’ve seen against the increasingly intrusive green agenda.
 
