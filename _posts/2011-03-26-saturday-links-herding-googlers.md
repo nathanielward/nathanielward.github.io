@@ -21,7 +21,7 @@ tags:
   * Slate explores [the dramatic fall of pickpocketing in the United States][3]: “In a 2001 story, the *New York Times* reported that there were 23,068 reported pickpocketing incidents in the city in 1990, amounting to nearly $10 million in losses. Five years later, the number of reported incidents had fallen by half, and by the turn of the millennium, there were less than 5,000. Today, the NYPD doesn’t even maintain individual numbers on pickpocketing.”
   * Vasilis Vryniotis offers a list of [best practices webmasters should follow][4] before launching a site. These are also good to keep in mind after a site is launched, too.
   * A new mashup from Greater Greater Washington allows you to [redistrict the District of Columbia’s wards][5] based on 2010 census data. Here’s [my take][6].
-  * Last but not least, [Remy has a new video for Reason.tv](www.youtube.com/watch?v=iWloySIHcvg).
+  * Last but not least, [Remy has a new video for Reason.tv](https://www.youtube.com/watch?v=iWloySIHcvg).
 
  [1]: http://www.nytimes.com/2011/03/13/business/13hire.html
  [2]: http://www.nytimes.com/imagepages/2011/03/11/business/20110313_sbn_GOOGLE-HIRES-graphic.html?ref=business
