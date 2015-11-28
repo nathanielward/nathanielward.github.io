@@ -23,4 +23,4 @@ The Obama campaign’s crack marketing staff [routinely failed to predict which
 
 Their success was in their ability to find out what works, not their ability to get it right the first time.
 
- [1]: By Joshua Green on November 29, 2012 http://www.businessweek.com/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails
+ [1]: http://www.businessweek.com/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails
