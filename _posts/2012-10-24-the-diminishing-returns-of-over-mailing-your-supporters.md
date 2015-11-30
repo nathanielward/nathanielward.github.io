@@ -25,7 +25,7 @@ tags:
 
 <!--more-->The Obama campaign even sent an e-mail last week with the subject line, “We send a lot of emails — here’s why.” It was, of course, a fundraising appeal.
 
-There’s a good reason campaigns are doing this: [they are focused only on the short term][3], and care nothing for the long-term cultivation of their supporters. So long as they can raise the funds and turn out the volunteers now to ensure victory on November 6, what does it matter to them how their supporters behave after that?
+There’s a good reason campaigns are doing this: they are focused only on the short term, and care nothing for the long-term cultivation of their supporters. So long as they can raise the funds and turn out the volunteers now to ensure victory on November 6, what does it matter to them how their supporters behave after that?
 
 This is another reason non-profit fundraisers and other online marketers should be wary of using the Obama or Romney campaigns as models.
 
@@ -33,4 +33,3 @@ This is another reason non-profit fundraisers and other online marketers should 
 
  [1]: http://www.theagitator.net/dont-miss-these-posts/wearing-out-the-email-welcome-mat/
  [2]: http://www.politico.com/news/stories/1012/82409.html
- [3]: http://www.nathanielward.net/2012/08/lessons-fundraisers-should-and-shouldnt-learn-from-the-obama-campaign/
