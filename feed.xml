@@ -17,7 +17,7 @@ sitemap:
 				{% endif %}
 				<description>{{ post.content | xml_escape }}
 				{% if post.linked %}
-					&lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;&#182; Read this article on NathanielWard.net&lt;/a&gt;&lt;/p&gt;
+					&lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;&#182;&lt;/a&gt;&lt;/p&gt;
 				{% endif %}        
 				</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
