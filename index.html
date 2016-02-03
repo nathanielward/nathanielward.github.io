@@ -3,7 +3,7 @@ layout: default
 ---
 
 	<div class="grid__item one-whole">
-  	{% for post in site.posts %}
+  	{% for post in site.posts limit: 10 %}
 		<article class="post_content">
 
 			<h1>
