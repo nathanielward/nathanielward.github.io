@@ -5,9 +5,4 @@ baseurl: ""
 url: http://www.nathanielward.net
 
 # Build settings
-permalink: "/:year/:month/:title"
-timezone: America/New_York
-markdown: kramdown
-sass:
-    sass_dir: _sass
-    style: compressed
+permalink: /:year/:month/:title
