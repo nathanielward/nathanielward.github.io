@@ -7,7 +7,6 @@ tags:
     - Marketing
     - Branding
 ---
-
 Tobin Aldrich:
 
 > an advertisement should have a primary objective, which is either response or brand building. If the primary purpose of the advertisement is unclear it commonly will fail to achieve either.
