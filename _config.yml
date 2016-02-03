@@ -7,7 +7,6 @@ url: http://www.nathanielward.net
 # Build settings
 permalink: "/:year/:month/:title"
 timezone: America/New_York
-paginate: 5
 markdown: kramdown
 sass:
     sass_dir: _sass
