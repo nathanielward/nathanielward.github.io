@@ -1,10 +1,18 @@
 # Site settings
 title: Nathaniel Ward
-description: "Nathaniel Ward is an online marketer and fundraiser in Washington, DC."
+description: Nathaniel Ward is an online marketer and fundraiser in Washington, DC.
 baseurl: ""
 url: http://www.nathanielward.net
 
 # Build settings
-permalink: "/:year/:month/:title"
+permalink: /:year/:month/:title
+future: false
+gems:
+    - jekyll-paginate
 timezone: America/New_York
+paginate: 5
+paginate_path: "/page:num/"
 markdown: kramdown
+sass:
+    sass_dir: _sass
+    style: compressed
