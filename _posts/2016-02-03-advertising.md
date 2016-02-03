@@ -2,7 +2,6 @@
 title: Pick just one goal for your ad
 author: Nathaniel Ward
 layout: post
-
 ---
 Tobin Aldrich:
 

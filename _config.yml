@@ -6,3 +6,8 @@ url: http://www.nathanielward.net
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:title
+timezone: America/New_York
+sass:
+    sass_dir: _sass
+    style: compressed
