@@ -2,10 +2,7 @@
 title: Pick just one goal for your ad
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Advertising
-    - Marketing
-    - Branding
+
 ---
 Tobin Aldrich:
 
