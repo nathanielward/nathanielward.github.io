@@ -8,6 +8,8 @@ url: http://www.nathanielward.net
 permalink: "/:year/:month/:title"
 future: false
 timezone: America/New_York
+gem:
+    - jekyll-paginate
 paginate: 5
 paginate_path: "/page:num/"
 markdown: kramdown
