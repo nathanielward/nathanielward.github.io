@@ -27,25 +27,7 @@ layout: default
 	{% endfor %}
 	
 	<nav class="pagination">
-	{% if paginator.total_pages > 1 %}
-		<ul>
-		{% if paginator.previous_page %}
-			{% if paginator.previous_page == 1 %}
-			<li><a href="/">&laquo; Previous</a> |</li>
-			{% else %}
-			<li><a href="/page{{ paginator.previous_page }}">&laquo; Previous</a></li>
-			{% endif %}
-		{% else %}
-			<!-- no previous button-->
-		{% endif %}
-		{% if paginator.previous_page and paginator.next_page %}<li>|</li>{% endif %}
-		{% if paginator.next_page %}
-			<li><a href="/page{{ paginator.next_page }}">Next &raquo; </a></li>
-		{% else %}
-			<!-- no next button-->
-		{% endif %}
-		</ul>
-	{% endif %}
+
 	</nav>
 	
 	</div><!-- /one-whole --> 
