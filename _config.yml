@@ -5,9 +5,10 @@ baseurl: ""
 url: http://www.nathanielward.net
 
 # Build settings
+markdown: kramdown
 permalink: /:year/:month/:title
 timezone: America/New_York
-markdown: kramdown
+paginate: 10
 sass:
     sass_dir: _sass
     style: compressed
