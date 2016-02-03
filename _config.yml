@@ -8,7 +8,7 @@ url: http://www.nathanielward.net
 permalink: /:year/:month/:title
 future: false
 timezone: America/New_York
-#paginate: 5
+paginate: 5
 paginate_path: "/page:num/"
 markdown: kramdown
 sass:
