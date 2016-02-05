@@ -5,7 +5,7 @@ baseurl: ""
 url: http://www.nathanielward.net
 
 # Build settings
-permalink: /:year/:month/:title
+permalink: "/:year/:month/:title"
 future: false
 timezone: America/New_York
 paginate: 5
