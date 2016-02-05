@@ -1,17 +1,17 @@
 ---
-title: Are you honoring your subscribers' intentions?
+title: Are you honoring your subscribers’ intentions?
 author: Nathaniel Ward
 excerpt: "Just because someone has signed up to your service doesn’t mean they have agreed to receive email from you," Paul Boag writes.
 layout: post
 linked: http://www.smashingmagazine.com/2013/02/11/how-email-alienate-users/
 categories:
-  - Marketing
-  - What I’m Reading
+    - Marketing
+    - What I’m Reading
 tags:
-  - E-mail
-  - E-mail marketing
-  - Marketing
-  - Online marketing
+    - E-mail
+    - E-mail marketing
+    - Marketing
+    - Online marketing
 ---
 "Just because someone has signed up to your service doesn’t mean they have agreed to receive email from you,” Paul Boag writes.
 
