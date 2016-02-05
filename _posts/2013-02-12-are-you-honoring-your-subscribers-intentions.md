@@ -4,11 +4,6 @@ author: Nathaniel Ward
 excerpt: "Just because someone has signed up to your service doesn’t mean they have agreed to receive email from you," Paul Boag writes.
 layout: post
 linked: http://www.smashingmagazine.com/2013/02/11/how-email-alienate-users/
-tags:
-  - E-mail
-  - E-mail marketing
-  - Marketing
-  - Online marketing
 ---
 "Just because someone has signed up to your service doesn’t mean they have agreed to receive email from you,” Paul Boag writes.
 
