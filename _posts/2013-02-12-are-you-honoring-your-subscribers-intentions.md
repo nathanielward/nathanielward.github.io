@@ -1,5 +1,5 @@
 ---
-title: Are you honoring your subscribers’ intentions?
+title: Are you honoring your subscribers' intentions?
 author: Nathaniel Ward
 excerpt: "Just because someone has signed up to your service doesn’t mean they have agreed to receive email from you," Paul Boag writes.
 layout: post
