@@ -1,0 +1,348 @@
+@charset "utf-8";
+
+$text-color:       	rgba(51, 51, 51, 0.80)!default;
+$header-color:		#333;
+$brand-face:        Lora,Georgia,serif!default;
+$base-font-size:	19px;
+$base-line-height:	27px;
+$base-letter-spacing: 0.1em;
+$header-font:		Oswald,helvetica,arial;
+$code-font:			'Source Code Pro', monospace, sans-serif;
+$h1-size:			2.526em;
+$h2-size:			1.5em;
+$background-color:	#fff;
+$highlight-color:	#f28b10;	// orange
+$link-color:		#084769;	// blue-green
+$link-hover-color:	#032d44;	// dark blue-green
+
+body {
+   padding: 50px 0;
+   font-size: $base-font-size;
+   font-family: $brand-face;
+   font-style: normal;
+   font-weight: 400;
+   color: $text-color;
+}
+
+div.grid {
+   margin: 0 auto;
+   display: block;
+   white-space: nowrap;
+   text-align: center;
+   padding-bottom: $base-line-height;
+   min-height: 100%;
+   width: auto;
+}
+
+div {
+   text-align: left;
+   white-space: normal;
+   vertical-align: top;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   padding: 0 2%;
+   max-width: 40*$base-font-size;
+   width: 40*$base-font-size;
+}
+
+div.grid__item.sidebar {
+	}
+
+.rule {
+	color: $highlight-color;
+	border: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	margin-bottom: $base-line-height;
+	margin-top: 3.5rem;
+	}
+
+.rule--ornament {
+	position: relative
+	}
+
+.rule--ornament:after {
+	content: "\00A7";
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	line-height: 0;
+	text-align: center
+	}
+	
+h1 {
+   font-size: $h1-size;
+   line-height: xxxxxxxxxxx;
+   text-align: center;
+   text-transform: uppercase;
+   font-family: $header-font;
+   font-weight: 400;
+   font-style: normal;
+   color: $header-color;
+   width: 98%;
+   letter-spacing: $base-letter-spacing/2;
+}
+
+h2 {
+   font-size: $h2-size;
+   line-height: $base-line-height;
+   margin: 0px 0px $base-line-height 0px;
+   font-family: $header-font;
+   font-weight: 400;
+   color: $header-color;
+   letter-spacing: $base-letter-spacing/2;
+	}
+
+p, li {
+   font-size: 1em;
+   line-height: $base-line-height;
+   margin: 0px 0px $base-line-height 0px;
+   font-weight: 400;
+   font-style: normal;
+}
+
+// override inuit.css styling
+blockquote{
+    quotes:"";
+	margin:0 2.5em;
+	font-style: italic;
+	
+	i, em {
+		font-style: normal;
+		}
+
+    p:before{
+        content:"";
+        content:"";
+    }
+    p:after{
+        content:"";
+    }
+    p:last-of-type:after{
+        content:"";
+    }
+
+    q:before{
+        content:"";
+    }
+    q:after{
+        content:"";
+    }
+}
+
+blockquote{
+    text-indent:0;
+
+    p:last-of-type{
+    	margin-bottom: 2 * $base-line-height;
+    }
+}
+
+p.meta {
+	font-size: .737em; /* 14px --> 14 / 19 = .737 */
+	line-height: 1.939em; /* 27px --> 27 / 14 = 1.939 */
+	letter-spacing: $base-letter-spacing;
+	margin-top: $base-line-height;
+	text-transform: uppercase;
+}
+
+.unsupervised {
+	font-family: $header-font;
+	font-weight: 300;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: $base-letter-spacing*2;
+	}
+
+	// Decoration
+	.unsupervised:before {
+		content: "\2015";
+		position: relative;
+		top: 0;
+		right: 0;
+		left: 0;
+		line-height: 0;
+		text-align: center
+		}
+
+	.unsupervised:after {
+		content: "\2015";
+		position: relative;
+		top: 0;
+		right: 0;
+		left: 0;
+		line-height: 0;
+		text-align: center
+		}
+
+/*--- LINKS ---*/
+a {
+	color: $link-color;
+	text-decoration:none;
+	}
+
+h1 a, .h2 a, .unsupervised a {
+	color: $header-color;
+	}
+
+a:hover{
+	color: $link-hover-color;
+	}
+
+h1 a:hover, h1 a.permalink:hover { color: $link-color; }
+
+.unsupervised, .post_content h1 {
+	a {
+		color: $text-color;
+		border-bottom: 0px;
+		}
+	a:hover {
+		color: $link-color;
+		border-bottom: 1px dotted $link-color;
+		}
+	}
+
+.post_content, .info, .meta, .sidebar {
+	a {
+		border-bottom: 1px dotted $link-color;
+		}
+	a:hover {
+		border-bottom: 1px solid $link-hover-color;
+		}
+	}
+
+
+
+
+/*--- TYPOGRAPHY ---*/
+.caps, .numbers, abbr {
+	font-size: .737em; /* 14px --> 14 / 19 = .737 */
+	line-height: 1.939em; /* 27px --> 27 / 14 = 1.939 */
+	letter-spacing: $base-letter-spacing; /* per http://www.webtypography.net/Rhythm_and_Proportion/Horizontal_Motion/2.1.6/ */
+	}
+
+.caps .numbers { font-size: 1em; } /* deals with numbers inside caps */
+
+code,kbd,pre,samp{
+	font-family: $code-font;
+	font-weight:300
+	}
+sup,sub{
+	vertical-align:baseline;
+	position:relative;
+	top:-0.4em;
+	font-size:.75em
+	}
+sub{
+	top:0.4em
+	}
+
+strong, b {
+	font-weight: 700;
+	}
+em, i {
+	font-style: italic;
+	}
+
+.meta-ital {
+	text-transform: none;
+	font-style: italic;
+	}
+.count {
+	font-size: 1em;
+	line-height: $base-line-height;
+	}
+.pagination {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	}
+.pagination ul {
+	margin-left: 0;
+	}
+.pagination li, .comment-nav li {
+	display: inline;
+	padding-left: 1em;
+	}
+	
+	.pagination .active {
+		font-weight: bold;
+		}
+
+.comment-form-elements {
+	list-style-type: none;
+	margin: 0;
+
+	li {
+		margin-bottom: $base-line-height;
+		}
+	}
+table {
+	font-family: $brand-face;
+	}
+	
+th {
+	border-top: 1px solid $highlight-color;
+	border-bottom: 1px solid $highlight-color;
+	}
+
+
+
+/*--- MISC ---*/
+
+// ensure iframes expand to fill width
+iframe {
+	//height:auto !important;
+	width:100% !important;
+	}
+
+::selection {
+	background: $highlight-color; /* Safari */
+	}
+::-moz-selection {
+	background: $highlight-color; /* Firefox */
+}
+
+
+
+/*			Narrower screens		*/
+@media only screen and (max-width: 900px) {
+
+	div {
+	   display: block;
+	   margin: 0 auto 8em;
+	   width: 100%;
+	   padding: 0 2em;
+	}
+
+	p.intro {}
+
+	p {}
+		}
+
+/*			Narrowest screens		*/
+@media only screen and (max-width: 480px) {
+
+	body {
+	   font-size: 90%;
+	}
+
+	h1 {
+	   font-size: 3.75em;
+	   line-height: 0.929em;
+	}
+
+	p.intro {
+	}
+
+	p {
+	   font-size: 16px;
+	}
+
+	p.pullquote {
+	   font-size: 16px;
+	}
+}
