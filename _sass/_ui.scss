@@ -311,11 +311,10 @@ iframe {
 /*			Narrower screens		*/
 @media only screen and (max-width: 900px) {
 
-	div {
-	   display: block;
+	div.grid {
 	   margin: 0 auto;
 	   width: 100%;
-	   padding: 0 2em;
+	   padding: 0 1em;
 	}
 
 	p.intro {}
