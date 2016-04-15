@@ -8,7 +8,7 @@ $base-line-height:	27px;
 $base-letter-spacing: 0.1em;
 $header-font:		Oswald,helvetica,arial;
 $code-font:			'Source Code Pro', monospace, sans-serif;
-$h1-size:			2.526em;
+$h1-size:			2.526em;	//48px
 $h2-size:			1.5em;
 $background-color:	#fff;
 $highlight-color:	#f28b10;	// orange
@@ -73,8 +73,8 @@ div.grid__item.sidebar {
 	}
 	
 h1 {
-   font-size: $h1-size;
-   line-height: $base-line-height*4;
+   font-size: $h1-size;						//48px
+   line-height: $base-line-height*2.222;	//60 = 27*2.222
    text-align: center;
    text-transform: uppercase;
    font-family: $header-font;
@@ -326,8 +326,8 @@ iframe {
 @media only screen and (max-width: 480px) {
 
 	h1 {
-	   font-size: 1.75em;	
-	   line-height: 2rem; 	// 54 = 27*2
+	   font-size: 1.789em;	//	34px = 19 * 1.789
+	   line-height: 1.25em; // 	42.5 = 34 * 1.25
 	}
 
 
