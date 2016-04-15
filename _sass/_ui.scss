@@ -136,7 +136,7 @@ blockquote{
     text-indent:0;
 
     p:last-of-type{
-    	margin-bottom: $base-line-height;
+    	margin-bottom: 2 * $base-line-height;
     }
 }
 
@@ -325,10 +325,14 @@ iframe {
 /*			Narrowest screens		*/
 @media only screen and (max-width: 480px) {
 
+	body {
+	   font-size: 90%;
+	}
 
 	h1 {
 	   font-size: 2em;		// 38 = 27*2 = 2em
 	   line-height: 2rem; 	// 54 = 27*2
 	}
+
 
 }
