@@ -311,38 +311,24 @@ iframe {
 /*			Narrower screens		*/
 @media only screen and (max-width: 900px) {
 
-	div.grid__item {
+	div {
 	   display: block;
 	   margin: 0 auto;
 	   width: 100%;
 	   padding: 0 1em;
 	}
+	
+	div.grid {padding: 0}
 
-	p.intro {}
-
-	p {}
-		}
 
 /*			Narrowest screens		*/
 @media only screen and (max-width: 480px) {
 
-	body {
-	   font-size: 90%;
-	}
 
 	h1 {
 	   font-size: 2em;		// 38 = 27*2 = 2em
 	   line-height: 2rem; 	// 54 = 27*2
 	}
 
-	p.intro {
-	}
 
-	p {
-	   font-size: 16px;
-	}
-
-	p.pullquote {
-	   font-size: 16px;
-	}
 }
