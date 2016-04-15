@@ -103,12 +103,16 @@ p, li {
    font-style: normal;
 }
 
-// override inuit.css styling
+
 blockquote{
     quotes:"";
 	margin:0 2.5em;
-	font-style: italic;
-	
+    text-indent:0;
+    
+    p {
+    	font-style: italic;
+    	}
+    	
 	i, em {
 		font-style: normal;
 		}
@@ -116,28 +120,24 @@ blockquote{
     p:before{
         content:"";
         content:"";
-    }
+    	}
     p:after{
         content:"";
-    }
+    	}
     p:last-of-type:after{
         content:"";
-    }
+    	}
 
     q:before{
         content:"";
-    }
+    	}
     q:after{
         content:"";
-    }
-}
-
-blockquote{
-    text-indent:0;
+   	 	}
 
     p:last-of-type{
     	margin-bottom: $base-line-height;
-    }
+    	}
 }
 
 p.meta {
