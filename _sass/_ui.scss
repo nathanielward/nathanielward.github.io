@@ -136,7 +136,7 @@ blockquote{
     text-indent:0;
 
     p:last-of-type{
-    	margin-bottom: 2 * $base-line-height;
+    	margin-bottom: $base-line-height;
     }
 }
 
