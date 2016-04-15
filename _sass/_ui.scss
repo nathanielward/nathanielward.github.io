@@ -74,7 +74,7 @@ div.grid__item.sidebar {
 	
 h1 {
    font-size: $h1-size;
-   line-height: xxxxxxxxxxx;
+   line-height: $base-line-height*4;
    text-align: center;
    text-transform: uppercase;
    font-family: $header-font;
@@ -313,7 +313,7 @@ iframe {
 
 	div {
 	   display: block;
-	   margin: 0 auto 8em;
+	   margin: 0 auto;
 	   width: 100%;
 	   padding: 0 2em;
 	}
@@ -331,8 +331,8 @@ iframe {
 	}
 
 	h1 {
-	   font-size: 3.75em;
-	   line-height: 0.929em;
+	   font-size: 2em;		// 38 = 27*2 = 2em
+	   line-height: 2rem; 	// 54 = 27*2
 	}
 
 	p.intro {
