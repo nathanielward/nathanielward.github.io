@@ -6,7 +6,7 @@ tags:
     - Security
 ---
 
-Quick quiz: When you send out a fundraising email, do you measure its success based on):
+Quick quiz: When you send out a fundraising email, do you measure its success based on:
 
 1. The open rate of the email;
 2. The click rate of the email; or
