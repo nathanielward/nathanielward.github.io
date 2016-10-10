@@ -10,7 +10,7 @@ Most of the time, I can be found at The Heritage Foundation, where I oversee onl
 
 P.S. Opinions expressed on this site are my own.
 
-Get in touch: [Send me a tweet][2]. Or find me on [Facebook][3] or [LinkedIn][4]. 
+I don't have comments enabled, so here's how you can get in touch: [Send me a tweet][2]. Or find me on [Facebook][3] or [LinkedIn][4]. 
 
  [2]: https://twitter.com/?status=Hey,%20@nathanielward%20 "Send me a tweet"
  [3]: https://www.facebook.com/nathanielward "Find me on Facebook"
