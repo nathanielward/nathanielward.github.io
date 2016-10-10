@@ -85,6 +85,27 @@ h1 {
    letter-spacing: $base-letter-spacing/2;
 }
 
+	.intro h1 {
+		text-transform: none;
+		text-align: left;
+		color: $text-color;
+		letter-spacing: 0em;
+		font-weight: 200;
+		}
+	
+	.recent {
+		margin-bottom: 2em;
+		}
+
+	.recent:after {
+		content: "\00BB";
+		padding-left: 0.5em;
+		margin-left: 0.5em;
+		display: inline-block;
+		color: $highlight-color;
+		transform:rotate(90deg);
+		}
+
 h2 {
    font-size: $h2-size;
    line-height: $base-line-height;
@@ -245,6 +266,11 @@ strong, b {
 em, i {
 	font-style: italic;
 	}
+
+	.intro em, intro i {
+		font-style: normal;
+		background-color: rgba($highlight-color, 0.65);
+		}
 
 .meta-ital {
 	text-transform: none;
