@@ -20,7 +20,7 @@ A monarch *reigns in* one of these:
 
 An equestrian *reins in* one of these:
 
-![Horse Reins(/images/2011-04-08_Horse_Flickr_Katford.png)
+![Horse Reins](https://c1.staticflickr.com/1/49/137920587_398465ca40_z.jpg?zz&#x3D;1)
   
 *[Photo: Flickr/​Katford](http://www.flickr.com/photos/katnetzler/137920587/)*
 
