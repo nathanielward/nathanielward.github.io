@@ -1,25 +1,27 @@
 ---
 title: 'Wednesday Links: Is It Liveable If Nobody Wants to Live There?'
-author: Nathaniel Ward
-excerpt: What "liveability" really means; what Jesus would cut; website load times; minimum wage side effects; and more.
-layout: post
+date: 2011-05-11 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Atheism
-  - Burt Folsom
-  - Charity
-  - Christianity
-  - Cities
-  - Liveability
-  - Minimum Wage
-  - Progressivism
-  - redistribution
-  - Regulation
-  - religion
-  - unemployment
-  - Urbanism
-  - Web design
+- Atheism
+- Burt Folsom
+- Charity
+- Christianity
+- Cities
+- Liveability
+- Minimum Wage
+- Progressivism
+- redistribution
+- Regulation
+- religion
+- unemployment
+- Urbanism
+- Web design
+author: Nathaniel Ward
+excerpt: What "liveability" really means; what Jesus would cut; website load times;
+  minimum wage side effects; and more.
+layout: post
 ---
 
   * Why cities that people actually want to live in [aren’t counted as “liveable” cities][1].

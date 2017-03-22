@@ -1,9 +1,10 @@
 ---
 title: How are you using your downtime?
+date: 2016-06-13 00:00:00 -04:00
+tags:
+- Technology
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Technology
 ---
 
 [Teddy Wayne](http://mobile.nytimes.com/2016/06/12/fashion/internet-technology-phones-introspection.html):

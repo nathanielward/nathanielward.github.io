@@ -1,15 +1,18 @@
 ---
 title: Don’t let perfectionism stifle your marketing
-author: Nathaniel Ward
-excerpt: In marketing, our desire to launch the perfect product or the perfect campaign can keep good ideas from seeing the light of day.
-layout: post
+date: 2013-05-07 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - A/B testing
-  - innovation
-  - Testing
+- A/B testing
+- innovation
+- Testing
+author: Nathaniel Ward
+excerpt: In marketing, our desire to launch the perfect product or the perfect campaign
+  can keep good ideas from seeing the light of day.
+layout: post
 ---
+
 When creating software, it’s often worthwhile to prepare a quick-and-dirty demo to see if the concept holds promise, [argues Jason Fried of 37 Signals][1].
 
 But bureaucracy and a need to “get it right the first time” can stifle this sort of innovation, he writes:

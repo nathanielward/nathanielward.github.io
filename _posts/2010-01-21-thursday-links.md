@@ -1,17 +1,19 @@
 ---
 title: Thursday Links
+date: 2010-01-21 00:00:00 -05:00
+categories:
+- What I’m Reading
+tags:
+- Campaign Finance Reform
+- Daniel Larison
+- Foreign Policy
+- Free enterprise
+- Fundraising
+- Supreme Court
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Campaign Finance Reform
-  - Daniel Larison
-  - Foreign Policy
-  - Free enterprise
-  - Fundraising
-  - Supreme Court
 ---
+
 Good news: The Supreme Court has [struck down government restrictions on free speech][1]. Here’s a quick [history of such restrictions][2] and why they haven’t worked.
 
 Bad news: [America’s economy is less free][3] now than it was a year ago.

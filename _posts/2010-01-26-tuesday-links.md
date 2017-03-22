@@ -1,22 +1,24 @@
 ---
 title: Tuesday Links
-author: Nathaniel Ward
-excerpt: "The spending freeze; neoconservatism; Citizens United; and Conan O'Brien."
-layout: post
+date: 2010-01-26 00:00:00 -05:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Campaign Finance Reform
-  - Citizens United
-  - "Conan O'Brien"
-  - Dan Mitchell
-  - Free speech
-  - Ilya Somin
-  - Neoconservatism
-  - Obama
-  - Spending
-  - Yuval Levin
+- Campaign Finance Reform
+- Citizens United
+- Conan O'Brien
+- Dan Mitchell
+- Free speech
+- Ilya Somin
+- Neoconservatism
+- Obama
+- Spending
+- Yuval Levin
+author: Nathaniel Ward
+excerpt: The spending freeze; neoconservatism; Citizens United; and Conan O'Brien.
+layout: post
 ---
+
 President Obama has [proposed a freeze][1] on discretionary, non-entitlement, non-military, non-emergency federal spending. Yuval Levin says this is “[a welcome tiny first step.][2]” Dan Mitchell [is more skeptical][3].
 
 Newsweek says [neoconservatism is alive and kicking][4].

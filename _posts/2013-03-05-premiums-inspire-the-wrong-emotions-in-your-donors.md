@@ -1,17 +1,20 @@
 ---
 title: Premiums inspire the wrong emotions in your donors
+date: 2013-03-05 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- Consumer behavior
+- donations
+- Fundraising
+- Psychology
 author: Nathaniel Ward
-excerpt: Roger Craver points to a new study suggesting that premiums may not lift donations.
+excerpt: Roger Craver points to a new study suggesting that premiums may not lift
+  donations.
 layout: post
 linked: http://www.theagitator.net/hot-research/acquisition-more-on-counterintuitive-effects-of-premiums/
-categories:
-  - Marketing
-tags:
-  - Consumer behavior
-  - donations
-  - Fundraising
-  - Psychology
 ---
+
 Roger Craver points to a new study suggesting that premiums may not lift donations:
 
 > In a paper appearing in the *Journal of Economic Psychology*, [“The counterintuitive effects of thank-you gifts on charitable giving”][1], two Yale University behavioral scientists describe a series of experiments showing that, contrary to expectations, rewarding contributors cuts donations in most circumstances.

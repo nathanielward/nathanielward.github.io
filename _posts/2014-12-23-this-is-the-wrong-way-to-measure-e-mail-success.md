@@ -1,13 +1,15 @@
 ---
 title: This is the wrong way to measure e-mail success
+date: 2014-12-23 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- E-mail
+- E-mail marketing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - E-mail
-  - E-mail marketing
 ---
+
 Campaign Monitor explains [how it selected its 20 top-performing e-mail messages][1]:
 
 > With lists larger than 100,000 email subscribers and email campaigns that get more than 5% click-through rates (CTRs) or open rates exceeding 50%, our Top Performers are great examples of effective email strategy in action.

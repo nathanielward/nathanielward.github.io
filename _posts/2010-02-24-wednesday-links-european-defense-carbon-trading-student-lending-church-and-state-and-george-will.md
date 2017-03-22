@@ -1,22 +1,25 @@
 ---
-title: 'Wednesday Links: European Defense, Carbon Trading, Student Lending, Church and State, and George Will'
+title: 'Wednesday Links: European Defense, Carbon Trading, Student Lending, Church
+  and State, and George Will'
+date: 2010-02-24 00:00:00 -05:00
+categories:
+- What I’m Reading
+tags:
+- Cap-and-Trade
+- Carbon
+- Defense
+- Education
+- Entitlements
+- First_Amendment
+- George Will
+- lending
+- Military
+- religion
+- Robert Gates
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Cap-and-Trade
-  - Carbon
-  - Defense
-  - Education
-  - Entitlements
-  - First_Amendment
-  - George Will
-  - lending
-  - Military
-  - religion
-  - Robert Gates
 ---
+
   * Secretary of Defense Gates [criticizes European governments][1] for failing to provide adequately for their own defense. But it’s little wonder that they don’t manage these things themselves when the United States has for so long offered a security guarantee.
   * [There’s a major flaw in carbon-trading schemes][2], Jeremy Warner argues: no wealth is actually being created by these trades. “Unlike traditional commodities markets, which will eventually involve delivery to someone in physical form, the carbon market is based on lack of delivery of an invisible substance to no-one.”
   * The Obama administration has devised a new way to save money: [stop subsidizing banks that offer student loans][3]. Fair enough. The New York Times reports, however, that the government intends to continue funneling taxpayer money to schools and students and spend the “savings” from the subsidies elsewhere: “the savings would be used to aid early-childhood education, community colleges and needy college students.” Another way to save taxpayers money would be to, you know, not spend it.

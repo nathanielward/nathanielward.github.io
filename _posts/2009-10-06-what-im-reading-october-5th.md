@@ -1,40 +1,42 @@
 ---
-title: 'What I’m Reading  — October 5<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web on October 5th"
-layout: post
+title: What I’m Reading  — October 5<sup>th</sup>
+date: 2009-10-06 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Bailout
-  - Banking
-  - collaboration
-  - crowdsourcing
-  - Delicious
-  - democrats
-  - Economy
-  - European Union
-  - Federal Reserve
-  - Finance
-  - Free enterprise
-  - incentives
-  - Inequality
-  - innovation
-  - ireland
-  - John Thune
-  - lisbon
-  - Marketing
-  - Progressivism
-  - Regulation
-  - Ross_Douthat
-  - Social media
-  - sovereignty
-  - Spending
-  - tarp
-  - Technology
-  - treasury
-  - Treaty
+- Bailout
+- Banking
+- collaboration
+- crowdsourcing
+- Delicious
+- democrats
+- Economy
+- European Union
+- Federal Reserve
+- Finance
+- Free enterprise
+- incentives
+- Inequality
+- innovation
+- ireland
+- John Thune
+- lisbon
+- Marketing
+- Progressivism
+- Regulation
+- Ross_Douthat
+- Social media
+- sovereignty
+- Spending
+- tarp
+- Technology
+- treasury
+- Treaty
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web on October 5th
+layout: post
 ---
+
   * [Fixing ‘Too Big to Fail.’][1] “During the crisis it was often said that officials at the Federal Reserve and Treasury would do ‘whatever it takes’ to avoid a Great Depression. Now they must do whatever it takes to address one of the key causes of the financial crisis: the existence of financial institutions that consider themselves too big to fail – but which are run in such a way that they are bound to do so.”
   * [Why the Left Won’t Really Tackle Inequality.][2] 
   * [Crowds Are Really Individuals.][3] “What really happens in crowdsourcing as it is practiced in wide variety of contexts, from Wikipedia to open source to scientific research, is that a problem is broadcast to a large number of people with varying forms of expertise. Then individuals motivated by obsession, competition, money or all three apply their individual talent to creating a solution.”

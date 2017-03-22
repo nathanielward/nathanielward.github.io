@@ -1,10 +1,12 @@
 ---
 title: 'Wednesday Links: Obamacare and Other Expansions of Government'
+date: 2010-03-24 00:00:00 -04:00
+categories:
+- What I’m Reading
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
 ---
+
 Daniel Larison is [skeptical that there’s a political constituency for repealing Obamacare][1]. He argues that “discontent with the bill will come later as all of its measures take effect after the repeal strategy has been tried and found electorally lacking.” That doesn’t mean it’s not worth trying, though—not least because the Left views this monstrous bill as [merely a first step][2] towards still more federal involvement in health care. [Sen. Jim DeMint’s short-and-sweet bill][3] is a step in the right direction.
 
 Steven Spruiell offers [a three-step guide to socializing an industry][4]: 1) the government subsidizes private firms; 2) the government creates a “public option” to “compete” with the private firms that have grown fat on subsidies; 3) the government federalizes the whole industry on the grounds that the “public option” is cheaper and doesn’t funnel money to private firms. Solution: don’t subsidize industries in the first place.

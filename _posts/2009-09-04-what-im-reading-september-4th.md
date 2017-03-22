@@ -1,29 +1,32 @@
 ---
-title: 'What I’m Reading  — September 4<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from August 31st to September 4th."
-layout: post
+title: What I’m Reading  — September 4<sup>th</sup>
+date: 2009-09-04 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Charles Kessler
-  - Conservatives
-  - Delicious
-  - Education
-  - Founding
-  - labor
-  - Megan McArdle
-  - new york
-  - Obama
-  - Politics and economics
-  - Progressivism
-  - Rail
-  - teachers
-  - Trains
-  - Transportation
-  - travel
-  - Unions
+- Charles Kessler
+- Conservatives
+- Delicious
+- Education
+- Founding
+- labor
+- Megan McArdle
+- new york
+- Obama
+- Politics and economics
+- Progressivism
+- Rail
+- teachers
+- Trains
+- Transportation
+- travel
+- Unions
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from August 31st to
+  September 4th.
+layout: post
 ---
+
   * [Did Big-Government Labor Policies Cause the Depression?][1] 
   * [Charles Kesler on How Conservatives Can Get Back on Track.][2] “It is necessary to reground our conservatism in [America’s] revolutionary [Founding] principles, but it will not be sufficient. Although conservatives cannot remedy America’s problems without them, our principles need to be explained in a contemporary idiom and applied prudently to our present circumstances. That requires, for want of a more comprehensive word, statesmanship. ”
   * [Why High-Speed Rail Won’t Catch on in America.][3] Geography, scheduling and personal preference means air travel will likely dominate in most of the country, Megan McArdle argues.

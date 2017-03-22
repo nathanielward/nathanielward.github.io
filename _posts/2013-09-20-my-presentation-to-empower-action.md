@@ -1,15 +1,17 @@
 ---
 title: My presentation to Empower Action
+date: 2013-09-20 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Marketing
+- Online fundraising
+- Online marketing
+- Optimization
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Marketing
-  - Online fundraising
-  - Online marketing
-  - Optimization
 ---
+
 The three most important lessons online fundraisers should keep in mind are:
 
   1. Don’t trust your gut instincts

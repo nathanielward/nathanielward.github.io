@@ -1,20 +1,24 @@
 ---
 title: What Does ‘Equal Rights’ Mean?
-author: Nathaniel Ward
-excerpt: The concept of rights has been turned upside-down in recent years, as the traditional notion of natural rights inhering in the individual has been replaced with a Progressive understanding of rights emanating from the state.
-layout: post
+date: 2009-04-10 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - discrimination
-  - Entitlements
-  - equality
-  - gay rights
-  - Natural Rights
-  - Progressivism
-  - rights
-  - Rule of Law
+- discrimination
+- Entitlements
+- equality
+- gay rights
+- Natural Rights
+- Progressivism
+- rights
+- Rule of Law
+author: Nathaniel Ward
+excerpt: The concept of rights has been turned upside-down in recent years, as the
+  traditional notion of natural rights inhering in the individual has been replaced
+  with a Progressive understanding of rights emanating from the state.
+layout: post
 ---
+
 The concept of rights has been turned upside-down in recent years, as the traditional notion of natural rights inhering in the individual has been replaced with a Progressive understanding of rights emanating from the state.
 
 [The Washington Post reports][1], for example, that “gay groups and liberal legal scholars say they are prevailing” in lawsuits against private individuals and companies that do not offer services to homosexuals “because an individual’s religious views about homosexuality cannot be used to violate gays’ right to equal treatment under the law.” The article cites several businesses, including a psychologist and a photographer, that have been penalized in the courts for offering their services only to heterosexuals. And it accepts that there is a fundamental “right to be free from discrimination” that clashes with other, more traditional rights.

@@ -1,19 +1,22 @@
 ---
 title: Are you ready for the mobile consumer?
-author: Nathaniel Ward
-excerpt: You need to make sure your users can access your content no matter what device they might be using.
-layout: post
+date: 2012-09-10 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Google
-  - Mobile
-  - Multi-channel marketing
-  - Online marketing
-  - Optimization
-  - Usability
-  - Web design
+- Google
+- Mobile
+- Multi-channel marketing
+- Online marketing
+- Optimization
+- Usability
+- Web design
+author: Nathaniel Ward
+excerpt: You need to make sure your users can access your content no matter what device
+  they might be using.
+layout: post
 ---
+
 Google has released [a fascinating new study][1] about how people use their various screens–televisions, phones, tablets, desktops, and so forth–throughout the day.
 
 ![Smart phones are the most common starting place for online activities.][2]

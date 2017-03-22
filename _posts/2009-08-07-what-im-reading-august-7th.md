@@ -1,26 +1,29 @@
 ---
-title: 'What I’m Reading  — August 7<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from August 2nd to August 7th."
-layout: post
+title: What I’m Reading  — August 7<sup>th</sup>
+date: 2009-08-07 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Canada
-  - Delicious
-  - Europe
-  - Health
-  - Healthcare
-  - history
-  - homeless
-  - john quincy adams
-  - Obama
-  - Poland
-  - presidents
-  - social_media
-  - socialism
-  - twitter
+- Canada
+- Delicious
+- Europe
+- Health
+- Healthcare
+- history
+- homeless
+- john quincy adams
+- Obama
+- Poland
+- presidents
+- social_media
+- socialism
+- twitter
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from August 2nd to August
+  7th.
+layout: post
 ---
+
   * [John Quincy Adams Starts Tweeting.][1] Very clever.
   * [Is American Health Care Really Worse Than Europe’s?][2] 
   * [A Curious Task for the Homeless.][3] Homeless men in Poland are building a ship. Might their energy be better directed at securing employment or a permanent residence?

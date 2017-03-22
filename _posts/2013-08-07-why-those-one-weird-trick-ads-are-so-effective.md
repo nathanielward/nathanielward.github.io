@@ -1,16 +1,19 @@
 ---
 title: Why those ‘one weird trick’ ads are so effective
-author: Nathaniel Ward
-excerpt: The "one weird trick" ads and their absurd-looking landing pages work well because they focus on human psychology.
-layout: post
+date: 2013-08-07 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Advertising
-  - Marketing
-  - Online marketing
-  - Psychology
+- Advertising
+- Marketing
+- Online marketing
+- Psychology
+author: Nathaniel Ward
+excerpt: The "one weird trick" ads and their absurd-looking landing pages work well
+  because they focus on human psychology.
+layout: post
 ---
+
 The “one weird trick” ads and their absurd-looking landing pages [work well because they focus on human psychology][1], Alex Kaufman reports:
 
 "Research on persuasion shows the more arguments you list in favor of something, regardless of the quality of those arguments, the more that people tend to believe it,” [Harvard marketing professor Michael] Norton says. “Mainstream ads sometimes use long lists of bullet points—people don’t read them, but it’s persuasive to know there are so many reasons to buy.” OK, but if more is better, then why only *one* trick? “People want a simple solution that has a ton of support.”

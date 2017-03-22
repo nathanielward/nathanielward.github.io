@@ -1,19 +1,22 @@
 ---
 title: Get out of your visitors’ way
-author: Nathaniel Ward
-excerpt: If you design web pages or write for the web, you need to stop getting in your site visitors’ way. In other words, you should eliminate friction from your pages.
-layout: post
+date: 2013-02-23 00:00:00 -05:00
 categories:
-  - Marketing
-  - What I’m Reading
+- Marketing
+- What I’m Reading
 tags:
-  - Copywriting
-  - Design
-  - Friction
-  - Usability
-  - UX
-  - Web design
-  - Writing
+- Copywriting
+- Design
+- Friction
+- Usability
+- UX
+- Web design
+- Writing
+author: Nathaniel Ward
+excerpt: If you design web pages or write for the web, you need to stop getting in
+  your site visitors’ way. In other words, you should eliminate friction from your
+  pages.
+layout: post
 ---
 
 If you design web pages or write for the web, you need to stop getting in your site visitors’ way, [Pamela Wilson explains in a smart post at Copyblogger][1].

@@ -1,14 +1,16 @@
 ---
 title: I’ve probably made all of these A/​B testing mistakes
+date: 2014-01-21 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Optimization
+- Testing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Optimization
-  - Testing
 ---
+
 Peep Laja identifies [eleven common A/​B testing mistakes][1] (his headline says twelve, but the article is missing a ninth item):
 
   1. A/​B tests are called early

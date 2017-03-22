@@ -1,21 +1,23 @@
 ---
 title: Why Groupon and LivingSocial are having problems
+date: 2012-12-03 00:00:00 -05:00
+categories:
+- Marketing
+- What I’m Reading
+tags:
+- Coupons
+- Deal sites
+- Groupon
+- LivingSocial
+- Marketing
+- Megan McArdle
+- Online marketing
+- Pricing
 author: Nathaniel Ward
 layout: post
 linked: http://www.thedailybeast.com/articles/2012/11/30/trouble-in-coupon-land.html
-categories:
-  - Marketing
-  - What I’m Reading
-tags:
-  - Coupons
-  - Deal sites
-  - Groupon
-  - LivingSocial
-  - Marketing
-  - Megan McArdle
-  - Online marketing
-  - Pricing
 ---
+
 Megan McArdle:
 
 > As far as I can tell, small businesses viewed Groupons largely as the former: you give away your product near cost, and gain new customers from Groupon’s huge mailing list.

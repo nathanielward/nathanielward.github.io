@@ -1,15 +1,17 @@
 ---
 title: What you should remember when running A/​B tests
-author: Nathaniel Ward
-excerpt: "A/B testing can help you make great leaps in optimizing your online marketing, but it's not a panacea. Peep Laja offers three useful warnings."
-layout: post
+date: 2012-12-12 00:00:00 -05:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - A/B testing
-  - Marketing
-  - Optimization
-  - Testing
+- A/B testing
+- Marketing
+- Optimization
+- Testing
+author: Nathaniel Ward
+excerpt: A/B testing can help you make great leaps in optimizing your online marketing,
+  but it's not a panacea. Peep Laja offers three useful warnings.
+layout: post
 ---
 
 A/​B testing can help you make great leaps in optimizing your online marketing, but it’s not a panacea. It requires a lot of measurement, commitment and patience.

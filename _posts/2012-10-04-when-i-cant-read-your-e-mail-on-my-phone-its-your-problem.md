@@ -1,17 +1,20 @@
 ---
 title: When I can’t read your e-mail on my phone, it’s your problem
-author: Nathaniel Ward
-excerpt: "Mobile is something online marketers have to get right. You lose a lot when you send people messages they can't use and promote sites they can't read."
-layout: post
+date: 2012-10-04 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - E-mail
-  - E-mail marketing
-  - Mobile
-  - Responsive design
-  - Smashing Magazine
+- E-mail
+- E-mail marketing
+- Mobile
+- Responsive design
+- Smashing Magazine
+author: Nathaniel Ward
+excerpt: Mobile is something online marketers have to get right. You lose a lot when
+  you send people messages they can't use and promote sites they can't read.
+layout: post
 ---
+
 If I give up reading the promotional e-mail you sent me because I have to squint to make out what it says on my phone, that’s a problem.
 
 If I abandon your website because I have to keep zooming in and out on my phone to navigate, that’s a problem.

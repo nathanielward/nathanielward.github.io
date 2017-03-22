@@ -1,20 +1,21 @@
 ---
 title: Online fundraising best practices that simply don’t work
+date: 2012-06-13 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Fundraising
+- Marketing Sherpa
+- MECLABS
+- Online fundraising
+- Online marketing
+- Optimization
+- Presentation
+- Slides
+- Talks
+- Tim Kachuriak
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Fundraising
-  - Marketing Sherpa
-  - MECLABS
-  - Online fundraising
-  - Online marketing
-  - Optimization
-  - Presentation
-  - Slides
-  - Talks
-  - Tim Kachuriak
 ---
 
 Should you follow “best practices” when designing your online fundraising campaigns?

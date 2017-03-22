@@ -1,14 +1,16 @@
 ---
 title: Why I started using Todoist to manage my tasks
+date: 2015-01-20 00:00:00 -05:00
+categories:
+- Miscellany
+tags:
+- organization
+- Productivity
+- Tasks
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - organization
-  - Productivity
-  - Tasks
 ---
+
 I’m a big believer staying organized, especially the Getting Things Done approach to organization. I maintain a single task list for both work and personal to-dos, and make every effort to keep my inbox at zero. And to ensure my task list is always handy wherever I am, I manage it electronically.
 
 Since 2008, I have used [Remember the Milk][1] to maintain my task list. It allows me to organize my tasks by project, tag, due date, and location, and its real-time sync lets me add and complete tasks from anywhere. Better yet, <span class="caps">RTM</span> offers an unparalleled quick-add feature: typing in a single field, I can create a task, set a due date, add it to a project, set its location, and assign tags.

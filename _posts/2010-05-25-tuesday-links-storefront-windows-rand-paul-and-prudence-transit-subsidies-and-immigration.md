@@ -1,22 +1,27 @@
 ---
-title: 'Tuesday Links: Storefront Windows, Rand Paul and Prudence, Transit Subsidies, and Immigration'
-author: Nathaniel Ward
-excerpt: |
-  Would urban retail perform better with more inviting windows? Plus: Rand Paul and prudence; whether and how to reduce federal workers' transit subsidies; spending "cuts"; and a video on Arizona's immigration law.
-layout: post
+title: 'Tuesday Links: Storefront Windows, Rand Paul and Prudence, Transit Subsidies,
+  and Immigration'
+date: 2010-05-25 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Arizona
-  - District of Columbia
-  - Immigration
-  - Rand Paul
-  - Ross Douthat
-  - Spending
-  - Subsidies
-  - Transit
-  - Urbanism
-  - Video
+- Arizona
+- District of Columbia
+- Immigration
+- Rand Paul
+- Ross Douthat
+- Spending
+- Subsidies
+- Transit
+- Urbanism
+- Video
+author: Nathaniel Ward
+excerpt: 'Would urban retail perform better with more inviting windows? Plus: Rand
+  Paul and prudence; whether and how to reduce federal workers'' transit subsidies;
+  spending "cuts"; and a video on Arizona''s immigration law.
+
+'
+layout: post
 ---
 
 [Window-shopping isn’t what it used to be][1], Philip Kennicott explains in the *Washington Post*. In an effort to maximize shelf space, all too many D.C. retailers like CVS block their windows, which reduces engagement with passers-by. I wonder: have retailers ever tested whether an engaging, inviting storefront might improve sales and offset revenues from lost shelving? ([via GGW][2]).

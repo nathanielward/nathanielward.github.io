@@ -1,16 +1,19 @@
 ---
-title: 'Monday links: Focus on customer needs; cutting friction; content is not medium; small changes with big effects'
+title: 'Monday links: Focus on customer needs; cutting friction; content is not medium;
+  small changes with big effects'
+date: 2013-03-25 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Copywriting
+- Friction
+- Online marketing
+- Optimization
 author: Nathaniel Ward
 excerpt: Some links to start your work week.
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Copywriting
-  - Friction
-  - Online marketing
-  - Optimization
 ---
+
 Some links to start your work week:
 
   * **Focus your copy on what your customers need. **Nathan Berry walks us through his [landing page copywriting process][1] and reminds us that our copy should speak to our visitors’ needs and address a pain they have. His suggestion: “First write out the pains, then write out the reversal of those pains (dreams).”

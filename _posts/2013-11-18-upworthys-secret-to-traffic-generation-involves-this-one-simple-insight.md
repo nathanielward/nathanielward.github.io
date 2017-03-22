@@ -1,16 +1,18 @@
 ---
 title: Upworthy’s secret to traffic generation involves this one simple insight
+date: 2013-11-18 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- Copywriting
+- Marketing
+- Online marketing
+- Optimization
+- Psychology
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Copywriting
-  - Marketing
-  - Online marketing
-  - Optimization
-  - Psychology
 ---
+
 Upworthy succeeds in driving piles of traffic not because because it uses some sophisticated new technology.
 
 Upworthy succeeds because it recognizes that its readers are human beings, not abstract “traffic” or “eyeballs.” This is an old technique applied to the web.

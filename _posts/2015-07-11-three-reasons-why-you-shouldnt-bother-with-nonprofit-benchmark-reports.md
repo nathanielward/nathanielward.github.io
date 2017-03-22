@@ -1,10 +1,12 @@
 ---
 title: Three reasons why you shouldn’t bother with nonprofit benchmark reports
+date: 2015-07-11 00:00:00 -04:00
+categories:
+- What I’m Reading
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
 ---
+
 If you wanted to see how your nonprofit’s fundraising stacks up to “industry standards,” you’d likely turn to a benchmark report like [the M+R 2015 Benchmark report][1].
 
 That’s fine if you know what you’re looking at. But nonprofit benchmark reports have several flaws, and if you’re not careful you can draw the wrong conclusions.

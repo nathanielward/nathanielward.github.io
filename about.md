@@ -1,8 +1,9 @@
 ---
 title: About Nathaniel Ward
+permalink: "/about/"
 layout: page
-permalink: /about/
 ---
+
 I am an online marketer in my hometown of Washington, D.C.
 
 A frequent speaker on online marketing and optimization, including at the Marketing Sherpa Optimization Summit, the Direct Marketing Association Nonprofit Conference, and the Leadership Institute, I oversee online fundraising at The Heritage Foundation.

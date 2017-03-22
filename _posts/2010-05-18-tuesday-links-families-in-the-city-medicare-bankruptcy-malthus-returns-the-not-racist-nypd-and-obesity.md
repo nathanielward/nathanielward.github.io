@@ -1,30 +1,35 @@
 ---
-title: 'Tuesday Links: Families in the City, Medicare Bankruptcy, Malthus Returns, the Not-Racist NYPD, and Obesity'
-author: Nathaniel Ward
-excerpt: |
-  Families are increasingly living in cities, and conservatives need to offer them solutions; Medicare's false "savings"; Mother Jones finds much to love in Thomas Malthus; why the NYPD isn't racist; and whether obesity is really a problem.
-layout: post
+title: 'Tuesday Links: Families in the City, Medicare Bankruptcy, Malthus Returns,
+  the Not-Racist NYPD, and Obesity'
+date: 2010-05-18 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Children
-  - Cities
-  - Economy
-  - Families
-  - Growth
-  - Health
-  - Heather Mac Donald
-  - Malthus
-  - Medicare
-  - Megan_McArdle
-  - Mother Jones
-  - Obamacare
-  - Obesity
-  - Police
-  - Population
-  - Racism
-  - Sustainability
-  - Urbanism
+- Children
+- Cities
+- Economy
+- Families
+- Growth
+- Health
+- Heather Mac Donald
+- Malthus
+- Medicare
+- Megan_McArdle
+- Mother Jones
+- Obamacare
+- Obesity
+- Police
+- Population
+- Racism
+- Sustainability
+- Urbanism
+author: Nathaniel Ward
+excerpt: 'Families are increasingly living in cities, and conservatives need to offer
+  them solutions; Medicare''s false "savings"; Mother Jones finds much to love in
+  Thomas Malthus; why the NYPD isn''t racist; and whether obesity is really a problem.
+
+'
+layout: post
 ---
 
 [Cities like New York and Washington are undergoing something of a baby boom](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/15/AR2010051503637.html?hpid=topnews) as families increasingly settle in urban areas instead of the suburbs. This demographic development is causing new sorts of problems—like the relative unfriendliness of some city services to children—and conservatives need to be ready with real policy solutions for these young families.

@@ -1,11 +1,12 @@
 ---
 title: The importance of good customer service
+date: 2015-05-07 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Customer service
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Customer service
 ---
 
 Customer service is a critical part of your customers’ interaction with your company. It’s not just about the product you sell.

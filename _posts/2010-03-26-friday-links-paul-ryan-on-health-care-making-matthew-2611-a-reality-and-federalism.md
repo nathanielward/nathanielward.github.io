@@ -1,21 +1,26 @@
 ---
-title: 'Friday Links: Paul Ryan on Health Care, Making Matthew 26:11 a Reality and Federalism'
-author: Nathaniel Ward
-excerpt: "A conservative strategy for health care reform now that Obamacare is law; the administration's new poverty definition; and how even progressives can love federalism."
-layout: post
+title: 'Friday Links: Paul Ryan on Health Care, Making Matthew 26:11 a Reality and
+  Federalism'
+date: 2010-03-26 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Citizens United
-  - Federalism
-  - Free speech
-  - George W. Bush
-  - Health Care
-  - Obamacare
-  - Paul Ryan
-  - Poverty
-  - Repeal
+- Citizens United
+- Federalism
+- Free speech
+- George W. Bush
+- Health Care
+- Obamacare
+- Paul Ryan
+- Poverty
+- Repeal
+author: Nathaniel Ward
+excerpt: A conservative strategy for health care reform now that Obamacare is law;
+  the administration's new poverty definition; and how even progressives can love
+  federalism.
+layout: post
 ---
+
 Rep. Paul Ryan has an important article in the *New York Times* [making the case not only for repealing Obamacare but for replacing it][1]. “It is not sufficient,” he argues, “for those of us in the opposition to await a reversal of political fortune months or years from now before we advance action on health care reform.” To build a system that puts patients first, not bureaucrats, he favors “attaching tax benefits to the individual rather than the job” and enabling state-based reforms like risk pools to manage pre-existing conditions.
 
 The government seems determined to enforce [Matthew 26:11][2]. A new poverty metric would count as poor not those living in real destitution but those living in [relative destitution][3].

@@ -1,11 +1,13 @@
 ---
 title: How to hire
+date: 2016-01-16 00:00:00 -05:00
+tags:
+- Management
 author: Nathaniel Ward
 layout: post
 linked: https://medium.com/swlh/how-to-hire-34f4ded5f176#.m0e6i7qpt
-tags:
-    - Management
 ---
+
 Henry Ward (no relation) explains his principles for hiring an excellent team:
 
 > 1. Hire for Strength vs Lack of Weakness

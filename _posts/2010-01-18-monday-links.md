@@ -1,22 +1,25 @@
 ---
 title: Monday Links
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from January 14th to January 18th."
-layout: post
+date: 2010-01-18 00:00:00 -05:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Auguste Comte
-  - Big Government
-  - Data
-  - Delicious
-  - Humanism
-  - James_Ceasar
-  - Obama
-  - Politics and economics
-  - religion
-  - Statistics
+- Auguste Comte
+- Big Government
+- Data
+- Delicious
+- Humanism
+- James_Ceasar
+- Obama
+- Politics and economics
+- religion
+- Statistics
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from January 14th to
+  January 18th.
+layout: post
 ---
+
 [][1]James Ceasar explains how [the passion for Obama can be traced to radical thinking][2] about replacing traditional religion with a “Religion of Humanity.”
 
 What happens when science becomes politicized? [The truth is sacrificed to the “greater good.”][3]

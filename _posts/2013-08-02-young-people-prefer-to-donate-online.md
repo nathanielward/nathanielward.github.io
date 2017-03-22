@@ -1,21 +1,23 @@
 ---
 title: Young people prefer to donate online
+date: 2013-08-02 00:00:00 -04:00
+categories:
+- Marketing
+- What I’m Reading
+tags:
+- Charity
+- Consumer behavior
+- Direct mail
+- Fundraising
+- Marketing
+- Millennials
+- Non-Profit
+- Online fundraising
+- Online marketing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-  - What I’m Reading
-tags:
-  - Charity
-  - Consumer behavior
-  - Direct mail
-  - Fundraising
-  - Marketing
-  - Millennials
-  - Non-Profit
-  - Online fundraising
-  - Online marketing
 ---
+
 This, from [a survey of young donors][1], should come as no surprise:
 
 > The donors also prefer to give online, with 84 percent saying they want to give through a Web site. The second most-popular way to give, with only 48 percent of donors, was to make a donation in person at an event.

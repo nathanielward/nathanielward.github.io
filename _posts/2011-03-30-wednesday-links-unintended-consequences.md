@@ -1,21 +1,23 @@
 ---
 title: 'Wednesday Links: Unintended Consequences'
+date: 2011-03-30 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Bailout
+- Civil Society
+- CSS
+- Dependency
+- Housing
+- HTML
+- Humor
+- Taxes
+- Video
+- Web standards
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Bailout
-  - Civil Society
-  - CSS
-  - Dependency
-  - Housing
-  - HTML
-  - Humor
-  - Taxes
-  - Video
-  - Web standards
 ---
+
   * Ryan Messmore warns that President Obama’s tax proposals [might dampen charitable contributions][1] and thereby increase dependence on government.
   * Whoever would have thought that [a billion-dollar bailout program wouldn’t work as expected][2]?
   * Adam Schroder’s [5 Steps to HTML5][3] showcases—and explains—some of the new features designers can build into their sites using HTML5 and CSS3.

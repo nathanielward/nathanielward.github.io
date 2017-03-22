@@ -1,23 +1,24 @@
 ---
 title: 'Wednesday Links: Playoff Hockey'
+date: 2011-04-20 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Alexander Semin
+- Bureaucracy
+- Capitals
+- Copywriting
+- District of Columbia
+- Eminent Domain
+- Free enterprise
+- Hockey
+- Human Nature
+- Risk
+- Sexism
+- Statistics
+- Urbanism
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Alexander Semin
-  - Bureaucracy
-  - Capitals
-  - Copywriting
-  - District of Columbia
-  - Eminent Domain
-  - Free enterprise
-  - Hockey
-  - Human Nature
-  - Risk
-  - Sexism
-  - Statistics
-  - Urbanism
 ---
 
   * Which Alex Semin will show up in the playoffs? I hope it’s [this one][1].

@@ -1,17 +1,19 @@
 ---
 title: Short copy isn’t the only route to raising money online
+date: 2012-06-09 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Copywriting
+- Fundraising
+- Heritage Foundation
+- Online marketing
+- Writing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Copywriting
-  - Fundraising
-  - Heritage Foundation
-  - Online marketing
-  - Writing
 ---
+
 Over at Future Fundraising Now, Jeff Brooks argues that [online fundraisers shouldn’t scare off donors with long copy][1]:
 
 > On the web, keep your copy short, simple, repetitive and easy to read (short paragraphs, short sentences, small words). Zoom ahead to the action you want readers to take. Skip the philosophical foundations — you can get to that later if you manage to stir them to action now.

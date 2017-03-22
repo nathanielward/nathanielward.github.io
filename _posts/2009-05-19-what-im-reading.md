@@ -1,28 +1,30 @@
 ---
 title: What I’m Reading
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web on May 19th."
-layout: post
+date: 2009-05-19 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Auto
-  - Club for Growth
-  - David Freddoso
-  - Delicious
-  - Detroit
-  - fml
-  - food
-  - fuel_efficiency
-  - globalwarming
-  - GOP
-  - labeling
-  - Obama
-  - Overregulation
-  - parody
-  - Social media
-  - Tom Harkin
+- Auto
+- Club for Growth
+- David Freddoso
+- Delicious
+- Detroit
+- fml
+- food
+- fuel_efficiency
+- globalwarming
+- GOP
+- labeling
+- Obama
+- Overregulation
+- parody
+- Social media
+- Tom Harkin
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web on May 19th.
+layout: post
 ---
+
   * [MyLifeIsAverage][1]  
     An amusing response to FML.
   * [The auto industry, now run by the people who brought you the DMV][2]  

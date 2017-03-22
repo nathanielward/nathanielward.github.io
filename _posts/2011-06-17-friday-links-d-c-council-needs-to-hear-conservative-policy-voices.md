@@ -1,21 +1,22 @@
 ---
 title: 'Friday links: D.C. Council needs to hear conservative policy voices'
+date: 2011-06-17 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Conan O'Brien
+- Conservatism
+- District of Columbia
+- Federalism
+- food
+- Fundraising
+- Politics and economics
+- Spending
+- Transit
+- Transportation
+- Washington
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - "Conan O'Brien"
-  - Conservatism
-  - District of Columbia
-  - Federalism
-  - food
-  - Fundraising
-  - Politics and economics
-  - Spending
-  - Transit
-  - Transportation
-  - Washington
 ---
 
   * Lydia DePillis says Washington, D.C. needs [a fiscally-conservative alternative to the lefty D.C. Fiscal Policy Institute][1], the only think tank focused on the city’s local government.

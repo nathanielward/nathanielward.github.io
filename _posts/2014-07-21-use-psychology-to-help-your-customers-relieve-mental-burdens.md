@@ -1,14 +1,17 @@
 ---
 title: Use psychology to help your customers relieve mental burdens
-author: Nathaniel Ward
-excerpt: "Here's some fascinating behavioral research. Savvy marketers will use this knowledge to help their customers relieve mental burdens."
-layout: post
+date: 2014-07-21 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Marketing
-  - Psychology
+- Marketing
+- Psychology
+author: Nathaniel Ward
+excerpt: Here's some fascinating behavioral research. Savvy marketers will use this
+  knowledge to help their customers relieve mental burdens.
+layout: post
 ---
+
 [Here’s some fascinating behavioral research][1]:
 
 > Through the experiments, the researchers homed in on a hypothesis: People appear wired to incur a significant physical cost to eliminate a mental burden.

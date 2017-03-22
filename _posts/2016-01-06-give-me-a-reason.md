@@ -1,11 +1,13 @@
 ---
 title: Give me a reason to buy from you
+date: 2016-01-06 00:00:00 -05:00
+tags:
+- Marketing
+- Peep Laja
 author: Nathaniel Ward
 layout: post
-tags:
-    - Marketing
-    - Peep Laja
 ---
+
 I was shopping around online recently for a finance app. Nearly every app's website listed the same set of features: I can import transactions from my bank; I can set budgets; I can use a mobile app.
 
 Almost none of the apps' websites explained *why their product was better than the other guy's*. They didn't distinguish themselves on reliability, trustedness, ease of use, popularity, or much else.

@@ -1,20 +1,23 @@
 ---
 title: 'Saturday Links: Herding Googlers'
-author: Nathaniel Ward
-excerpt: "Google researchers discover that good management is the key to good management. Also, Slate investigates pickpocketing; how to redistrict the District; and Remy's new video for Reason.tv."
-layout: post
+date: 2011-03-26 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Crime
-  - Google
-  - Management
-  - Police
-  - Remy
-  - Search
-  - SEO
-  - Video
-  - Washington
+- Crime
+- Google
+- Management
+- Police
+- Remy
+- Search
+- SEO
+- Video
+- Washington
+author: Nathaniel Ward
+excerpt: Google researchers discover that good management is the key to good management.
+  Also, Slate investigates pickpocketing; how to redistrict the District; and Remy's
+  new video for Reason.tv.
+layout: post
 ---
 
   * Google researchers discovered that technical ability isn’t what makes a good manager. [Instead it’s, well, being a good manager][1]. “What employees valued most were even-keeled bosses who made time for one-on-one meetings, who helped people puzzle through problems by asking questions, not dictating answers, and who took an interest in employees’ lives and careers.” [A neat infographic][2] explains Google’s criteria.

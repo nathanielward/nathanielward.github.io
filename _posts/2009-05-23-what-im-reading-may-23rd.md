@@ -1,24 +1,26 @@
 ---
-title: 'What I’m Reading  — May 23<sup>rd</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web on May 23rd"
-layout: post
+title: What I’m Reading  — May 23<sup>rd</sup>
+date: 2009-05-23 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - currency
-  - Delicious
-  - Design
-  - E-mail
-  - lawyers
-  - maps
-  - Redskins
-  - reply_all
-  - Subway
-  - Transit
-  - Transportation
-  - urban
+- currency
+- Delicious
+- Design
+- E-mail
+- lawyers
+- maps
+- Redskins
+- reply_all
+- Subway
+- Transit
+- Transportation
+- urban
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web on May 23rd
+layout: post
 ---
+
   * [Redesigning the Dollar][1] I rather like our current designs, but these are certainly interesting takes on the greenbacks.
   * [Subway maps to scale.][2] An interesting comparison of worldwide transit systems.
   * [How not to ingratiate yourself with your employer.][3]

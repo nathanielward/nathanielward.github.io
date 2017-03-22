@@ -1,28 +1,31 @@
 ---
-title: 'What I’m Reading  — August 30<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from August 27th to August 30th."
-layout: post
+title: What I’m Reading  — August 30<sup>th</sup>
+date: 2009-08-31 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Arts
-  - Atlantic
-  - Books
-  - Conservatism
-  - Culture
-  - Delicious
-  - Government
-  - Health
-  - Health Care
-  - liberalism
-  - market
-  - nea
-  - new_criterion
-  - Obama
-  - Progressivism
-  - What I’m Reading
+- Arts
+- Atlantic
+- Books
+- Conservatism
+- Culture
+- Delicious
+- Government
+- Health
+- Health Care
+- liberalism
+- market
+- nea
+- new_criterion
+- Obama
+- Progressivism
+- What I’m Reading
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from August 27th to
+  August 30th.
+layout: post
 ---
+
   * [100 Must-Read Books: The Essential Man’s Library.][1] 
   * [How Consumer-Based Reforms Can Fix What Ails Health Care.][2] David Goldhill on how the current system fails us and what to do about it. “The most important single step we can take toward truly reforming our system is to move away from comprehensive health insurance as the single model for financing care. And a guiding principle of any reform should be to put the consumer, not the insurer or the government, at the center of the system.”
   * [Is Conservatism Dead?][3] “Like the liberal writers of the 1950s, Tanenhaus wants to see a conservative movement that accommodates rather than opposes liberalism, and thus one that will accept its role as subordinate to the dominant liberal tradition in American life.”

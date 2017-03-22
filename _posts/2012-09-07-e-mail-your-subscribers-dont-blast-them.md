@@ -1,16 +1,18 @@
 ---
 title: E-mail your subscribers, don’t blast them
-author: Nathaniel Ward
-excerpt: "Way too many e-mail marketers treat their subscribers as an anonymous mass of people to bombard with 'e-mail blasts.'"
-layout: post
+date: 2012-09-07 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - E-mail
-  - E-mail marketing
-  - Marketing
-  - Online marketing
-  - Personalization
+- E-mail
+- E-mail marketing
+- Marketing
+- Online marketing
+- Personalization
+author: Nathaniel Ward
+excerpt: Way too many e-mail marketers treat their subscribers as an anonymous mass
+  of people to bombard with 'e-mail blasts.'
+layout: post
 ---
 
 Are your e-mail subscribers human beings?

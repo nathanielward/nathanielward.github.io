@@ -1,13 +1,15 @@
 ---
-title: '‘Reign In’ vs. ‘Rein In’: A Visual Guide'
+title: "‘Reign In’ vs. ‘Rein In’: A Visual Guide"
+date: 2011-04-08 00:00:00 -04:00
+categories:
+- Miscellany
+tags:
+- Copywriting
+- Grammar
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - Copywriting
-  - Grammar
 ---
+
 At a time when Congress is trying to cut federal spending, political reporters often [confuse][1] two [homophones][2] and write “reign in spending” instead of “rein in spending.”
 
 Here’s a visual guide to help writers distinguish the two.<!--more-->

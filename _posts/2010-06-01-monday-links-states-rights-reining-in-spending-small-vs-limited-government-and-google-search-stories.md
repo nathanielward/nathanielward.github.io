@@ -1,20 +1,22 @@
 ---
-title: 'Monday Links: ‘States’ Rights,’ Reining in Spending, Small vs. Limited Government, and Google Search Stories'
+title: 'Monday Links: ‘States’ Rights,’ Reining in Spending, Small vs. Limited Government,
+  and Google Search Stories'
+date: 2010-06-01 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Batman
+- Big Government
+- E.J. Dionne
+- George Will
+- Google
+- Limited Government
+- Race
+- rights
+- Spending
+- Video
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Batman
-  - Big Government
-  - E.J. Dionne
-  - George Will
-  - Google
-  - Limited Government
-  - Race
-  - rights
-  - Spending
-  - Video
 ---
 
 “States don’t have rights,” [Stephen Green reminds us][1]. “Individuals do. It’s time we went about the business of restoring those rights, without alienating a huge constituency which suffered too long without them.” Green rightly argues that conservatives’ use of the language of states’ rights is not only muddle-headed but, for historical reasons, tends to associate conservatives with Jim Crow.

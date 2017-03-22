@@ -1,18 +1,21 @@
 ---
 title: Self-Government or Consolidation?
-author: Nathaniel Ward
-excerpt: "Tom Brokaw's advocacy for administrative centralization, and how this poses a threat to liberty and the principle of self-government."
-layout: post
+date: 2009-04-20 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Administration
-  - Brokaw
-  - Liberty
-  - New York Times
-  - Self-Government
-  - Tocqueville
+- Administration
+- Brokaw
+- Liberty
+- New York Times
+- Self-Government
+- Tocqueville
+author: Nathaniel Ward
+excerpt: Tom Brokaw's advocacy for administrative centralization, and how this poses
+  a threat to liberty and the principle of self-government.
+layout: post
 ---
+
 Writing in the New York Times, [NBC’s Tom Brokaw suggests we rethink local government][1] in the name of efficiency. But he goes beyond common-sense suggestions for consolidation of state services and instead advocates administrative centralization.
 
 > Yet Iowa proudly maintains its grid of 99 counties, each with its own distinctive courthouse, many on the National Register of Historic Places — and some as little as 40miles away from one another. Each one houses a full complement of clerks, auditors, sheriff’s deputies, jailers and commissioners. Is there any reason beyond local pride to maintain such duplication given the economic and population pressures of our time?

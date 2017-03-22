@@ -1,10 +1,11 @@
 ---
 title: Design should solve a business problem
+date: 2015-12-03 00:00:00 -05:00
+tags:
+- Design
 author: Nathaniel Ward
 layout: post
 linked: https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026#.xqdjm4go7
-tags:
-  - Design
 ---
 
 Design, like all aspects of marketing, should serve a business need. Too often, this doesn't happen, Paul Adams writes:

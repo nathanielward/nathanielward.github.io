@@ -1,18 +1,21 @@
 ---
 title: Can you make your e-mails more human?
-author: Nathaniel Ward
-excerpt: "A few ways you can strengthen your organization's e-mails to make them livelier, more interesting, and more personal."
-layout: post
+date: 2013-03-15 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Copywriting
-  - E-mail marketing
-  - Online fundraising
-  - Online marketing
-  - Optimization
-  - Personalization
+- Copywriting
+- E-mail marketing
+- Online fundraising
+- Online marketing
+- Optimization
+- Personalization
+author: Nathaniel Ward
+excerpt: A few ways you can strengthen your organization's e-mails to make them livelier,
+  more interesting, and more personal.
+layout: post
 ---
+
 Nathanael Yellis [asks an important question][1]: “why not make your organization’s emails more like the emails you send to your friends and colleagues?”
 
 He’s right. There’s really no good reason not to do that.

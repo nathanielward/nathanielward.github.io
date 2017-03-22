@@ -1,10 +1,11 @@
 ---
 title: The psychology of waiting in line
+date: 2015-11-30 00:00:00 -05:00
+tags:
+- Psychology
 author: Nathaniel Ward
 layout: post
 linked: https://www.washingtonpost.com/news/wonk/wp/2015/11/27/what-you-hate-about-waiting-in-line-isnt-the-wait-at-all/
-tags:
-    - Psychology
 ---
 
 Ana Swanson:

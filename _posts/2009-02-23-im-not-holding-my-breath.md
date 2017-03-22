@@ -1,17 +1,21 @@
 ---
 title: I’m Not Holding My Breath
-author: Nathaniel Ward
-excerpt: "It doesn't much matter whether government actually delivers but rather whether it's seen to deliver. The New Deal, for example, despite its repeated failures and cockamamie schemes, has nevertheless been judged a success by history."
-layout: post
+date: 2009-02-23 00:00:00 -05:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Government
-  - New Deal
-  - Obama
-  - Spending
-  - Stimulus
+- Government
+- New Deal
+- Obama
+- Spending
+- Stimulus
+author: Nathaniel Ward
+excerpt: It doesn't much matter whether government actually delivers but rather whether
+  it's seen to deliver. The New Deal, for example, despite its repeated failures and
+  cockamamie schemes, has nevertheless been judged a success by history.
+layout: post
 ---
+
 [Will government demonstrate its effectiveness?][1]
 
 > The stimulus package is not only a political crucible for Obama and the congressional Democrats who pushed it through; it is also the ultimate test of government’s ability to deliver, from a vast array of federal agencies and departments down to state and local offices across the country.

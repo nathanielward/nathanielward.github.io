@@ -1,20 +1,22 @@
 ---
 title: How Obama used data to win reelection
+date: 2012-11-07 00:00:00 -05:00
+categories:
+- Marketing
+- Politics and economics
+- What I’m Reading
+tags:
+- Data
+- Election
+- Fundraising
+- Modeling
+- Obama
+- Online fundraising
 author: Nathaniel Ward
 layout: post
 linked: http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/
-categories:
-  - Marketing
-  - Politics and economics
-  - What I’m Reading
-tags:
-  - Data
-  - Election
-  - Fundraising
-  - Modeling
-  - Obama
-  - Online fundraising
 ---
+
 Having all your data in one place gives you a huge advantage: it allows you to create predictive models about customer behavior. This insight helped Barack Obama’s reelection campaign prevail on Tuesday:
 
 > So over the first 18 months, the campaign started over, creating a single massive system that could merge the information collected from pollsters, fundraisers, field workers and consumer databases as well as social-media and mobile contacts with the main Democratic voter files in the swing states.

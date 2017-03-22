@@ -1,9 +1,8 @@
 ---
 title: Use group chat wisely
+date: 2016-05-10 00:00:00 -04:00
 author: Nathaniel Ward
 layout: post
-tags: 
-    - 
 ---
 
 Group chat is a useful tool for work, [Jason Fried writes](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.6qamjeod6):

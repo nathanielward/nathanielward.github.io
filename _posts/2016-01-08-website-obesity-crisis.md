@@ -1,9 +1,9 @@
 ---
 title: The website obesity crisis
+date: 2016-01-08 00:00:00 -05:00
 author: Nathaniel Ward
 layout: post
 linked: http://idlewords.com/talks/website_obesity.htm
-tags:
 ---
 
 Maciej Cegłowski says websites have become too bloated:

@@ -1,30 +1,33 @@
 ---
 title: What I’m Reading
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from May 19th to May 20th."
-layout: post
+date: 2009-05-20 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - credit
-  - Cyrus Krohn
-  - Delicious
-  - Elections
-  - Finance
-  - GOP
-  - indians
-  - internet
-  - lawsuit
-  - logo
-  - Native Americans
-  - Obama
-  - Rail
-  - Redskins
-  - Regulation
-  - Technology
-  - Trains
-  - Transit
+- credit
+- Cyrus Krohn
+- Delicious
+- Elections
+- Finance
+- GOP
+- indians
+- internet
+- lawsuit
+- logo
+- Native Americans
+- Obama
+- Rail
+- Redskins
+- Regulation
+- Technology
+- Trains
+- Transit
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from May 19th to May
+  20th.
+layout: post
 ---
+
   * [Why trains run slower now than they did in the 1920s.][1]  
     Lower demand, more freight and more government regulation conspire to reduce train speeds.
   * [An interview with the old RNC webmaster][2]  

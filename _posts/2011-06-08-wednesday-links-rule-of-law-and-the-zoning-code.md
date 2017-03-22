@@ -1,22 +1,24 @@
 ---
 title: 'Wednesday links: Rule of law and the zoning code'
-author: Nathaniel Ward
-excerpt: How DC enforces its zoning code; myths about e-mail marketing; demand for MBAs; and the rise of the Kindle.
-layout: post
+date: 2011-06-08 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Amazon.com
-  - Books
-  - District of Columbia
-  - E-mail marketing
-  - Kindle
-  - lawyers
-  - Marketing
-  - MBA
-  - Regulation
-  - Urbanism
-  - Zoning
+- Amazon.com
+- Books
+- District of Columbia
+- E-mail marketing
+- Kindle
+- lawyers
+- Marketing
+- MBA
+- Regulation
+- Urbanism
+- Zoning
+author: Nathaniel Ward
+excerpt: How DC enforces its zoning code; myths about e-mail marketing; demand for
+  MBAs; and the rise of the Kindle.
+layout: post
 ---
 
   * The District of Columbia government has sometimes been commendably lenient in enforcing its arbitrary zoning restrictions. Except sometimes it decides to [enforce the regulations for political reasons][1].

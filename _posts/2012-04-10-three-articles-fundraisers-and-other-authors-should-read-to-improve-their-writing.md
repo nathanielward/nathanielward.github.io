@@ -1,16 +1,20 @@
 ---
 title: Three articles fundraisers and other authors should read to improve their writing
-author: Nathaniel Ward
-excerpt: The Edna McConnell Clark Foundation has assembled an insightful and highly amusing series of three articles by Tony Proscio to help non-profit writers identify and root out jargon and improve clarity.
-layout: post
+date: 2012-04-10 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Flint McGlaughlin
-  - Fundraising
-  - Tony Proscio
-  - Writing
+- Flint McGlaughlin
+- Fundraising
+- Tony Proscio
+- Writing
+author: Nathaniel Ward
+excerpt: The Edna McConnell Clark Foundation has assembled an insightful and highly
+  amusing series of three articles by Tony Proscio to help non-profit writers identify
+  and root out jargon and improve clarity.
+layout: post
 ---
+
 “Clarity trumps persuasion,” MECLABS president Flint McGlaughlin reminds audiences at his seminars.
 
 Yet too often, writing lacks any clarity at all, and we find ourselves unable to comprehend an author’s point–in no small part because of his impenetrable jargon and (perhaps inadvertent) obfuscation.

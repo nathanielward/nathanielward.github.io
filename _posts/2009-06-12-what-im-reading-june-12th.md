@@ -1,29 +1,32 @@
 ---
-title: 'What I’m Reading  — June 12<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from June 11th to June 12th."
-layout: post
+title: What I’m Reading  — June 12<sup>th</sup>
+date: 2009-06-12 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - America
-  - Banks
-  - Baseball
-  - Culture
-  - Delicious
-  - donations
-  - Economy
-  - Europe
-  - Finance
-  - Health Care
-  - medicine
-  - New York Yankees
-  - Red Sox
-  - Safety Net
-  - Statistics
-  - tarp
-  - Welfare state
+- America
+- Banks
+- Baseball
+- Culture
+- Delicious
+- donations
+- Economy
+- Europe
+- Finance
+- Health Care
+- medicine
+- New York Yankees
+- Red Sox
+- Safety Net
+- Statistics
+- tarp
+- Welfare state
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from June 11th to June
+  12th.
+layout: post
 ---
+
   * [“These Fans Are Special.”][1] 
   * [The Public Option Isn’t the Only Problem.][2] 
   * [Getting Out of TARP.][3] The government is “allowing” firms to repay their debts. How generous.

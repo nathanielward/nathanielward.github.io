@@ -1,14 +1,16 @@
 ---
-title: 'Why you shouldn’t try to copy the ALS Ice Bucket Challenge'
+title: Why you shouldn’t try to copy the ALS Ice Bucket Challenge
+date: 2014-08-30 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Fundraising
+- Online fundraising
+- Social media
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Fundraising
-  - Online fundraising
-  - Social media
 ---
+
 Every time a fundraising campaign makes the news, nonprofit boards start asking “why can’t we do that?”
 
 It happened after the Red Cross’ success raising money through text-to-donate after the Haiti earthquake.

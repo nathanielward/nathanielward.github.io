@@ -1,25 +1,28 @@
 ---
-title: 'What I’m Reading  — June 4<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from June 3rd to June 4th."
-layout: post
+title: What I’m Reading  — June 4<sup>th</sup>
+date: 2009-06-04 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Conservative
-  - Delicious
-  - Dependency
-  - Government
-  - media
-  - momentum
-  - online
-  - Politics
-  - Progressive
-  - recession
-  - redistribution
-  - Safety Net
-  - Spending
+- Conservative
+- Delicious
+- Dependency
+- Government
+- media
+- momentum
+- online
+- Politics
+- Progressive
+- recession
+- redistribution
+- Safety Net
+- Spending
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from June 3rd to June
+  4th.
+layout: post
 ---
+
   * [Dependence on Government Grows.][1] This is not good news. “The recession is driving the safety net of government benefits to a historic high, as one of every six dollars of Americans’ income is now coming in the form of a federal or state check or voucher.”
   * [Are Progressives Losing Steam?][2] Dana Milbank notes that “it’s more fun to be an opposition bomb-thrower than a palace guard.”
   * [The Rise of New Conservative Media Outlets.][3]

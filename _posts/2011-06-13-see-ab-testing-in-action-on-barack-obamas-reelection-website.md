@@ -1,15 +1,17 @@
 ---
 title: See A/​B testing in action on Barack Obama’s reelection website
+date: 2011-06-13 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Obama
+- Online marketing
+- Testing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Obama
-  - Online marketing
-  - Testing
 ---
+
 It’s always interesting to see A/​B testing in action.
 
 In 2008, the Obama campaign [tested the creative used on its website splash pages][1] to maximize e-mail sign-ups and donations.

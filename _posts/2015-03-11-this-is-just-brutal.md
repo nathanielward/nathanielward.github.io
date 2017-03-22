@@ -1,12 +1,14 @@
 ---
 title: This is just brutal
+date: 2015-03-11 00:00:00 -04:00
+categories:
+- Miscellany
+tags:
+- Technology
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - Technology
 ---
+
 [Seth Stevenson][1]:
   
 > Do you like smooth, responsive touch screens? How about intuitive menu systems? Do you enjoy taking crisp photos and looking at big, sharp images?

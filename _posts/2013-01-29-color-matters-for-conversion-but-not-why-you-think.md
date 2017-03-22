@@ -1,19 +1,21 @@
 ---
 title: Color matters for conversion, but not why you think
+date: 2013-01-29 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- Color
+- Conversion
+- Design
+- Marketing
+- Online marketing
+- Psychology
+- Web design
 author: Nathaniel Ward
 layout: post
 linked: http://conversionxl.com/which-color-converts-the-best/
-categories:
-  - Marketing
-tags:
-  - Color
-  - Conversion
-  - Design
-  - Marketing
-  - Online marketing
-  - Psychology
-  - Web design
 ---
+
 Ott Niggulis:
 
 > The color of the button has little to no effect on it’s own. What is more important is how it changes the visual hierarchy of the whole page, how it makes the call-to-action stand out. Plus additional information and wording of the button itself.

@@ -1,22 +1,25 @@
 ---
-title: 'What I’m Reading  — September 13<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from September 7th to September 13th."
-layout: post
+title: What I’m Reading  — September 13<sup>th</sup>
+date: 2009-09-13 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Berkeley
-  - Books
-  - college
-  - Conservatism
-  - Delicious
-  - Education
-  - Greg Mankiw
-  - ideas
-  - Jay_Nordlinger
-  - Politics and economics
+- Berkeley
+- Books
+- college
+- Conservatism
+- Delicious
+- Education
+- Greg Mankiw
+- ideas
+- Jay_Nordlinger
+- Politics and economics
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from September 7th to
+  September 13th.
+layout: post
 ---
+
   * [Berkeley’s Center for the Comparative Study of Right-Wing Movements.][1] “[B]eggars can’t be choosers. The unfortunate fact is that American academics have until recently shown little curiosity about conservative ideas, even though those ideas have utterly transformed American (and British) politics over the past 30 years.”
   * [Another Jay Nordlinger Observation.][2] “And isn’t it interesting that, when you read about ‘angry white males,’ they’re always talking about conservatives — never, say, Keith Olbermann?”
   * [Greg Mankiw’s Economics Reading List.][3] What he assigned his Harvard freshman seminar.

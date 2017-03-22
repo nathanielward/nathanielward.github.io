@@ -1,25 +1,28 @@
 ---
 title: 'Friday Links: Rand Paul’s Fusionism, Try Your Hand at the Debt'
-author: Nathaniel Ward
-excerpt: Rand Paul tries his hand at a new conservative fusionism in Kentucky; a new budget simulator; making transit pretty and whether to subsidize it; and why conservatives should engage in urban policy debates.
-layout: post
+date: 2010-05-21 00:00:00 -04:00
 categories:
-  - Politics and economics
-  - What I’m Reading
+- Politics and economics
+- What I’m Reading
 tags:
-  - Cities
-  - Conservatives
-  - Debt
-  - Entitlements
-  - Fusionism
-  - Liberty
-  - Rand Paul
-  - Spending
-  - Subsidies
-  - Taxes
-  - Transit
-  - Urbanism
-  - WMATA
+- Cities
+- Conservatives
+- Debt
+- Entitlements
+- Fusionism
+- Liberty
+- Rand Paul
+- Spending
+- Subsidies
+- Taxes
+- Transit
+- Urbanism
+- WMATA
+author: Nathaniel Ward
+excerpt: Rand Paul tries his hand at a new conservative fusionism in Kentucky; a new
+  budget simulator; making transit pretty and whether to subsidize it; and why conservatives
+  should engage in urban policy debates.
+layout: post
 ---
 
 Kentucky Senate candidate Rand Paul, son of Rep. Ron Paul (R-TX), won the Republican primary on Tuesday in part by [smoothing over differences with traditional conservatives][1], as David Weigel explains. Can this new, libertarian-leaning fusionism prevail in November?

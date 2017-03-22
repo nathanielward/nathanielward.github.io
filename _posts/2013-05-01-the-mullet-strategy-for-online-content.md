@@ -1,18 +1,22 @@
 ---
 title: The ‘mullet strategy’ for online content
-author: Nathaniel Ward
-excerpt: |
-  New York Magazine explores what makes sites like Buzzfeed successful, including Jonah Peretti's "mullet strategy."
-layout: post
+date: 2013-05-01 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Buzzfeed
-  - Content marketing
-  - Data
-  - Huffington Post
-  - Online marketing
+- Buzzfeed
+- Content marketing
+- Data
+- Huffington Post
+- Online marketing
+author: Nathaniel Ward
+excerpt: 'New York Magazine explores what makes sites like Buzzfeed successful, including
+  Jonah Peretti''s "mullet strategy."
+
+'
+layout: post
 ---
+
 [New York Magazine explores what makes sites like Buzzfeed successful][1], including Jonah Peretti’s “mullet strategy”:
 
 > The Huffington Post produced an enormous amount of junky but well-trafficked content, most of which never appeared on the site’s front page. Peretti called it the “mullet strategy”—business in front, party in the back—a metaphor that grated on some of his colleagues. …

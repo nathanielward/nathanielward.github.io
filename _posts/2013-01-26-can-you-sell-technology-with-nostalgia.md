@@ -1,15 +1,17 @@
 ---
 title: Can you sell technology with nostalgia?
+date: 2013-01-26 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- Advertising
+- Internet Explorer
+- Microsoft
+- Video
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Advertising
-  - Internet Explorer
-  - Microsoft
-  - Video
 ---
+
 A fun new ad for Internet Explorer appeals to 1990s nostalgia:
 
 

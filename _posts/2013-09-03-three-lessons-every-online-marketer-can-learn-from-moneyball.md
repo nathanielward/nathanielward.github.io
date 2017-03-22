@@ -1,22 +1,23 @@
 ---
 title: Three lessons every online marketer can learn from Moneyball
+date: 2013-09-03 00:00:00 -04:00
+categories:
+- Marketing
+- What I’m Reading
+tags:
+- A/B testing
+- Baseball
+- Books
+- Cognitive bias
+- Consumer behavior
+- Flint McGlaughlin
+- MECLABS
+- Obama
+- Optimization
+- Social proof
+- Testing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-  - What I’m Reading
-tags:
-  - A/B testing
-  - Baseball
-  - Books
-  - Cognitive bias
-  - Consumer behavior
-  - Flint McGlaughlin
-  - MECLABS
-  - Obama
-  - Optimization
-  - Social proof
-  - Testing
 ---
 
 At first blush, *[Moneyball][1]* has nothing at all to do with marketing. After all, it’s a book about baseball. But there are three important lessons online marketers can draw from the book.

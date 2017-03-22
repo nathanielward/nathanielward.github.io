@@ -1,22 +1,23 @@
 ---
 title: 'Monday Links: Artificial Scarcity'
+date: 2011-04-04 00:00:00 -04:00
+categories:
+- What I’m Reading
+tags:
+- Conan O'Brien
+- CSS
+- Dan Mitchell
+- Economics
+- Japan
+- Libya
+- New York
+- Price Controls
+- Privatization
+- Regulation
+- Typography
+- Urbanism
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - "Conan O'Brien"
-  - CSS
-  - Dan Mitchell
-  - Economics
-  - Japan
-  - Libya
-  - New York
-  - Price Controls
-  - Privatization
-  - Regulation
-  - Typography
-  - Urbanism
 ---
 
   * How a cab medallion system is counterproductive: it [introduces artificial scarcity and distorts drivers’ incentives][1].

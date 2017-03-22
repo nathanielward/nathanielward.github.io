@@ -1,24 +1,27 @@
 ---
-title: 'What I’m Reading  — June 8<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from June 5th to June 8th."
-layout: post
+title: What I’m Reading  — June 8<sup>th</sup>
+date: 2009-06-08 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Delicious
-  - Economy
-  - food
-  - Health Care
-  - map
-  - Ramesh Ponnuru
-  - Republicans
-  - Restaurants
-  - revenue
-  - Spending
-  - Taxes
-  - Washington
+- Delicious
+- Economy
+- food
+- Health Care
+- map
+- Ramesh Ponnuru
+- Republicans
+- Restaurants
+- revenue
+- Spending
+- Taxes
+- Washington
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from June 5th to June
+  8th.
+layout: post
 ---
+
   * [Ponnuru on the GOP’s Economic Naysaying][1] “Shouldn’t we have a fallback plan in case the economy recovers? I think Republicans would be better advised to say that there are some good signs, none of which seem connected to liberal policies, and that those policies threaten to increase inflation before too long.”
   * [Right Answer, Wrong Reason.][2] Even the New York Times calls for changing the tax treatment of health care–but to raise revenues for another big spending plan, not to limit government distortions in the marketplace.
   * [Washingtonian Cheap Eats — Google Map.][3]

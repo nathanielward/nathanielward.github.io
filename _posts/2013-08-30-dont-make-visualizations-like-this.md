@@ -1,13 +1,15 @@
 ---
 title: Don’t make visualizations like this
+date: 2013-08-30 00:00:00 -04:00
+categories:
+- Miscellany
+tags:
+- Data
+- Visualizations
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - Data
-  - Visualizations
 ---
+
 ![Don't make graphics this way. Please.][1]
 
 Visualizations are supposed to make data easier to understand. But many are so bad they hurt understanding and generate confusion.

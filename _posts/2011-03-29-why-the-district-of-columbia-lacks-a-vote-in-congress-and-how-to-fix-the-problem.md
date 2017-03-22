@@ -1,15 +1,19 @@
 ---
 title: Why the District of Columbia Lacks a Vote in Congress and How to Fix the Problem
-author: Nathaniel Ward
-excerpt: Even if Kate Masur is right that partisanship and race define the politics of granting representation to the District, Congress still has an obligation to uphold the Constitution. Congress lacks the power to grant the District representation by legislation alone.
-layout: post
+date: 2011-03-29 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Congress
-  - Constitution
-  - District of Columbia
-  - Voting Rights
+- Congress
+- Constitution
+- District of Columbia
+- Voting Rights
+author: Nathaniel Ward
+excerpt: Even if Kate Masur is right that partisanship and race define the politics
+  of granting representation to the District, Congress still has an obligation to
+  uphold the Constitution. Congress lacks the power to grant the District representation
+  by legislation alone.
+layout: post
 ---
 
 Fifty years ago, the states ratified the 23<sup>rd</sup> Amendment to the Constitution, which allowed the District of Columbia to appoint electors for President as if it were a state. Yet while District residents may vote for President, they remain without representation in Congress.

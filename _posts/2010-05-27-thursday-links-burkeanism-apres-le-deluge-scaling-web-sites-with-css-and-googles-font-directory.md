@@ -1,19 +1,22 @@
 ---
-title: 'Thursday Links: Burkeanism Après le Deluge, Scaling Web Sites with CSS, and Google’s Font Directory'
-author: Nathaniel Ward
-excerpt: "What would Edmund Burke do? Also: using CSS media queries to scale web sites; Europe's welfare state; and Google's free web fonts."
-layout: post
+title: 'Thursday Links: Burkeanism Après le Deluge, Scaling Web Sites with CSS, and
+  Google’s Font Directory'
+date: 2010-05-27 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Civil Society
-  - CSS
-  - Edmund Burke
-  - Entitlements
-  - Europe
-  - Google
-  - Web design
-  - Welfare state
+- Civil Society
+- CSS
+- Edmund Burke
+- Entitlements
+- Europe
+- Google
+- Web design
+- Welfare state
+author: Nathaniel Ward
+excerpt: 'What would Edmund Burke do? Also: using CSS media queries to scale web sites;
+  Europe''s welfare state; and Google''s free web fonts.'
+layout: post
 ---
 
 Jonathan Adler argues that [many self-described followers of Edmund Burke are anything but][1]: “The institutions [David] Brooks would defend today bear no resemblance to the organic institutions Burke sought to protect.  Indeed, they have crowded out and, in some cases crushed, the little platoons upon which social order depends.  So the meaningful question for a true Burkean is not whether to oppose a Jacobin revolution, but what to do after such a revolution has already taken place.”

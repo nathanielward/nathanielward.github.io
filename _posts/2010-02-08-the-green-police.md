@@ -1,17 +1,20 @@
 ---
 title: The Green Police
-author: Nathaniel Ward
-excerpt: What viewers are sure to remember are the images of the government devoting tremendous resources to impose arbitrary environmental rules on ordinary Americans.
-layout: post
+date: 2010-02-08 00:00:00 -05:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Big Government
-  - Environmentalism
-  - green
-  - Humor
-  - Video
+- Big Government
+- Environmentalism
+- green
+- Humor
+- Video
+author: Nathaniel Ward
+excerpt: What viewers are sure to remember are the images of the government devoting
+  tremendous resources to impose arbitrary environmental rules on ordinary Americans.
+layout: post
 ---
+
 Perhaps [the best advertisement of Sunday’s Super Bowl](https://www.youtube.com/watch?v=Wq58zS4_jvM) was also the funniest.
 
 In one scene, a half-dozen “Green Police” officers surround a man who fails to sort his garbage correctly. Government agents also arrest homeowners for “offenses” like using unapproved light bulbs and running hot-tubs at impermissible temperatures. Later, agents shut down a highway to search cars for environmentally-unfriendly contraband. This is perhaps the best, and funniest, argument I’ve seen against the increasingly intrusive green agenda.

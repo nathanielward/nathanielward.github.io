@@ -1,14 +1,16 @@
 ---
 title: 'Christopher Hitchens: Wrong on the Origin of Rights'
+date: 2009-07-29 00:00:00 -04:00
+categories:
+- Politics and economics
+tags:
+- Christopher Hitchens
+- Constitution
+- Natural Rights
 author: Nathaniel Ward
 layout: post
-categories:
-  - Politics and economics
-tags:
-  - Christopher Hitchens
-  - Constitution
-  - Natural Rights
 ---
+
 In his [analysis of the ongoing Henry Louis Gates embroglio][1], Christopher Hitchens makes a startling assertion (which [Jason Kottke approvingly quotes][2]). In defense of Prof. Gates, he writes (emphasis added) that
 
 > **It is the U.S. Constitution**, and not some competitive agglomeration of communities or constituencies, **that** **makes a citizen the sovereign of his own home and privacy.** There is absolutely no legal requirement to be polite in the defense of this right.

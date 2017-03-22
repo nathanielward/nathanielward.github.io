@@ -1,21 +1,25 @@
 ---
-title: 'Monday Links: Free Enterprise vs. Statism, Beautiful Transit, and Changing Cities'
-author: Nathaniel Ward
-excerpt: "Arthur Brooks draws the battle lines in today's culture war; a good-looking transit project in Maryland; must-reads on urban policy for conservatives; and how Google destroys office productivity."
-layout: post
+title: 'Monday Links: Free Enterprise vs. Statism, Beautiful Transit, and Changing
+  Cities'
+date: 2010-05-24 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Arthur Brooks
-  - Cities
-  - Dependency
-  - Free enterprise
-  - Google
-  - Statism
-  - Transit
-  - Urbanism
-  - Welfare state
-  - WMATA
+- Arthur Brooks
+- Cities
+- Dependency
+- Free enterprise
+- Google
+- Statism
+- Transit
+- Urbanism
+- Welfare state
+- WMATA
+author: Nathaniel Ward
+excerpt: Arthur Brooks draws the battle lines in today's culture war; a good-looking
+  transit project in Maryland; must-reads on urban policy for conservatives; and how
+  Google destroys office productivity.
+layout: post
 ---
 
 The new culture war “is not a fight over guns, gays or abortion,” Arthur Brooks argues, but [a battle between free enterprise and statism][1]. Supporters of free enterprise need to make a moral case for their system, he writes, to demonstrate that “earned success” is superior to dependence on government, and not simply hold that free enterprise delivers better material results.

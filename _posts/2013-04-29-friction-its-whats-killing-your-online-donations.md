@@ -1,20 +1,22 @@
 ---
 title: Friction! It’s what’s killing your online donations
-author: Nathaniel Ward
-excerpt: "What's holding back your online fundraising? It may be your donation pages."
-layout: post
+date: 2013-04-29 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - donations
-  - Friction
-  - Fundraising
-  - Online fundraising
-  - Optimization
-  - Presentation
-  - Slides
-  - Tim Kachuriak
+- donations
+- Friction
+- Fundraising
+- Online fundraising
+- Optimization
+- Presentation
+- Slides
+- Tim Kachuriak
+author: Nathaniel Ward
+excerpt: What's holding back your online fundraising? It may be your donation pages.
+layout: post
 ---
+
 What’s holding back your online fundraising? It may be your donation pages.
 
 Elements of the design and copy on your page can combine to create “friction”—a psychological resistance to continuing the donation process.

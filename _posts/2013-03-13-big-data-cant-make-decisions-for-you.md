@@ -1,17 +1,20 @@
 ---
 title: Big data can’t make decisions for you
-author: Nathaniel Ward
-excerpt: "Data can be a powerful tool to help you optimize just about anything. But it's useless unless you're asking the right questions."
-layout: post
+date: 2013-03-13 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Analytics
-  - Big data
-  - Data
-  - Optimization
-  - Robert Bluey
+- Analytics
+- Big data
+- Data
+- Optimization
+- Robert Bluey
+author: Nathaniel Ward
+excerpt: Data can be a powerful tool to help you optimize just about anything. But
+  it's useless unless you're asking the right questions.
+layout: post
 ---
+
 Data can be a powerful tool to help you optimize just about anything—from your online marketing to your company’s personnel decisions.
 
 When Yahoo <span class="caps">CEO</span> Marissa Mayer decided to end remote working, [she relied on data to help make her decision][1]:

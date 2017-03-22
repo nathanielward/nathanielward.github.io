@@ -1,19 +1,23 @@
 ---
-title: 'Sunday Links: Dealing with Critics, Dupont Circle’s History, the Gold Standard and ATM Fees'
-author: Nathaniel Ward
-excerpt: Tom Ferriss on dealing with critics; historic photos of Dupont Circle; a new case for the gold standard; and whether ATM fees are a good idea.
-layout: post
+title: 'Sunday Links: Dealing with Critics, Dupont Circle’s History, the Gold Standard
+  and ATM Fees'
+date: 2010-05-09 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - District of Columbia
-  - Dupont Circle
-  - Gold Standard
-  - Monetary Policy
-  - Politics and economics
-  - Regulation
-  - Social media
+- District of Columbia
+- Dupont Circle
+- Gold Standard
+- Monetary Policy
+- Politics and economics
+- Regulation
+- Social media
+author: Nathaniel Ward
+excerpt: Tom Ferriss on dealing with critics; historic photos of Dupont Circle; a
+  new case for the gold standard; and whether ATM fees are a good idea.
+layout: post
 ---
+
 Tim Ferriss offers [advice for dealing with online critics][1], much of it based on the axiom that you can’t please all the people all the time.
 
 The Library of Congress’ online catalog includes several [great old pictures of Dupont Circle][2], including this one of the circle before the fountain was installed:

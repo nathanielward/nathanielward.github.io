@@ -1,18 +1,22 @@
 ---
-title: 'What’s the value of a Facebook like? It’s not high enough for <span class="caps">UNICEF</span>'
-author: Nathaniel Ward
-excerpt: |
-  UNICEF is aggressively pushing back against "slacktivists" who show their support for a cause on social media but don't take real-world action.
-layout: post
+title: What’s the value of a Facebook like? It’s not high enough for <span class="caps">UNICEF</span>
+date: 2013-05-01 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Facebook
-  - Non-Profit
-  - Online fundraising
-  - Online marketing
-  - Social media
+- Facebook
+- Non-Profit
+- Online fundraising
+- Online marketing
+- Social media
+author: Nathaniel Ward
+excerpt: 'UNICEF is aggressively pushing back against "slacktivists" who show their
+  support for a cause on social media but don''t take real-world action.
+
+'
+layout: post
 ---
+
 <span class="caps">UNICEF</span> is aggressively pushing back against “slacktivists” who show their support for a cause on social media but don’t take real-world action, [Olga Khazan reports in the Atlantic][1].
 
 Watch their video:

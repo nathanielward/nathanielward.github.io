@@ -1,16 +1,18 @@
 ---
 title: Are you using A/​B testing in your fundraising campaigns?
+date: 2012-05-03 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Fundraising
+- Obama
+- Optimization
+- Wired
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Fundraising
-  - Obama
-  - Optimization
-  - Wired
 ---
+
 Brian Christian explains [how firms are using A/​B testing to improve their online marketing][1]:
 
 > Over the past decade, the power of A/​B testing has become an open secret of high-stakes web development. It’s now the standard (but seldom advertised) means through which Silicon Valley improves its online products. Using A/​B, new ideas can be essentially focus-group tested in real time: Without being told, a fraction of users are diverted to a slightly different version of a given web page and their behavior compared against the mass of users on the standard site. If the new version proves superior—gaining more clicks, longer visits, more purchases—it will displace the original; if the new version is inferior, it’s quietly phased out without most users ever seeing it. A/​B allows seemingly subjective questions of design—color, layout, image selection, text—to become incontrovertible matters of data-driven social science.

@@ -1,13 +1,14 @@
 ---
 title: Some statistics about carousel performance
+date: 2013-01-28 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- Online marketing
+- Web design
 author: Nathaniel Ward
 layout: post
 linked: http://weedygarden.net/2013/01/carousel-stats/
-categories:
-  - Marketing
-tags:
-  - Online marketing
-  - Web design
 ---
 
 ![Carousel click-through rates. Source: Erik Runyon](/images/2013-01-28-weedygarden-click-through-rates.png)

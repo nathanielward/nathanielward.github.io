@@ -1,17 +1,21 @@
 ---
 title: Why responsive web design beats device-targeted designs
+date: 2013-02-25 00:00:00 -05:00
+categories:
+- What I’m Reading
+tags:
+- Design
+- Mobile
+- Responsive design
+- Web design
 author: Nathaniel Ward
-excerpt: Using a single, responsive web design is superior to creating separate versions of websites for each device, Josh Byers writes. He offers three reasons this is true.
+excerpt: Using a single, responsive web design is superior to creating separate versions
+  of websites for each device, Josh Byers writes. He offers three reasons this is
+  true.
 layout: post
 linked: http://www.copyblogger.com/mobile-responsive-design-benefits/
-categories:
-  - What I’m Reading
-tags:
-  - Design
-  - Mobile
-  - Responsive design
-  - Web design
 ---
+
 You should design web pages with responsive techniques instead of creating separate versions of the page for each device, Josh Byers writes. He offers three reasons to use responsive design:
 
   1. **It’s better for SEO.** In fact, Google specifically recommends that you have only one version of each page.

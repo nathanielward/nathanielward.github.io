@@ -1,11 +1,13 @@
 ---
 title: In fundraising, 'what works is, quite simply, what works'
+date: 2016-04-15 00:00:00 -04:00
+tags:
+- Email marketing
+- Fundraising
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Email marketing
-    - Fundraising
 ---
+
 Email fundraising appeals may come across as shrill, oddball, or corny. They often are. Deliberately.
 
 As [Eric Josephsen explains](http://theresurgent.com/sorry-gawker-ted-cruz-knows-exactly-what-hes-doing-with-his-emails/), the goal of a fundraising appeal isn't to please pundits or win design awards:

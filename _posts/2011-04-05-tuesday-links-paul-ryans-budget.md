@@ -1,24 +1,26 @@
 ---
 title: 'Tuesday Links: Paul Ryan’s Budget'
-author: Nathaniel Ward
-excerpt: "Paul Ryan's budget; testing your marketing e-mails; campaign finance reform; and personal productivity."
-layout: post
+date: 2011-04-05 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Accounting
-  - Budget
-  - Campaign Finance Reform
-  - E-mail marketing
-  - E.J. Dionne
-  - Free speech
-  - Megan_McArdle
-  - Paul Ryan
-  - Productivity
-  - Self-Improvement
-  - Spending
-  - Taxes
-  - Testing
+- Accounting
+- Budget
+- Campaign Finance Reform
+- E-mail marketing
+- E.J. Dionne
+- Free speech
+- Megan_McArdle
+- Paul Ryan
+- Productivity
+- Self-Improvement
+- Spending
+- Taxes
+- Testing
+author: Nathaniel Ward
+excerpt: Paul Ryan's budget; testing your marketing e-mails; campaign finance reform;
+  and personal productivity.
+layout: post
 ---
 
   * Rep. Paul Ryan [makes the case][1] for his 2012 budget. My colleagues at Heritage [give it two cheers][2], and Ross Douthat calls it the “[triumph of policy” over politics][3].

@@ -1,14 +1,16 @@
 ---
 title: The three things you should do before you run an online test
+date: 2014-04-05 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Optimization
+- Testing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Optimization
-  - Testing
 ---
+
 A/​B testing is a powerful way to improve your online marketing.
 
 But more important than any improvement you might get from testing is what you *learn* from your testing that you can apply in the future. That means the process behind your test is critical.

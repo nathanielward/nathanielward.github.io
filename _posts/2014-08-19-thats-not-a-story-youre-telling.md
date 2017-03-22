@@ -1,14 +1,17 @@
 ---
 title: That’s not a story you’re telling
-author: Nathaniel Ward
-excerpt: "Marketers should tell stories. That's the best way to engage our customers. But too often, we create content that's not a story."
-layout: post
+date: 2014-08-19 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Copywriting
-  - Marketing
+- Copywriting
+- Marketing
+author: Nathaniel Ward
+excerpt: Marketers should tell stories. That's the best way to engage our customers.
+  But too often, we create content that's not a story.
+layout: post
 ---
+
 Marketers should tell stories. That’s the best way to engage our customers. But too often, we create content that’s not a story—there’s no protagonist, no drama.
 
 [Paul VanDeCar elaborates][1]:

@@ -1,16 +1,19 @@
 ---
 title: Four Must-Read Sites for Online Fundraisers
-author: Nathaniel Ward
-excerpt: A list of sites I often visit to brush up on online marketing and fundraising best practices.
-layout: post
+date: 2010-07-07 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Copywriting
-  - Fundraising
-  - internet
-  - Online marketing
+- Copywriting
+- Fundraising
+- internet
+- Online marketing
+author: Nathaniel Ward
+excerpt: A list of sites I often visit to brush up on online marketing and fundraising
+  best practices.
+layout: post
 ---
+
 I recently presented at the Leadership Institute’s Online Fundraising Workshop. As I wrapped up, I offered a list of four sites I often visit to brush up on online marketing and fundraising best practices.
 
   1. [**The Agitator**](http://www.theagitator.net/). With its analysis of innovative fundraising techniques, marketing studies and psychology, The Agitator provides online fundraisers with excellent food for thought. Authors Tom Belford and Roger Craver frequently remind us, for example in [their recent post on personalized e-mail communication][1], that online marketing follows the same principles as other marketing.

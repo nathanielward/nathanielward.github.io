@@ -1,11 +1,12 @@
 ---
 title: The key to successful marketing
+date: 2015-12-16 00:00:00 -05:00
+tags:
+- Marketing
+- Philosophy
+- Flint McLaughlin
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Marketing
-    - Philosophy
-    - Flint McLaughlin
 ---
 
 "Marketers need to escape the 'urgency trap,'" Flint McLaughlin writes:

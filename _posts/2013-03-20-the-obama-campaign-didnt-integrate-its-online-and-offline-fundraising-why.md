@@ -1,19 +1,23 @@
 ---
 title: The Obama campaign didn’t integrate its online and offline fundraising—why?
-author: Nathaniel Ward
-excerpt: "Best practice for fundraisers is to integrate online and offline appeals. But the Obama campaign, famous for testing every element of its work, didn't do this at all."
-layout: post
+date: 2013-03-20 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Direct mail
-  - Election
-  - Fundraising
-  - Marketing
-  - Multi-channel marketing
-  - Obama
-  - Online fundraising
+- Direct mail
+- Election
+- Fundraising
+- Marketing
+- Multi-channel marketing
+- Obama
+- Online fundraising
+author: Nathaniel Ward
+excerpt: Best practice for fundraisers is to integrate online and offline appeals.
+  But the Obama campaign, famous for testing every element of its work, didn't do
+  this at all.
+layout: post
 ---
+
 It has become almost a mantra among fundraisers: integrating your online and offline fundraising yields higher returns.
 
 In my experience at Heritage, coördinating our direct mail and e-mail appeals brings in more money from both the online *and* the offline channels. This tracks with what Convio has found in its [nonprofit benchmark reports][1] (link in <span class="caps">PDF</span>).

@@ -1,10 +1,12 @@
 ---
 title: Should D.C. Be Represented in Congress?
+date: 2009-02-24 00:00:00 -05:00
+categories:
+- Politics and economics
 author: Nathaniel Ward
 layout: post
-categories:
-  - Politics and economics
 ---
+
 I recently collaborated on two articles about the pending District of Columbia Voting Rights Act of 2009.
 
 1. **[Voting Representation for the District of Columbia: Violating the Framers’ Vision and Constitutional Commands][1]**  

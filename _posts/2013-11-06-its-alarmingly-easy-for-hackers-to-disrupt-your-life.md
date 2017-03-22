@@ -1,13 +1,15 @@
 ---
 title: It’s alarmingly easy for hackers to disrupt your life
+date: 2013-11-06 00:00:00 -05:00
+categories:
+- Miscellany
+tags:
+- security
+- Technology
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - security
-  - Technology
 ---
+
 Adam Penenberg [challenged the white-hat hackers at SpiderLabs to penetrate his digital life][1]. They found fewer ways to break in than at their corporate clients—but once in, they had access to *everything*:
 
 > With me, however, there were fewer paths that could lead to the mother lode: my laptop, email, bank, social media accounts, and home. Once in, though, his team found few firewalls protecting my data, and mostly in the form of a pastiche of passwords and log-in credentials. These, I quickly learned, were not secure.

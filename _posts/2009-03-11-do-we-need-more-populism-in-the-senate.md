@@ -1,18 +1,21 @@
 ---
 title: Do We Need More Populism in the Senate?
-author: Nathaniel Ward
-excerpt: Requiring that all Senators be chosen in popular elections would further undermine the constitutional structure devised by the Founders.
-layout: post
+date: 2009-03-11 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Amendment
-  - Constitution
-  - Election
-  - feingold
-  - Senate
-  - States
+- Amendment
+- Constitution
+- Election
+- feingold
+- Senate
+- States
+author: Nathaniel Ward
+excerpt: Requiring that all Senators be chosen in popular elections would further
+  undermine the constitutional structure devised by the Founders.
+layout: post
 ---
+
 Motivated by the appointment of four Senators in the wake of the 2008 election, progressives want to amend the Constitution to require that all Senators be chosen in popular elections. This idea, put forward by Sen. Russ Feingold, would further undermine the constitutional structure devised by the Founders.
 
 While scoring political points against disgraced Illinois Gov. Rod Blagojevich and his appointment of Sen. Roland Burris may be tempting, conservatives should be wary of signing on to this amendment. Instead, they should make the case for preserving and strengthening Madison’s federal structure—perhaps with the ultimate goal of repealing the 17<sup>th</sup> Amendment altogether.

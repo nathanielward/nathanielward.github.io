@@ -1,11 +1,12 @@
 ---
 title: Don't blindly follow design trends
+date: 2016-11-01 00:00:00 -04:00
+tags:
+- ux
+- accessibility
+- design
 author: Nathaniel Ward
 layout: post
-tags: 
-    - ux
-    - accessibility
-    - design
 ---
 
 Kevin Marks has a surprisingly quantitative take about [why the web is getting harder to read](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.r59xqsctf):

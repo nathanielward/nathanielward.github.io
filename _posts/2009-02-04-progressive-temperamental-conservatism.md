@@ -1,17 +1,20 @@
 ---
 title: Progressive Temperamental Conservatism
-author: Nathaniel Ward
-excerpt: |
-  On Damon Linker's definition of a "temperamental conservative" as a progressive.
-layout: post
+date: 2009-02-04 00:00:00 -05:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Conservatism
-  - Ideology
-  - Progressivism
-  - Temperamental
+- Conservatism
+- Ideology
+- Progressivism
+- Temperamental
+author: Nathaniel Ward
+excerpt: 'On Damon Linker''s definition of a "temperamental conservative" as a progressive.
+
+'
+layout: post
 ---
+
 The recent debate over “temperamental conservatism” and [Sam Tanenhaus’ essay in the *New Republic*][1], which [Ross Douthat rounds up][2], suggests that nobody has any real idea what the term even means. [Damon Linker’s analysis][3] reflects this profound confusion:
 
 > Instead of standing athwart history yelling, “Stop!,” Tanenhaus’s ideal conservative would patiently clear his throat before ironically intoning, “Hey, would you mind slowing down a little bit so we can catch up with you before the next round of creative destruction?” That’s temperamental, not ideological, conservatism. 

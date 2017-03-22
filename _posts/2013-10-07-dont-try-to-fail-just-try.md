@@ -1,16 +1,19 @@
 ---
 title: Don’t try to fail. Just try.
-author: Nathaniel Ward
-excerpt: The adage "learn from your mistakes" is a bit misleading, Mig Reyes argues. Instead of trying to fail, we should just try.
-layout: post
+date: 2013-10-07 00:00:00 -04:00
 categories:
-  - Miscellany
+- Miscellany
 tags:
-  - A/B testing
-  - leadership
-  - science
-  - Testing
+- A/B testing
+- leadership
+- science
+- Testing
+author: Nathaniel Ward
+excerpt: The adage "learn from your mistakes" is a bit misleading, Mig Reyes argues.
+  Instead of trying to fail, we should just try.
+layout: post
 ---
+
 The adage “learn from your mistakes” is a bit misleading, Mig Reyes argues. [Instead of trying to fail, we should just *try*][1]:
 
 > The makers of our world would be better off mimicking scientists with their work. Harp on deliberate practice. Reinvent their processes daily. Share every discovery. And most importantly, try new things often…

@@ -1,13 +1,15 @@
 ---
 title: Why long sales copy works online
+date: 2011-08-22 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Copywriting
+- Online marketing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Copywriting
-  - Online marketing
 ---
+
 [Brian Clark at Copyblogger has the scoop][1]:
 
 > Long copy works, because people want as much benefit-oriented information as they personally need to make the purchase.

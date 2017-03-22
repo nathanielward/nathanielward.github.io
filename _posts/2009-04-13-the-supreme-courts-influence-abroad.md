@@ -1,15 +1,20 @@
 ---
 title: The Supreme Court’s Influence Abroad
-author: Nathaniel Ward
-excerpt: "Supreme Court Justice Ruth Bader Ginsburg seems to misunderstand the proper role of the Supreme Court. The courts can serve as a model to the world, but this is a happy consequence of sound judicial decisions, and ought not to be the justices' aim"
-layout: post
+date: 2009-04-13 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Constitution
-  - Rule of Law
-  - Supreme Court
+- Constitution
+- Rule of Law
+- Supreme Court
+author: Nathaniel Ward
+excerpt: Supreme Court Justice Ruth Bader Ginsburg seems to misunderstand the proper
+  role of the Supreme Court. The courts can serve as a model to the world, but this
+  is a happy consequence of sound judicial decisions, and ought not to be the justices'
+  aim
+layout: post
 ---
+
 Supreme Court Justice Ruth Bader Ginsburg seems to [misunderstand the proper role of the Supreme Court][1]:
 
 > She added that the failure to engage foreign decisions had resulted in diminished influence for the United States Supreme Court.

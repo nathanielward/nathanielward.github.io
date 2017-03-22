@@ -1,16 +1,18 @@
 ---
 title: The consequences to marketers of Gmail’s inbox changes
+date: 2013-08-03 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- E-mail
+- E-mail marketing
+- Gmail
+- Google
+- Online marketing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - E-mail
-  - E-mail marketing
-  - Gmail
-  - Google
-  - Online marketing
 ---
+
 The new Gmail inbox design, which diverts marketing e-mails to a separate “Promotions” tab, could pose [a threat to e-mail marketers][1], Jordan Cohen writes.
 
 > While it is still too early to tell what the impact on open and click-through rates will be, marketers are right to be concerned that emails placed in a separate tab will be out of sight, and may also be out of mind (or, in the very least, not top of mind). By last count (June 2012), there were [425 million][2] Gmail users in the world, and it may be up to half a billion by now — so the effect can potentially be substantial.

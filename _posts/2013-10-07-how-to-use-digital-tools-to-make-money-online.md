@@ -1,15 +1,17 @@
 ---
 title: How to use digital tools to make money online
+date: 2013-10-07 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Fundraising
+- Marketing
+- Online fundraising
+- Online marketing
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Fundraising
-  - Marketing
-  - Online fundraising
-  - Online marketing
 ---
+
 Are you looking to raise money online? These four tips may be helpful:
 
   1. Make sure people can donate on your web site

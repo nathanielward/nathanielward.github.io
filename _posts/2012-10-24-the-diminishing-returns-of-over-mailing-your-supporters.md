@@ -1,18 +1,22 @@
 ---
 title: The diminishing returns of over-mailing your supporters
-author: Nathaniel Ward
-excerpt: So long as campaigns can raise the funds and turn out the volunteers now to ensure victory on November 6, what does it matter to them how their supporters behave after that?
-layout: post
+date: 2012-10-24 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - E-mail
-  - E-mail marketing
-  - Election
-  - Fundraising
-  - Online fundraising
-  - Online marketing
+- E-mail
+- E-mail marketing
+- Election
+- Fundraising
+- Online fundraising
+- Online marketing
+author: Nathaniel Ward
+excerpt: So long as campaigns can raise the funds and turn out the volunteers now
+  to ensure victory on November 6, what does it matter to them how their supporters
+  behave after that?
+layout: post
 ---
+
 <img class="alignnone size-full wp-image-1800" title="The Obama campaign sent this e-mail explaining why they send so many fundraising e-mails. It asks for money." src="http://www.nathanielward.net/wp-content/uploads/2012/10/2012-10-24-obama-email-168.jpg" alt="The Obama campaign sent this e-mail explaining why they send so many fundraising e-mails. It asks for money." />
 
 [Tom Belford points out][1] an important article on Politico about [the diminishing returns of political e-mail marketing][2]:

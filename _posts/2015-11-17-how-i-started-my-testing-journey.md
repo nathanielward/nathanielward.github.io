@@ -1,15 +1,17 @@
 ---
 title: How I started my testing journey
+date: 2015-11-17 00:00:00 -05:00
+categories:
+- Marketing
+tags:
+- A/B testing
+- Optimization
+- Testing
+- Tim Kachuriak
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - A/B testing
-  - Optimization
-  - Testing
-  - Tim Kachuriak
 ---
+
 I had a big problem.
 
 The online fundraising campaign I was running had lost steam. Instead of generating thousands of dollars a day, it was generating just hundreds.

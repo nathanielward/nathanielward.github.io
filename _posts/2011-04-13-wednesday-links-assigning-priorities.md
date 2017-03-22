@@ -1,22 +1,24 @@
 ---
 title: 'Wednesday Links: Assigning Priorities'
-author: Nathaniel Ward
-excerpt: How to prioritize tasks; copywriting for sales; the real story of the auto bailout; Facebook marketing; and more.
-layout: post
+date: 2011-04-13 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Auto
-  - Bailout
-  - Copywriting
-  - Deregulation
-  - Facebook
-  - Online marketing
-  - Regulation
-  - Self-Improvement
-  - Tasks
-  - Todd_Zywicki
-  - Typography
+- Auto
+- Bailout
+- Copywriting
+- Deregulation
+- Facebook
+- Online marketing
+- Regulation
+- Self-Improvement
+- Tasks
+- Todd_Zywicki
+- Typography
+author: Nathaniel Ward
+excerpt: How to prioritize tasks; copywriting for sales; the real story of the auto
+  bailout; Facebook marketing; and more.
+layout: post
 ---
 
   * Prioritizing tasks can be hard. Trent Hamm [offers some advice][1] on how to distinguish the important from the merely urgent.

@@ -1,20 +1,22 @@
 ---
 title: 'Friday links: Mysterious symbols explained'
-author: Nathaniel Ward
-excerpt: The secret history of glyphs like the octothorpe; Wizards in red; whether Groupon really works; Rand Paul in action; and yet another political quiz.
-layout: post
+date: 2011-05-11 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Branding
-  - Groupon
-  - Limited Government
-  - Marketing
-  - Megan_McArdle
-  - Politics
-  - Rand Paul
-  - Typography
-  - Washington Wizards
+- Branding
+- Groupon
+- Limited Government
+- Marketing
+- Megan_McArdle
+- Politics
+- Rand Paul
+- Typography
+- Washington Wizards
+author: Nathaniel Ward
+excerpt: The secret history of glyphs like the octothorpe; Wizards in red; whether
+  Groupon really works; Rand Paul in action; and yet another political quiz.
+layout: post
 ---
 
   * Keith Houston’s [Shady Characters][1] offers the secret history of glyphs like the [octothorpe][2] (#), the [interrobang][3] (‽) and the [pilcrow][4] (¶).

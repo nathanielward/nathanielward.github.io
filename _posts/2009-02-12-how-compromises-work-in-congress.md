@@ -1,17 +1,19 @@
 ---
 title: How Compromises Work in Congress
+date: 2009-02-12 00:00:00 -05:00
+categories:
+- Politics and economics
+tags:
+- Amtrak
+- Conference
+- Congress
+- Spending
+- Stimulus
+- Transportation
 author: Nathaniel Ward
 layout: post
-categories:
-  - Politics and economics
-tags:
-  - Amtrak
-  - Conference
-  - Congress
-  - Spending
-  - Stimulus
-  - Transportation
 ---
+
 What happens when the House of Representatives and Senate pass slightly different versions of the same legislation? Any schoolkid can answer that: the House and the Senate send delegates to negotiate a compromise bill.
 
 If only it actually worked that way. All too often, the negotiators don’t split the difference during the House-Senate conference, particularly when it comes to spending. Instead, they pick the higher spending number, increase it, and call it a compromise.

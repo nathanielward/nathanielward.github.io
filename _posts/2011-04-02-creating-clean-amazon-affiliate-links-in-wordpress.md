@@ -1,15 +1,17 @@
 ---
 title: Creating Clean Amazon Affiliate Links in WordPress
+date: 2011-04-02 00:00:00 -04:00
+categories:
+- Miscellany
+tags:
+- Blogging
+- PHP
+- Wordpress
 author: Nathaniel Ward
 excerpt: Automatically generate simple, cruft-free Amazon affiliate links in Wordpress.
 layout: post
-categories:
-  - Miscellany
-tags:
-  - Blogging
-  - PHP
-  - Wordpress
 ---
+
 One way bloggers can earn incremental income is through affiliate marketing programs, among which [Amazon’s ][1]is perhaps the most popular. Bloggers simply link to Amazon products, adding a special referral code, and they are given credit for the sales they generate.
 
 Generating these tracking codes can be something of a pain. [Amazon’s own utility][2] is clumsy and offers up a long, clunky URL. [Ragaskar’s WordPress plugin][3] aims to fill the void by automatically appending tracking codes to Amazon links in posts, but this can still generate clunky links.

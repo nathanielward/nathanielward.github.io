@@ -1,16 +1,18 @@
 ---
 title: Non-profits need to fail more
+date: 2012-12-07 00:00:00 -05:00
+categories:
+- What I’m Reading
+tags:
+- innovation
+- Management
+- Non-Profit
+- Seth Godin
 author: Nathaniel Ward
 layout: post
 linked: http://sethgodin.typepad.com/seths_blog/2012/11/non-profits-more-innovative.html
-categories:
-  - What I’m Reading
-tags:
-  - innovation
-  - Management
-  - Non-Profit
-  - Seth Godin
 ---
+
 Seth Godin says non-profits need to be more innovative, which means they need to be more willing to accept failure:
 
 > Go fail. And then fail again. Non-profit failure is too rare, which means that non-profit innovation is too rare as well. Innovators understand that their job is to fail, repeatedly, until they don’t.

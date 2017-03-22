@@ -1,10 +1,11 @@
 ---
-title: 'Snap out of corporate policy mode'
+title: Snap out of corporate policy mode
+date: 2015-12-21 00:00:00 -05:00
+tags:
+- Customer service
 author: Nathaniel Ward
 layout: post
 linked: https://m.signalvnoise.com/a-reasonable-man-db70cb470dbf#.pmkzpf74q
-tags:
-    - Customer service
 ---
 
 When Jason Fried ran out of contacts while traveling, he went to a Target eye clinic. Instead of being a stickler for policy---Fried's contact lens prescription had technically expired---Ron from Target simply gave him a set of trial lenses at no charge.

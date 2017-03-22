@@ -1,16 +1,19 @@
 ---
 title: Good snark about federal regulations
-author: Nathaniel Ward
-excerpt: Kevin Williamson offers some good snark on federal regulations and the token efforts to clean them up.
-layout: post
+date: 2011-05-27 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Cass Sunstein
-  - Deregulation
-  - Kevin Williamson
-  - Regulation
+- Cass Sunstein
+- Deregulation
+- Kevin Williamson
+- Regulation
+author: Nathaniel Ward
+excerpt: Kevin Williamson offers some good snark on federal regulations and the token
+  efforts to clean them up.
+layout: post
 ---
+
 Kevin Williamson [wades into Regulations​.gov and delivers up this commentary][1]:
 
 > The Federal Register, within living memory about the size of a family Bible, today takes up about 30 feet of shelf space.

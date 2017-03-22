@@ -1,16 +1,18 @@
 ---
 title: Progressivism and Pragmatism
+date: 2009-02-25 00:00:00 -05:00
+categories:
+- Politics and economics
+tags:
+- Herbert Croly
+- Obama
+- Pragmatism
+- Progressivism
+- Stimulus
 author: Nathaniel Ward
 layout: post
-categories:
-  - Politics and economics
-tags:
-  - Herbert Croly
-  - Obama
-  - Pragmatism
-  - Progressivism
-  - Stimulus
 ---
+
 Rich Lowry flags this as the “[scariest passage][1]” in President Obama’s [address to the Congress][2] (emphasis added):
 
 > As soon as I took office, I asked this Congress to send me a recovery plan by President’s Day that would put people back to work and put money in their pockets. **Not because I believe in bigger government — I don’t.** Not because I’m not mindful of the massive debt we’ve inherited – I am. I called for action because the failure to do so would have cost more jobs and caused more hardships. In fact, a failure to act would have worsened our long-term deficit by assuring weak economic growth for years. That’s why I pushed for quick action.

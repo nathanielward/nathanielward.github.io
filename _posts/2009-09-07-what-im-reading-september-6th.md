@@ -1,32 +1,34 @@
 ---
-title: 'What I’m Reading  — September 6<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web on September 6th"
-layout: post
+title: What I’m Reading  — September 6<sup>th</sup>
+date: 2009-09-07 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Bailout
-  - Bubbles
-  - cupcake
-  - David Cameron
-  - Delicious
-  - Economy
-  - Federalism
-  - Fisca Conservatism
-  - Indiana
-  - Mitch_Daniels
-  - Politics and economics
-  - Privatization
-  - retail
-  - salary
-  - Spending
-  - States
-  - Taxes
-  - tories
-  - wages
-  - Washington
+- Bailout
+- Bubbles
+- cupcake
+- David Cameron
+- Delicious
+- Economy
+- Federalism
+- Fisca Conservatism
+- Indiana
+- Mitch_Daniels
+- Politics and economics
+- Privatization
+- retail
+- salary
+- Spending
+- States
+- Taxes
+- tories
+- wages
+- Washington
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web on September 6th
+layout: post
 ---
+
   * [What Washingtonians Make.][1] 
   * [The Cupcake Boom.][2] 
   * [Mitch Daniels Explains the Need for Fiscal Responsibility in the States.][3] “The coming state government reset will be particularly wrenching after the happy binge that preceded this recession. During the last decade, states increased their spending by an average of 6% per year, gusting to 8% during 2007-08. Much of the government institutions built up in those years will now have to be dismantled.”

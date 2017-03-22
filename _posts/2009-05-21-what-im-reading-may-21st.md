@@ -1,27 +1,30 @@
 ---
-title: 'What I’m Reading  — May 21<sup>st</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from May 20th to May 21st."
-layout: post
+title: What I’m Reading  — May 21<sup>st</sup>
+date: 2009-05-21 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Budget
-  - California
-  - Delicious
-  - Design
-  - guantanamo
-  - Healthcare
-  - HTML
-  - Internet Explorer
-  - National Security
-  - Obama
-  - Robert Moffit
-  - Spending
-  - Taxes
-  - terrorism
-  - web
+- Budget
+- California
+- Delicious
+- Design
+- guantanamo
+- Healthcare
+- HTML
+- Internet Explorer
+- National Security
+- Obama
+- Robert Moffit
+- Spending
+- Taxes
+- terrorism
+- web
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from May 20th to May
+  21st.
+layout: post
 ---
+
   * [The Journal on how to fix California’s budget mess][1] Rein in runaway government spending and reform taxes to stop penalizing success.
   * [What happens when you release a terrorist?][2] “An unreleased Pentagon report concludes that about one in seven of the 534 prisoners already transferred abroad from the detention center in Guantánamo Bay, Cuba, has returned to terrorism or militant activity, according to administration officials.”
   * [Obama Would Centralize All Aspects of Health Care][3] 

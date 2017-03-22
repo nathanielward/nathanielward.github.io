@@ -1,25 +1,28 @@
 ---
-title: 'What I’m Reading  — October 26<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from October 22nd to October 26th."
-layout: post
+title: What I’m Reading  — October 26<sup>th</sup>
+date: 2009-10-26 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Competition
-  - Delicious
-  - Federalism
-  - Government
-  - Health Care
-  - Medicare
-  - Obamacare
-  - political_science
-  - Politics
-  - Public Option
-  - social_science
-  - Spending
-  - States
+- Competition
+- Delicious
+- Federalism
+- Government
+- Health Care
+- Medicare
+- Obamacare
+- political_science
+- Politics
+- Public Option
+- social_science
+- Spending
+- States
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from October 22nd to
+  October 26th.
+layout: post
 ---
+
   * [Robert Samuelson on the Public Option.][1] “The promise of the public plan is a mirage. Its political brilliance is to use free-market rhetoric (more ‘choice’ and ‘competition’) to expand government power.”
   * [Unlearning the Lessons of State Health Reforms.][2] “Despite these state-level failures, President Barack Obama and congressional Democrats are pushing forward a slate of similar reforms. Unlike most high-school science fair participants, they seem unaware that the point of doing experiments is to identify what actually works. Instead, they’ve identified what doesn’t—and decided to do it again.”
   * [Just How Relevant Is Political Science?][3]

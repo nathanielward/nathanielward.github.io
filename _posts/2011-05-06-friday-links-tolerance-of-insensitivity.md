@@ -1,20 +1,22 @@
 ---
 title: 'Friday Links: Tolerance of Insensitivity'
-author: Nathaniel Ward
-excerpt: What a multicultural society really needs; the cost of text fundraising; the rise of Megabus; growing dependency; and an EPA rap.
-layout: post
+date: 2011-05-06 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Buses
-  - Dependency
-  - EPA
-  - Fundraising
-  - Mark Steyn
-  - Multiculturalism
-  - SMS
-  - Transportation
-  - Welfare state
+- Buses
+- Dependency
+- EPA
+- Fundraising
+- Mark Steyn
+- Multiculturalism
+- SMS
+- Transportation
+- Welfare state
+author: Nathaniel Ward
+excerpt: What a multicultural society really needs; the cost of text fundraising;
+  the rise of Megabus; growing dependency; and an EPA rap.
+layout: post
 ---
 
   * [Mark Steyn reminds us][1] that “a ‘multicultural’ society needs not sensitivity training but insensitivity training — that’s to say, thicker skins.”

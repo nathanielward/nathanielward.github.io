@@ -1,22 +1,25 @@
 ---
 title: 'Monday Links: Creative Job Listings'
-author: Nathaniel Ward
-excerpt: A clever job listing; the Koch brothers demystified; text-to-donate as an immature technology; real estate without a government tenant; and more.
-layout: post
+date: 2011-03-28 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - 2012
-  - Advertising
-  - CSS
-  - Fundraising
-  - Mobile
-  - Politics
-  - Sports
-  - Tim Pawlenty
-  - Video
-  - Web design
+- 2012
+- Advertising
+- CSS
+- Fundraising
+- Mobile
+- Politics
+- Sports
+- Tim Pawlenty
+- Video
+- Web design
+author: Nathaniel Ward
+excerpt: A clever job listing; the Koch brothers demystified; text-to-donate as an
+  immature technology; real estate without a government tenant; and more.
+layout: post
 ---
+
   * This may be [one of the best job listings][1] ever posted. Best bit: “our ideal candidate has also cursed out an editor, had spokespeople hang up on them in anger and threatened to resign at least once because some fool wanted to screw around with their perfect lede.”
   * Far from being the malefactors portrayed in the media, Charles and David Koch are [idealists committed to a free society][2], Matthew Continetti reports.
   * Charities’ challenges in getting funds from wireless carriers should serve as a reminder to fundraisers that [text-to-donate remains an immature tool][3].

@@ -1,10 +1,11 @@
 ---
 title: Nick Marcelli parodies campaign technology reporters
+date: 2016-11-02 00:00:00 -04:00
+tags:
+- election
+- technology
 author: Nathaniel Ward
 layout: post
-tags: 
-    - election
-    - technology
 ---
 
 Nick Marcelli has already written [the post-election digital strategy article](https://medium.com/@nickmarcelli/every-political-reporters-campaign-tech-article-ever-d46fe7b7e54f#.w6psanub5) you'll read seven times next week:

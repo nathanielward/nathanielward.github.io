@@ -1,10 +1,12 @@
 ---
 title: Why forcing password resets worsens security
+date: 2016-04-16 00:00:00 -04:00
+tags:
+- Security
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Security
 ---
+
 Britain's CESG explains [why they no longer recommend forcing users to reset their passwords](https://www.cesg.gov.uk/articles/problems-forcing-regular-password-expiry):
 
 >The majority of password policies force us to use passwords that we find hard to remember. Our passwords have to be as long as possible and as ‘random’ as possible. And while we can manage this for a handful of passwords, we can’t do this for the dozens of passwords we now use in our online lives.

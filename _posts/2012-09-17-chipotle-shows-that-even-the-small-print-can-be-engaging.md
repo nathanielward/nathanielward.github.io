@@ -1,16 +1,19 @@
 ---
 title: Chipotle shows that even the small print can be engaging
-author: Nathaniel Ward
-excerpt: Someone at Chipotle wanted to make sure even the fine print was fun and casual, as if a human being were writing it, not a lawyer or a marketer.
-layout: post
+date: 2012-09-17 00:00:00 -04:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Chipotle
-  - Copywriting
-  - Marketing
-  - Writing
+- Chipotle
+- Copywriting
+- Marketing
+- Writing
+author: Nathaniel Ward
+excerpt: Someone at Chipotle wanted to make sure even the fine print was fun and casual,
+  as if a human being were writing it, not a lawyer or a marketer.
+layout: post
 ---
+
 ![Free chips, free guac](/images/2012-09-17-chipotle-optimized.jpg)
 
 I got a coupon in the mail from Chipotle the other day. At the bottom was this fine print:

@@ -1,25 +1,28 @@
 ---
 title: Diving into Obama’s online campaign
-author: Nathaniel Ward
-excerpt: "Engage's Patrick Rufini has put together a thorough analysis of the Obama campaign's technology efforts. Here's what it covers."
-layout: post
+date: 2012-12-21 00:00:00 -05:00
 categories:
-  - Marketing
-  - What I’m Reading
+- Marketing
+- What I’m Reading
 tags:
-  - A/B testing
-  - Data
-  - Election
-  - Elections
-  - Fundraising
-  - Mitt Romney
-  - Obama
-  - Online fundraising
-  - Online marketing
-  - Optimization
-  - Patrick Ruffini
-  - Testing
+- A/B testing
+- Data
+- Election
+- Elections
+- Fundraising
+- Mitt Romney
+- Obama
+- Online fundraising
+- Online marketing
+- Optimization
+- Patrick Ruffini
+- Testing
+author: Nathaniel Ward
+excerpt: Engage's Patrick Rufini has put together a thorough analysis of the Obama
+  campaign's technology efforts. Here's what it covers.
+layout: post
 ---
+
 ![Inside the Cave](/images/2012-12-21-cave.jpg)
 
 Engage’s Patrick Rufini has put together [a thorough analysis of the Obama campaign’s technology efforts][1].

@@ -1,25 +1,28 @@
 ---
-title: 'What I’m Reading  — July 12<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from July 8th to July 12th."
-layout: post
+title: What I’m Reading  — July 12<sup>th</sup>
+date: 2009-07-13 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Asia
-  - Bailout
-  - China
-  - Delicious
-  - Economy
-  - Great Powers
-  - india
-  - Japan
-  - Obama
-  - Politics and economics
-  - segway
-  - Stimulus
-  - Transportation
+- Asia
+- Bailout
+- China
+- Delicious
+- Economy
+- Great Powers
+- india
+- Japan
+- Obama
+- Politics and economics
+- segway
+- Stimulus
+- Transportation
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from July 8th to July
+  12th.
+layout: post
 ---
+
   * [Fisking President Obama.][1] “There is a big difference between ‘most severe … since the Great Depression’ and ‘comparable to the Great Depression.’”
   * [Whatever happened to the Segway?][2] 
   * [Is Asian Supremacy Inevitable?][3] Debunking claims about Asia overtaking America and the West.

@@ -1,17 +1,19 @@
 ---
 title: Is friction killing your online fundraising?
-author: Nathaniel Ward
-excerpt: Tim Kachuria, Dan Gillett, and I will tell you how to identify friction and how to limit its effects at the AFP Conference on April 8.
-layout: post
+date: 2012-11-20 00:00:00 -05:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Fundraising
-  - Marketing
-  - Online fundraising
-  - Online marketing
-  - Talks
-  - Tim Kachuriak
+- Fundraising
+- Marketing
+- Online fundraising
+- Online marketing
+- Talks
+- Tim Kachuriak
+author: Nathaniel Ward
+excerpt: Tim Kachuria, Dan Gillett, and I will tell you how to identify friction and
+  how to limit its effects at the AFP Conference on April 8.
+layout: post
 ---
 
 There’s a powerful force keeping your supporters from giving you money online: friction.

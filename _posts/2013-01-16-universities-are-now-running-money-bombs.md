@@ -1,17 +1,19 @@
 ---
 title: Universities are now running money bombs
+date: 2013-01-16 00:00:00 -05:00
+categories:
+- Marketing
+- What I’m Reading
+tags:
+- Fundraising
+- Multi-channel marketing
+- Online fundraising
+- Online marketing
 author: Nathaniel Ward
 layout: post
 linked: http://philanthropy.com/blogs/prospecting/nearly-7-million-raised-in-one-day-online-contest/37591
-categories:
-  - Marketing
-  - What I’m Reading
-tags:
-  - Fundraising
-  - Multi-channel marketing
-  - Online fundraising
-  - Online marketing
 ---
+
 Columbia University ran a one-day online fundraising campaign that drew $6.9 million. It had all the hallmarks of a political-style money bomb:
 
   * A time-limited campaign to create urgency;

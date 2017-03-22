@@ -1,21 +1,23 @@
 ---
 title: 'Monday Links: That’s Not Privatization'
-author: Nathaniel Ward
-excerpt: "Outsourcing isn't the same as privatization; federalism in transportation funding; setting up a merchant account; and rick-rolling the legislature."
-layout: post
+date: 2011-04-11 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Credit Cards
-  - Federalism
-  - Fundraising
-  - Government
-  - Humor
-  - Online marketing
-  - Outsourcing
-  - Privatization
-  - Transportation
-  - Video
+- Credit Cards
+- Federalism
+- Fundraising
+- Government
+- Humor
+- Online marketing
+- Outsourcing
+- Privatization
+- Transportation
+- Video
+author: Nathaniel Ward
+excerpt: Outsourcing isn't the same as privatization; federalism in transportation
+  funding; setting up a merchant account; and rick-rolling the legislature.
+layout: post
 ---
 
   * Municipalities are contracting out various public services like libraries and parking enforcement to private enterprises, and the Washington Post [outlines some of the challenges of this approach][1]. Unfortunately, the Post inaccurately describes this as privatization, which is when government divests itself entirely from a current function. Contracting the function while maintaining ultimate responsibility for its provision is simply outsourcing.

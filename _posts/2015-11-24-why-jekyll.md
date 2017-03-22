@@ -1,11 +1,11 @@
 ---
 title: Why I switched this site to Jekyll
+date: 2015-11-24 05:15:00 -05:00
+tags:
+- WordPress
+- Jekyll
 author: Nathaniel Ward
 layout: post
-date: 2015-11-24 10:15:00
-tags: 
-    - WordPress
-    - Jekyll
 ---
 
 For six years, I used [WordPress](https://www.wordpress.org/) to maintain this site. I hosted the whole setup with the good folks at [Site5](https://www.site5.com/). All in all, it was a fairly standard blog setup.

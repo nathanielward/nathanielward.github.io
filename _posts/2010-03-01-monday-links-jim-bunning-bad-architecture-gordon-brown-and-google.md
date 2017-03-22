@@ -1,20 +1,23 @@
 ---
 title: 'Monday Links: Jim Bunning, Bad Architecture, Gordon Brown and Google'
-author: Nathaniel Ward
-excerpt: "Jim Bunning holds the line on spending; the ugly new American embassy in London; Simon Heffer on Gordon Brown; and Google's algorithm."
-layout: post
+date: 2010-03-01 00:00:00 -05:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Architecture
-  - Britain
-  - Deficit
-  - Google
-  - Gordon Brown
-  - Jim Bunning
-  - Search
-  - Spending
+- Architecture
+- Britain
+- Deficit
+- Google
+- Gordon Brown
+- Jim Bunning
+- Search
+- Spending
+author: Nathaniel Ward
+excerpt: Jim Bunning holds the line on spending; the ugly new American embassy in
+  London; Simon Heffer on Gordon Brown; and Google's algorithm.
+layout: post
 ---
+
   * Sen. Jim Bunning (R-KY) takes an [unpopular yet important stand against deficit spending][1]. Will his colleagues stand with him?
   * Not only is the [winning design][2] for the new U.S. embassy in London embassy horribly ugly, but [so are all the runners-up][3]. Why do so many architects think their buildings have to eschew traditional design conventions to be any good?
   * Simon Heffer offers some [unkind words][4] about the man who could be Britain’s next prime minister ([maybe][5]). “Cameron shifts easily on such issues because he has very few principles, other than his belief in himself as prime minister. If it is feasible one day to reward marriage through the tax system, he will do so. If it is not, he won’t really care less. Such is the mindset of the former public relations man, whose elastic intellect can be placed on whatever side of whatever argument.”

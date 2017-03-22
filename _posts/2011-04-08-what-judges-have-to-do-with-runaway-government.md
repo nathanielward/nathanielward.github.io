@@ -1,21 +1,23 @@
 ---
 title: What Judges Have to Do with Runaway Government
-author: Nathaniel Ward
-excerpt: Government is growing ever more intrusive and arrogant, George Will argues in an important new article. And judges have enabled it to do so.
-layout: post
+date: 2011-04-08 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Big Government
-  - Constitution
-  - Gary Lawson
-  - George Will
-  - Judicial Activism
-  - Law
-  - Liberty
-  - Limited Government
-  - Regulation
-  - Rule of Law
+- Big Government
+- Constitution
+- Gary Lawson
+- George Will
+- Judicial Activism
+- Law
+- Liberty
+- Limited Government
+- Regulation
+- Rule of Law
+author: Nathaniel Ward
+excerpt: Government is growing ever more intrusive and arrogant, George Will argues
+  in an important new article. And judges have enabled it to do so.
+layout: post
 ---
 
 [Government is growing ever more intrusive and arrogant][1], George Will argues in an important new article:

@@ -1,17 +1,19 @@
 ---
 title: Challenge best practices and learn from your customers
+date: 2012-08-28 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Marketing
+- MECLABS
+- Online fundraising
+- Online marketing
+- Video
 author: Nathaniel Ward
 excerpt: A video from my talk at the 2012 Optimization Summit.
 layout: post
-categories:
-  - Marketing
-tags:
-  - Marketing
-  - MECLABS
-  - Online fundraising
-  - Online marketing
-  - Video
 ---
+
 Daniel Burstein [posts a video from my talk at the 2012 Optimization Summit](https://www.youtube.com/watch?v=IxUxxdDzm5U).
 
 Here’s [Burstein’s summary on the Marketing Experiments blog][1]:

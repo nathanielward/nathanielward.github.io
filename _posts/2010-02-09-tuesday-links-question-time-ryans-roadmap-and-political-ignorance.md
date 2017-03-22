@@ -1,20 +1,23 @@
 ---
 title: 'Tuesday Links: Question Time, Ryan’s Roadmap and Political Ignorance'
-author: Nathaniel Ward
-excerpt: "Why are conservatives on board with Question Time at all? Plus: defending Paul Ryan's entitlement reforms; and two surveys demonstrate broad political ignorance."
-layout: post
+date: 2010-02-09 00:00:00 -05:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Cities
-  - Civics
-  - Education
-  - Paul Ryan
-  - Peggy Noonan
-  - Question Time
-  - Rational Ignorance
-  - Urbanism
+- Cities
+- Civics
+- Education
+- Paul Ryan
+- Peggy Noonan
+- Question Time
+- Rational Ignorance
+- Urbanism
+author: Nathaniel Ward
+excerpt: 'Why are conservatives on board with Question Time at all? Plus: defending
+  Paul Ryan''s entitlement reforms; and two surveys demonstrate broad political ignorance.'
+layout: post
 ---
+
 [Peggy Noonan argues][1] that British-style Question Time between lawmakers and the chief executive isn’t what America needs. Why are conservatives on board with this effort at all, save for short-term political reasons? After all, it was progressives like Woodrow Wilson who [argued our Constitution should be more British][2].
 
 Ross Douthat says Rep. Paul Ryan’s budget proposal [offers a way forward][3]: “Ryan’s roadmap holds out the possibility of at least some common ground between the limited-government right and the redistributionist left — and long-term solvency into the bargain.” Reihan Salam, meanwhile, [defends Ryan’s plan][4] from its critics on the Left and concludes that it “offers a stable, sustainable course for the welfare state that promises to be far more stable than a centrally directed alternative that burdens the federal government with more complexity than it can successfully manage.”

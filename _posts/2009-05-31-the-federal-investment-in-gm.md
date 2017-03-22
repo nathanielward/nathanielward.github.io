@@ -1,17 +1,20 @@
 ---
-title: 'The Federal ‘Investment’ in GM'
-author: Nathaniel Ward
-excerpt: "If General Motors' recovery under nationalization were such a sure thing, wouldn't the stock price be increasing, not decreasing?"
-layout: post
+title: The Federal ‘Investment’ in GM
+date: 2009-05-31 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Auto
-  - Bailout
-  - Detroit
-  - General Motors
-  - nationalization
+- Auto
+- Bailout
+- Detroit
+- General Motors
+- nationalization
+author: Nathaniel Ward
+excerpt: If General Motors' recovery under nationalization were such a sure thing,
+  wouldn't the stock price be increasing, not decreasing?
+layout: post
 ---
+
 [Color me skeptical][1]:
 
 > After a planned GM bankruptcy, during which the company will seek to shed burdensome debts, the U.S. and Canadian governments will own 72.5 percent of the reorganized automaker. In addition, GM will owe the United States about $8 billion.

@@ -1,32 +1,35 @@
 ---
-title: 'What I’m Reading  — September 14<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from September 13th to September 14th."
-layout: post
+title: What I’m Reading  — September 14<sup>th</sup>
+date: 2009-09-15 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Bailout
-  - Compromise
-  - corruption
-  - Delicious
-  - Economy
-  - Government
-  - Health Care
-  - Ideology
-  - jews
-  - Judaism
-  - liberalism
-  - Max_Baucus
-  - Norman_Podhoretz
-  - Politics
-  - Politics and economics
-  - Progressivism
-  - recession
-  - religion
-  - Spending
-  - Taxes
+- Bailout
+- Compromise
+- corruption
+- Delicious
+- Economy
+- Government
+- Health Care
+- Ideology
+- jews
+- Judaism
+- liberalism
+- Max_Baucus
+- Norman_Podhoretz
+- Politics
+- Politics and economics
+- Progressivism
+- recession
+- religion
+- Spending
+- Taxes
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from September 13th
+  to September 14th.
+layout: post
 ---
+
   * [Class Warfare.][1] Responding to hard times, governments around the world decide not to tighten their belts but to increase their revenues through punitive taxes.
   * [Is This Really a Compromise?][2] The Baucus proposal addresses superficial concerns but doesn’t address the principal conservative complaint about the Left’s health care plan: that it vastly increases the size and scope of the federal government.
   * [Norman Podhoretz on Why Jews are Liberals.][3] “[I]n virtually every instance of a clash between Jewish law and contemporary liberalism, it is the liberal creed that prevails for most American Jews. Which is to say that for them, liberalism has become more than a political outlook. It has for all practical purposes superseded Judaism and become a religion in its own right.”

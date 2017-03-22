@@ -1,9 +1,10 @@
 ---
 title: The purpose of a fundraising email
+date: 2016-05-07 00:00:00 -04:00
+tags:
+- Security
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Security
 ---
 
 Quick quiz: When you send out a fundraising email, do you measure its success based on:

@@ -1,24 +1,27 @@
 ---
-title: 'What I’m Reading  — September 16<sup>th</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from September 15th to September 16th."
-layout: post
+title: What I’m Reading  — September 16<sup>th</sup>
+date: 2009-09-17 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Bicycle
-  - Books
-  - Copywriting
-  - Delicious
-  - Free enterprise
-  - Humor
-  - Obama
-  - protectionism
-  - Spending
-  - trade
-  - Transit
-  - Union_Station
+- Bicycle
+- Books
+- Copywriting
+- Delicious
+- Free enterprise
+- Humor
+- Obama
+- protectionism
+- Spending
+- trade
+- Transit
+- Union_Station
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from September 15th
+  to September 16th.
+layout: post
 ---
+
   * [Updated Book Titles.][1] 
   * [Washington’s Most Expensive Bike Rack.][2] It features all kinds of amenities and cost $4 million. And it was paid for with your tax dollars, of course.
   * [The Unintended Consequences of Protectionism.][3] “Mr. Obama may not intend to start a trade war, but then Hoover didn’t set out to pick one either. His political abdication is what made it possible, however, and trade passions once unleashed can be impossible to control. On his present course, President Obama is giving the world every reason to conclude he is a protectionist.”

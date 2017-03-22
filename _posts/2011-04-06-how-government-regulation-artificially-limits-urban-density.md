@@ -1,17 +1,19 @@
 ---
 title: How Government Regulation Artificially Limits Urban Density
-author: Nathaniel Ward
-excerpt: How government interventions in the free market have promoted auto-oriented urban design over denser, more walkable forms.
-layout: post
+date: 2011-04-06 00:00:00 -04:00
 categories:
-  - Politics and economics
+- Politics and economics
 tags:
-  - Cities
-  - Donald Shoup
-  - Ed Glaeser
-  - Parking
-  - Regulation
-  - Urbanism
+- Cities
+- Donald Shoup
+- Ed Glaeser
+- Parking
+- Regulation
+- Urbanism
+author: Nathaniel Ward
+excerpt: How government interventions in the free market have promoted auto-oriented
+  urban design over denser, more walkable forms.
+layout: post
 ---
 
 Like many urban problems, the decline of walkable, livable urban centers can be traced to government intervention. In *[Triumph of the City][1], *Ed Glaeser argues that restrictive zoning regulations served only to distort markets, artificially limit density and make dense areas unaffordable.

@@ -1,15 +1,17 @@
 ---
 title: LinkedIn’s April Fool’s Joke
+date: 2011-04-01 00:00:00 -04:00
+categories:
+- Miscellany
+tags:
+- Google
+- Humor
+- LinkedIn
+- Technology
 author: Nathaniel Ward
 layout: post
-categories:
-  - Miscellany
-tags:
-  - Google
-  - Humor
-  - LinkedIn
-  - Technology
 ---
+
 ![LinkedIn's 2011 April Fool's Joke](/images/2011-04-01_LinkedIn.png)
 
 Technology firms have often used April 1 as a chance to play pranks on their customers. Google, for example, is [famous for these hoaxes][1], to the point that its 2004 launch of Gmail (on April 1) was [originally viewed as a joke][2].

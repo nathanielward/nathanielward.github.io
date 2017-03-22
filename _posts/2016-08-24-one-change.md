@@ -1,10 +1,11 @@
 ---
-title: 	‘Realistically, do you care?’
+title: "‘Realistically, do you care?’"
+date: 2016-08-24 00:00:00 -04:00
+tags:
+- Optimization
+- Testing
 author: Nathaniel Ward
 layout: post
-tags: 
-    - Optimization
-    - Testing
 ---
 
 "For most websites, 'change only one thing per test' is pretty bad advice," [Alex Birkett writes at Conversion XL](http://conversionxl.com/one-change-per-test/):

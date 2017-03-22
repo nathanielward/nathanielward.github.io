@@ -1,19 +1,21 @@
 ---
 title: Bad data habits that make you a sloppy online marketer
+date: 2013-09-17 00:00:00 -04:00
+categories:
+- Marketing
+tags:
+- Big data
+- Data
+- E-mail
+- E-mail marketing
+- Marketing
+- Online fundraising
+- Online marketing
+- Optimization
 author: Nathaniel Ward
 layout: post
-categories:
-  - Marketing
-tags:
-  - Big data
-  - Data
-  - E-mail
-  - E-mail marketing
-  - Marketing
-  - Online fundraising
-  - Online marketing
-  - Optimization
 ---
+
 It’s easy for you to fall into bad habits as an online marketer, especially when it comes to data analysis. And your decision-making using misunderstood data may be just as bad as your [decision-making based on gut instinct][1].
 
 The tools you’re given of of little help. They bury the useful data deep in report pages.

@@ -1,23 +1,27 @@
 ---
 title: Your gut instincts as a marketer are probably wrong
-author: Nathaniel Ward
-excerpt: "The Obama campaign succeeded online in part because it didn't know what worked--and admitted it. That's the hallmark of a good marketer: humility about your skills, a willingness to constantly check your core assumptions."
-layout: post
+date: 2012-12-15 00:00:00 -05:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - A/B testing
-  - Data
-  - E-mail marketing
-  - Ed Catmull
-  - Election
-  - Fundraising
-  - Obama
-  - Online fundraising
-  - Online marketing
-  - Optimization
-  - Testing
+- A/B testing
+- Data
+- E-mail marketing
+- Ed Catmull
+- Election
+- Fundraising
+- Obama
+- Online fundraising
+- Online marketing
+- Optimization
+- Testing
+author: Nathaniel Ward
+excerpt: 'The Obama campaign succeeded online in part because it didn''t know what
+  worked--and admitted it. That''s the hallmark of a good marketer: humility about
+  your skills, a willingness to constantly check your core assumptions.'
+layout: post
 ---
+
 ![Obama landing pages a/b test](/images/2012-12-15-obama-landing-ab.jpg)
 
 [Time’s writeup of the Obama campaign’s][1] online and data efforts, [linked earlier][2], is fascinating reading.

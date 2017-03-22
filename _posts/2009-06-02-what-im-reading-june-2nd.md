@@ -1,28 +1,31 @@
 ---
-title: 'What I’m Reading  — June 2<sup>nd</sup>'
-author: Nathaniel Ward
-excerpt: "Some of the links I've collected from around the web from June 1st to June 2nd."
-layout: post
+title: What I’m Reading  — June 2<sup>nd</sup>
+date: 2009-06-02 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Abortion
-  - Britain
-  - Delicious
-  - Expenses Scandal
-  - george_tiller
-  - Humor
-  - labour
-  - murder
-  - parliament
-  - parody
-  - Paul Krugman
-  - Politics and economics
-  - prediction
-  - Robert George
-  - Rule of Law
-  - Video
+- Abortion
+- Britain
+- Delicious
+- Expenses Scandal
+- george_tiller
+- Humor
+- labour
+- murder
+- parliament
+- parody
+- Paul Krugman
+- Politics and economics
+- prediction
+- Robert George
+- Rule of Law
+- Video
+author: Nathaniel Ward
+excerpt: Some of the links I've collected from around the web from June 1st to June
+  2nd.
+layout: post
 ---
+
   * [The Astounding World of the Future!][1] 
   * [Nostalgianomics.][2] Was the mid-20<sup>th</sup> century really all that Paul Krugman says it was?
   * [Next Up, Alistair Darling.][3] This doesn’t look good for Labour.

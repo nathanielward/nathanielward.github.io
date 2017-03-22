@@ -1,15 +1,18 @@
 ---
-title: 'Wednesday Links: Why iPads Won’t Replace Newspapers; Entitlement Reform; Young People and Cities'
+title: 'Wednesday Links: Why iPads Won’t Replace Newspapers; Entitlement Reform; Young
+  People and Cities'
+date: 2011-01-26 00:00:00 -05:00
+categories:
+- What I’m Reading
+tags:
+- Apple
+- Entitlements
+- Urbanism
+- Web design
 author: Nathaniel Ward
 layout: post
-categories:
-  - What I’m Reading
-tags:
-  - Apple
-  - Entitlements
-  - Urbanism
-  - Web design
 ---
+
 Yuval Levin argues that conservatives should [start making the case for entitlement reforms now][1], even if reforms can’t be enacted in the short run.
 
 Smashing Magazine offers up examples of [stylish e-commerce designs][2]. Of course, the visual design of an e-commerce site is properly secondary to its main purpose: sales.

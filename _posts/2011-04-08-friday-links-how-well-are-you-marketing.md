@@ -1,24 +1,27 @@
 ---
 title: 'Friday Links: How Well Are You Marketing?'
-author: Nathaniel Ward
-excerpt: "Over-mailing your e-mail list; fundraising benchmarks; China's real estate bubble; union jokes; and Alex Ovechkin's performance."
-layout: post
+date: 2011-04-08 00:00:00 -04:00
 categories:
-  - What I’m Reading
+- What I’m Reading
 tags:
-  - Alex Ovechkin
-  - Capitals
-  - China
-  - Dan Mitchell
-  - E-mail marketing
-  - Fundraising
-  - Hockey
-  - Marketing
-  - Non-Profit
-  - Planning
-  - Statism
-  - Unions
+- Alex Ovechkin
+- Capitals
+- China
+- Dan Mitchell
+- E-mail marketing
+- Fundraising
+- Hockey
+- Marketing
+- Non-Profit
+- Planning
+- Statism
+- Unions
+author: Nathaniel Ward
+excerpt: Over-mailing your e-mail list; fundraising benchmarks; China's real estate
+  bubble; union jokes; and Alex Ovechkin's performance.
+layout: post
 ---
+
   * Loren McDonald asks [if e-mail marketers are sending too many messages][1] and offers some ways you can tell if you’re over-sending.
   * Target Analytics has released its [2011 index of non-profit fundrasing performance][2], based on 83 organizations. Roger Craver wants to know [what these organizations’ direct marketers are doing wrong][2].
   * You thought America had a real estate bubble? China’s central planners have built [whole *cities*][3] that now lie empty. [Via Tim Cavanaugh][4].

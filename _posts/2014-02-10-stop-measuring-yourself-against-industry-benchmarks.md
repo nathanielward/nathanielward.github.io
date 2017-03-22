@@ -1,16 +1,19 @@
 ---
 title: Stop measuring yourself against industry benchmarks
-author: Nathaniel Ward
-excerpt: Are you basing your online marketing plans on the latest benchmark study? What on earth for?
-layout: post
+date: 2014-02-10 00:00:00 -05:00
 categories:
-  - Marketing
+- Marketing
 tags:
-  - Best practices
-  - Flint McGlaughlin
-  - Marketing
-  - Optimization
+- Best practices
+- Flint McGlaughlin
+- Marketing
+- Optimization
+author: Nathaniel Ward
+excerpt: Are you basing your online marketing plans on the latest benchmark study?
+  What on earth for?
+layout: post
 ---
+
 Are you basing your online marketing plans on the latest benchmark study? What on earth for?
 
 A.G. Lafley and Roger Martin explain why this is foolish in *[Playing to Win][1]:*

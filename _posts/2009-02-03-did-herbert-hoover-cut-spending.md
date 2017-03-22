@@ -1,19 +1,21 @@
 ---
 title: Did Herbert Hoover Cut Spending?
+date: 2009-02-03 00:00:00 -05:00
+categories:
+- Politics and economics
+tags:
+- Depression
+- Hoover
+- Krugman
+- New York Times
+- Politics
+- Politics and economics
+- Spending
 author: Nathaniel Ward
 excerpt: 'Paul Krugman is wrong: Herbert Hoover did not cut federal spending.'
 layout: post
-categories:
-  - Politics and economics
-tags:
-  - Depression
-  - Hoover
-  - Krugman
-  - New York Times
-  - Politics
-  - Politics and economics
-  - Spending
 ---
+
 Paul Krugman makes [an astounding assertion in the New York Times][1]:
 
 > Remember, Herbert Hoover … slash[ed] spending and raise[d] taxes in the face of the Great Depression. Unfortunately, that just made things worse.
