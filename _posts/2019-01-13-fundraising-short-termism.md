@@ -1,6 +1,6 @@
 ---
 title: Fundraising short-termism
-date: 2019-01-13 16:00:00 -04:00
+date: 2019-01-13 15:00:00 -05:00
 tags:
 - election
 - marketing
