@@ -22,8 +22,7 @@ Paul Krugman makes [an astounding assertion in the New York Times][1]:
 
 Hoover “slashed spending”? Um–no. He was hardly a model of fiscal restraint, laissez-faire or anything of the sort.
 
-
-  <caption>Federal spending, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption>
+<caption>Federal spending, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption>
 
 | Year | [Federal spending ($ billions)](http://www.usgovernmentspending.com/) |
 | --- | --- |
@@ -37,7 +36,7 @@ That’s a 55% increase in nominal spending during Hoover’s term in office, wh
 
 Krugman’s not wrong on one thing: Hoover sure did raise tax rates on income.
 
-  <caption>Federal tax revenue, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption> <tr>
+<caption>Federal tax revenue, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption> <tr>
 
 | Year | [Revenue from taxes ($ billions)](http://www.usgovernmentspending.com/) | [Top tax rate](http://www.truthandpolitics.org/top-rates.php) |
 | --- | --- | --- |
