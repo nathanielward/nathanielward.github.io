@@ -309,11 +309,12 @@ em, i {
 table {
 	font-family: $brand-face;
 	margin: auto;
+	border-collapse: collapse;
 	}
 
 td, th {
 	padding: 0 1em;	
-}
+	}
 
 thead {
 	border-top: 1px solid $highlight-color;
