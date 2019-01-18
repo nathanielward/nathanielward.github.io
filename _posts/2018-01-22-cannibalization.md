@@ -1,6 +1,6 @@
 ---
 title: No, your email fundraising probably isn’t cannibalizing your direct mail fundraising
-date: 2018-01-22 10:00:00 -04:00
+date: 2018-01-22 09:00:00 -05:00
 tags:
 - testing
 - fundraising
@@ -9,6 +9,7 @@ tags:
 author: Nathaniel Ward
 layout: post
 ---
+
 Several years back, The Heritage Foundation conducted a substantial test to determine the effect of a multi-channel approach to fundraising.
 
 We sought to definitively answer the question: are we better off sending just a direct mail letter, sending only emails, or sending both?
