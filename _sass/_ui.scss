@@ -308,8 +308,13 @@ em, i {
 	}
 table {
 	font-family: $brand-face;
+	margin: auto;
 	}
-	
+
+td, th {
+	padding: 0 1em;	
+}
+
 th {
 	border-top: 1px solid $highlight-color;
 	border-bottom: 1px solid $highlight-color;
