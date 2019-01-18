@@ -22,157 +22,30 @@ Paul Krugman makes [an astounding assertion in the New York Times][1]:
 
 Hoover “slashed spending”? Um–no. He was hardly a model of fiscal restraint, laissez-faire or anything of the sort.
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <caption>Federal spending, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption> <tr>
-    <th>
-      Year
-    </th>
-    
-    <th>
-      [Federal spending ($ billions)](http://www.usgovernmentspending.com/)
-    </th>
-  </tr>
-  
-  <tr>
-    <td>
-      1929
-    </td>
-    
-    <td>
-      $3.8
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1930
-    </td>
-    
-    <td>
-      $4.0
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1931
-    </td>
-    
-    <td>
-      $4.1
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1932
-    </td>
-    
-    <td>
-      $4.3
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1933
-    </td>
-    
-    <td>
-      $5.1
-    </td>
-  </tr>
-</table>
+
+  <caption>Federal spending, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption>
+
+| Year | [Federal spending ($ billions)](http://www.usgovernmentspending.com/) |
+| --- | --- |
+| 1929 | $3.8 |
+| 1930 | $4.0 |
+| 1931 | $4.1 |
+| 1932 | $4.3 |
+| 1933 | $5.1 |
 
 That’s a 55% increase in nominal spending during Hoover’s term in office, which was a period of marked deflation. Put another way, spending increased from 4% of GDP to 9% of GDP–a doubling of spending in four years.
 
 Krugman’s not wrong on one thing: Hoover sure did raise tax rates on income.
 
-<table border="0" cellspacing="0" cellpadding="0">
   <caption>Federal tax revenue, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption> <tr>
-    <th>
-      Year
-    </th>
-    
-    <th>
-      [Revenue from taxes ($ billions)](http://www.usgovernmentspending.com/)
-    </th>
-    
-    <th>
-      [Top tax rate](http://www.truthandpolitics.org/top-rates.php)
-    </th>
-  </tr>
-  
-  <tr>
-    <td>
-      1929
-    </td>
-    
-    <td>
-      $4.2
-    </td>
-    
-    <td>
-      24%
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1930
-    </td>
-    
-    <td>
-      $4.2
-    </td>
-    
-    <td>
-      25
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1931
-    </td>
-    
-    <td>
-      $3.4
-    </td>
-    
-    <td>
-      25
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1932
-    </td>
-    
-    <td>
-      $2.5
-    </td>
-    
-    <td>
-      63
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      1933
-    </td>
-    
-    <td>
-      $3.0
-    </td>
-    
-    <td>
-      63
-    </td>
-  </tr>
-</table>
+
+| Year | [Revenue from taxes ($ billions)](http://www.usgovernmentspending.com/) | [Top tax rate](http://www.truthandpolitics.org/top-rates.php) |
+| --- | --- | --- |
+| 1929 | $4.2 | 24% |
+| 1930 | $4.2 | 25 |
+| 1931 | $3.4 | 25 |
+| 1932 | $2.5 | 63 |
+| 1933 | $3.0 | 63 |
 
 Nominal tax revenues collapsed even with Hoover’s higher tax rates (by today’s progressive definition, that means that from 1931 to 1932 he enacted a 25% tax cut). Even with the 160% higher rates, the percent of GDP taken increased just 25%, from 4% to 5% of GDP. Could there be a link between higher tax rates and reduced economic activity and reduced revenue?
 
