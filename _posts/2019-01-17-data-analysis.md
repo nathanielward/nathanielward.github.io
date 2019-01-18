@@ -1,6 +1,6 @@
 ---
 title: When data analysis goes wrong
-date: 2019-01-17 22:00:00 -04:00
+date: 2019-01-17 21:00:00 -05:00
 tags:
 - data
 author: Nathaniel Ward
