@@ -36,7 +36,7 @@ That’s a 55% increase in nominal spending during Hoover’s term in office, wh
 
 Krugman’s not wrong on one thing: Hoover sure did raise tax rates on income.
 
-<caption>Federal tax revenue, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption> <tr>
+<caption>Federal tax revenue, 1929 (last Coolidge budget) to 1933 (last Hoover budget)</caption>
 
 | Year | [Revenue from taxes ($ billions)](http://www.usgovernmentspending.com/) | [Top tax rate](http://www.truthandpolitics.org/top-rates.php) |
 | --- | --- | --- |
