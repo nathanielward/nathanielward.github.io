@@ -14,6 +14,7 @@ $background-color:	#fff;
 $highlight-color:	#f28b10;	// orange
 $link-color:		#084769;	// blue-green
 $link-hover-color:	#032d44;	// dark blue-green
+$meta-color:		#999;		// light gray
 
 body {
    padding: 50px 0;
@@ -92,9 +93,9 @@ p, li {
 
 
 blockquote{
-    quotes:"";
-	margin:0 2.5em;
-    text-indent:0;
+   quotes:"";
+   margin:0 2.5em;
+   text-indent:0;
     
     p {
     	font-style: italic;
@@ -103,24 +104,6 @@ blockquote{
 	i, em {
 		font-style: normal;
 		}
-
-    p:before{
-        content:"";
-        content:"";
-    	}
-    p:after{
-        content:"";
-    	}
-    p:last-of-type:after{
-        content:"";
-    	}
-
-    q:before{
-        content:"";
-    	}
-    q:after{
-        content:"";
-   	 	}
 
     p:last-of-type{
     	margin-bottom: $base-line-height;
@@ -133,6 +116,8 @@ p.meta {
 	letter-spacing: $base-letter-spacing;
 	margin-top: $base-line-height;
 	text-transform: uppercase;
+	color: $meta-color;
+	font-weight: 500;
 }
 
 .unsupervised {
