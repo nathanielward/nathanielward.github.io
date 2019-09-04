@@ -27,7 +27,7 @@ layout: default
 				{% if post.linked %}<p><a class="permalink" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
 			</section>
 			<footer>
-			<p class="meta"><span class="meta-ital">By</span> Nathaniel Ward <span class="meta-ital">on</span> <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+			<p class="meta"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 
 
 			</footer>
