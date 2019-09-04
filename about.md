@@ -4,19 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-I am an online marketer in my hometown of Washington, D.C.
+I am a marketer and fundraiser in Washington, DC, working to advance freedom.
 
-A frequent speaker on online marketing and optimization, including at the Marketing Sherpa Optimization Summit, the Direct Marketing Association Nonprofit Conference, and the Leadership Institute, I oversee online fundraising at The Heritage Foundation.
+A frequent speaker on fundraising, online marketing, and optimization, I built the Heritage Foundation's online fundraising program. Today I inspire people to give more and more often to the Leadership Institute.
 
-Before joining Heritage, I earned a degree in government from Dartmouth College, where I served as an editor at [*The Dartmouth Review*][1]. I also hold a Masters in Business Administration from Georgetown University’s McDonough School of Business.
+While at Dartmouth College, I served as an editor at *The Dartmouth Review* and earned a degree in government. Getting my MBA from Georgetown University’s McDonough School of Business taught me that the most valuable lessons come from experience.
 
 Opinions expressed on this site are my own.
 
 ## Contact me
 
-Have a question? [Send me a tweet][2]. Or find me on [Facebook][3] or [LinkedIn][4]. 
+Have a question? [Send me a tweet][2]. Or find me on [micro.blog][3] or [LinkedIn][4]. 
 
  [1]: http://www.dartreview.com/ "The Dartmouth Review"
- [2]: https://twitter.com/?status=Hey,%20@nathanielward%20
- [3]: https://www.facebook.com/nathanielward
- [4]: http://www.linkedin.com/in/nathanieleward/
+ [2]: https://twitter.com/?status=Hey,%20@nathanielward%20 "@ me"
+ [3]: https://nathanielward.micro.blog "Microbloggery"
+ [4]: http://www.linkedin.com/in/nathanieleward/ "Not as bad as Facebook"
