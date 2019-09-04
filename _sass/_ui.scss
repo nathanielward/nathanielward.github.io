@@ -55,8 +55,8 @@ div.grid__item.sidebar {
 	border: none;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	margin-bottom: $base-line-height;
-	margin-top: 3.5rem;
+	margin-bottom: $base-line-height*2; 	// 54px
+	margin-top: $base-line-height*2;	// 54px
 	}
 	
 h1 {
