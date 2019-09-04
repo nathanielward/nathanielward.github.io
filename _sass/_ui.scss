@@ -232,11 +232,6 @@ em, i {
 	font-style: italic;
 	}
 
-	.intro em, intro i {
-		font-style: normal;
-		background-color: rgba($highlight-color, 0.65);
-		}
-
 .meta-ital {
 	text-transform: none;
 	font-style: italic;
@@ -290,6 +285,10 @@ thead {
 
 /*--- MISC ---*/
 
+img {
+	max-width: 100%;
+	}
+
 // ensure iframes expand to fill width
 iframe {
 	//height:auto !important;
@@ -326,10 +325,5 @@ iframe {
 	   //font-size: 1.789em;	//	34px = 19 * 1.789
 	   //line-height: 1.25em; // 	42.5 = 34 * 1.25
 	}
-	
-	img {
-		max-width: 100%;
-		}
-
 
 }
