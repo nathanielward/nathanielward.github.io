@@ -16,6 +16,15 @@ $link-color:		#084769;	// blue-green
 $link-hover-color:	#032d44;	// dark blue-green
 $meta-color:		#999;		// light gray
 
+$darkmode-media:	"(prefers-color-scheme: dark)";
+$background-color-dark:	#000;
+$text-color-dark:       #bbb;
+$header-color-dark:	#ddd;
+$highlight-color-dark:	#f1ab5d;	// orange
+$link-color-dark:	#129fec;	// blue-green
+$link-hover-color-dark:	#0873ad;	// dark blue-green
+$meta-color-dark:	#999;		// light gray
+
 body {
    padding: 50px 0;
    font-size: $base-font-size;
@@ -23,6 +32,10 @@ body {
    font-style: normal;
    font-weight: 400;
    color: $text-color;
+   @media #{$darkmode-media} {
+	   color: $text-color-dark; 
+	   background color: $background-color-dark;
+	}
 }
 
 div.grid {
@@ -52,6 +65,9 @@ div.grid__item.sidebar {
 
 .rule {
 	color: $highlight-color;
+	@media #{$darkmode-media} {
+	   color: $highlight-color-dark; 
+	}
 	border: none;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
@@ -66,6 +82,9 @@ h1 {
    font-weight: 600;
    font-style: normal;
    color: $header-color;
+   @media #{$darkmode-media} {
+	   color: $header-color-dark; 
+	}
    width: 98%;
    letter-spacing: $base-letter-spacing/2;
 }
@@ -80,7 +99,10 @@ h2 {
    margin: 0px 0px $base-line-height 0px;
    font-weight: 400;
    color: $header-color;
+   @media #{$darkmode-media} {
+	   color: $header-color-dark; 
 	}
+}
 
 p, li {
    font-size: 1em;
@@ -116,6 +138,9 @@ p.meta {
 	margin-top: $base-line-height;
 	text-transform: uppercase;
 	color: $meta-color;
+	@media #{$darkmode-media} {
+	   color: $meta-color-dark; 
+	}
 	font-weight: 500;
 }
 
@@ -150,36 +175,63 @@ p.meta {
 /*--- LINKS ---*/
 a {
 	color: $link-color;
+	@media #{$darkmode-media} {
+	   color: $link-color-dark; 
+	}
 	text-decoration:none;
 	}
 
 h1 a, .h2 a, .unsupervised a {
 	color: $header-color;
+	@media #{$darkmode-media} {
+	   color: $header-color-dark; 
+	}
 	}
 
 a:hover{
 	color: $link-hover-color;
+	@media #{$darkmode-media} {
+	   color: $link-hover-color-dark; 
+	}
 	}
 
-h1 a:hover, h1 a.permalink:hover { color: $link-color; }
+h1 a:hover, h1 a.permalink:hover { 
+	color: $link-color; 
+	@media #{$darkmode-media} {
+	   color: $link-color-dark; 
+	}
+}
 
 .unsupervised, .post_content h1 {
 	a {
 		color: $text-color;
+		@media #{$darkmode-media} {
+		   color: $text-color-dark; 
+		}
 		border-bottom: 0px;
 		}
 	a:hover {
 		color: $link-color;
 		border-bottom: 1px dotted $link-color;
+		@media #{$darkmode-media} {
+		   color: $link-color-dark; 
+		   border-bottom-color: $link-color-dark;
+		}
 		}
 	}
 
 .post_content, .info, .meta, .sidebar {
 	a {
 		border-bottom: 1px dotted $link-color;
+		@media #{$darkmode-media} {
+		   	border-bottom-color: $link-color-dark; 
+		}
 		}
 	a:hover {
 		border-bottom: 1px solid $link-hover-color;
+		@media #{$darkmode-media} {
+			border-bottom-color: $link-hover-color-dark; 
+		}
 		}
 	}
 
@@ -263,6 +315,10 @@ td, th {
 thead {
 	border-top: 1px solid $highlight-color;
 	border-bottom: 1px solid $highlight-color;
+	@media #{$darkmode-media} {
+		border-top-color: $highlight-color-dark; 
+		border-bottom-color: $hightlight-color-dark;
+	}
 	}
 
 
@@ -281,9 +337,15 @@ iframe {
 
 ::selection {
 	background: $highlight-color; /* Safari */
+	@media #{$darkmode-media} {
+	   background: $highlight-color-dark; 
+	}
 	}
 ::-moz-selection {
 	background: $highlight-color; /* Firefox */
+	@media #{$darkmode-media} {
+	   background: $highlight-color-dark; 
+	}
 }
 
 
