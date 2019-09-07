@@ -16,7 +16,10 @@ $link-color:		#084769;	// blue-green
 $link-hover-color:	#032d44;	// dark blue-green
 $meta-color:		#999;		// light gray
 
-$darkmode-media:	"(prefers-color-scheme: dark)";
+// Dark mode
+@mixin dark-mode {
+  @media (prefers-color-scheme: dark) { @content; }
+}
 $background-color-dark:	#000;
 $text-color-dark:       #bbb;
 $header-color-dark:	#ddd;
@@ -32,7 +35,7 @@ body {
    font-style: normal;
    font-weight: 400;
    color: $text-color;
-   @media #{$darkmode-media} {
+   @include dark-mode {
 	   color: $text-color-dark; 
 	   background-color: $background-color-dark;
 	}
@@ -65,7 +68,7 @@ div.grid__item.sidebar {
 
 .rule {
 	color: $highlight-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $highlight-color-dark; 
 	}
 	border: none;
@@ -82,7 +85,7 @@ h1 {
    font-weight: 600;
    font-style: normal;
    color: $header-color;
-   @media #{$darkmode-media} {
+   @include dark-mode {
 	   color: $header-color-dark; 
 	}
    width: 98%;
@@ -99,7 +102,7 @@ h2 {
    margin: 0px 0px $base-line-height 0px;
    font-weight: 400;
    color: $header-color;
-   @media #{$darkmode-media} {
+   @include dark-mode {
 	   color: $header-color-dark; 
 	}
 }
@@ -138,7 +141,7 @@ p.meta {
 	margin-top: $base-line-height;
 	text-transform: uppercase;
 	color: $meta-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $meta-color-dark; 
 	}
 	font-weight: 500;
@@ -175,7 +178,7 @@ p.meta {
 /*--- LINKS ---*/
 a {
 	color: $link-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $link-color-dark; 
 	}
 	text-decoration:none;
@@ -183,21 +186,21 @@ a {
 
 h1 a, .h2 a, .unsupervised a {
 	color: $header-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $header-color-dark; 
 	}
 	}
 
 a:hover{
 	color: $link-hover-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $link-hover-color-dark; 
 	}
 	}
 
 h1 a:hover, h1 a.permalink:hover { 
 	color: $link-color; 
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   color: $link-color-dark; 
 	}
 }
@@ -205,7 +208,7 @@ h1 a:hover, h1 a.permalink:hover {
 .unsupervised, .post_content h1 {
 	a {
 		color: $text-color;
-		@media #{$darkmode-media} {
+		@include dark-mode {
 		   color: $text-color-dark; 
 		}
 		border-bottom: 0px;
@@ -213,7 +216,7 @@ h1 a:hover, h1 a.permalink:hover {
 	a:hover {
 		color: $link-color;
 		border-bottom: 1px dotted $link-color;
-		@media #{$darkmode-media} {
+		@include dark-mode {
 		   color: $link-color-dark; 
 		   border-bottom-color: $link-color-dark;
 		}
@@ -223,13 +226,13 @@ h1 a:hover, h1 a.permalink:hover {
 .post_content, .info, .meta, .sidebar {
 	a {
 		border-bottom: 1px dotted $link-color;
-		@media #{$darkmode-media} {
+		@include dark-mode {
 		   	border-bottom-color: $link-color-dark; 
 		}
 		}
 	a:hover {
 		border-bottom: 1px solid $link-hover-color;
-		@media #{$darkmode-media} {
+		@include dark-mode {
 			border-bottom-color: $link-hover-color-dark; 
 		}
 		}
@@ -315,7 +318,7 @@ td, th {
 thead {
 	border-top: 1px solid $highlight-color;
 	border-bottom: 1px solid $highlight-color;
-	@media #{$darkmode-media} {
+	@include dark-mode {
 		border-top-color: $highlight-color-dark; 
 		border-bottom-color: $highlight-color-dark;
 	}
@@ -337,13 +340,13 @@ iframe {
 
 ::selection {
 	background: $highlight-color; /* Safari */
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   background: $highlight-color-dark; 
 	}
 	}
 ::-moz-selection {
 	background: $highlight-color; /* Firefox */
-	@media #{$darkmode-media} {
+	@include dark-mode {
 	   background: $highlight-color-dark; 
 	}
 }
