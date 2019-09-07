@@ -34,7 +34,7 @@ body {
    color: $text-color;
    @media #{$darkmode-media} {
 	   color: $text-color-dark; 
-	   background color: $background-color-dark;
+	   background-color: $background-color-dark;
 	}
 }
 
