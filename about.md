@@ -18,5 +18,5 @@ Have a question? [Send me a tweet][2]. Or find me on [micro.blog][3] or [LinkedI
 
  [1]: http://www.dartreview.com/ "The Dartmouth Review"
  [2]: https://twitter.com/?status=Hey,%20@nathanielward%20 "@ me"
- [3]: https://nathanielward.micro.blog "Microbloggery"
+ [3]: https://micro.blog/nathanielward "Microbloggery"
  [4]: http://www.linkedin.com/in/nathanieleward/ "Not as bad as Facebook"
