@@ -17,9 +17,9 @@ layout: default
 		<article class="post_content h-entry">
 
 			<h1 class="p-name">
-			{% if post.linked %}<a class="u-url" href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} &rarr;</a>
+			{% if post.linked %}<a href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} &rarr;</a>
 			{% else %}
-			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+			<a class="u-url" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
 			{% endif %}</h1>
 	
 			<section class="post_content_main e-content">
