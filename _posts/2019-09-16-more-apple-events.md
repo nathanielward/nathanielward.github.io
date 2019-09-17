@@ -17,7 +17,7 @@ layout: post
 
 This is exactly wrong. The current moment requires *more* events like Apple’s.
 
-[John Gruber describes Apple events as escapism:](https://daringfireball.net/2019/09/drain_all_the_joy) “If anything, people look to them as relief from the current moment. Gadgets are fun.”
+[John Gruber describes Apple events as escapism](https://daringfireball.net/2019/09/drain_all_the_joy): “If anything, people look to them as relief from the current moment. Gadgets are fun.”
 
 But they’re more than that. Apple’s events are celebrations of free enterprise and what it can achieve when unleashed. 
 
