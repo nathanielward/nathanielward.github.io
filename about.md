@@ -6,7 +6,7 @@ layout: page
 
 I am a marketer and fundraiser in Washington, DC, working to advance freedom.
 
-A frequent speaker on fundraising, online marketing, and optimization, I built the Heritage Foundation's online fundraising program. Today I inspire people to give more and more often to the Leadership Institute.
+After more than a decade building a highly successful online fundraising program, today I work to inspire some of the country's most successful business leaders to advance the principles of human progress.
 
 While at Dartmouth College, I served as an editor at *The Dartmouth Review* and earned a degree in government. Getting my MBA from Georgetown University’s McDonough School of Business taught me that the most valuable lessons come from experience.
 
