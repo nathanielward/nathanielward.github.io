@@ -365,6 +365,10 @@ em, i{ font-style: italic; }
   margin: var(--rh-4) 0 0;
   padding: 0;
   text-align: left;
+  font-family: var(--sans);
+  font-size: 0.8em;       /* between footer (0.75) and body */
+  line-height: 1.4;
+  color: var(--c-meta);
 }
 
 .pagination ul{
@@ -380,6 +384,12 @@ em, i{ font-style: italic; }
 .pagination li{
   display: block;
   padding: 0;
+}
+
+.pagination a{
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: inherit;
 }
 
 /* Newer left, Older right */
