@@ -10,7 +10,7 @@ I focused initially on direct response—building and scaling an online fundrais
 
 Today, I focus on inspiring business leaders to generously support ideas and institutions that enable human progress.
 
-My education reinforced the idea that many of the most valuable lessons come not from credentials, but from experience—an outlook that informs both my professional work and the writing collected here.
+My education reinforced the idea that many of the most valuable lessons come not from credentials but from experience—an outlook that informs both my professional work and the writing collected here.
 
 Opinions expressed on this site are my own.
 
