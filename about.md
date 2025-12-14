@@ -4,7 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-Over roughly two decades in marketing and fundraising, my work has evolved from building and scaling an online fundraising program. 
+Over roughly two decades in marketing and fundraising, my work has taken different forms.
+
+I focused initially on direct response—building and scaling an online fundraising program.
 
 Today, I focus on inspiring business leaders to generously support ideas and institutions that enable human progress.
 
