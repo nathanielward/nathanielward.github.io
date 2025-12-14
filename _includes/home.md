@@ -1,7 +1,5 @@
-# Hey there! I'm a marketer and fundraiser in Washington, D.C.
+*How do people make decisions? What persuades them, what doesn’t, and why? What are the implications for a free society?*
 
-I love understanding *how and why people make decisions*---why they say yes or no to an offer---and applying that knowledge, through effective marketing and technology, to the fight for freedom. Find me on [micro.blog][2] or [read more about me][4].
+This site collects essays and notes exploring those questions, drawing on my work in marketing and fundraising in Washington, D.C. ([About me][1].)
 
- [2]: https://micro.blog/nathanielward "Follow my microbloggery"
- [3]: http://www.linkedin.com/in/nathanieleward/ "Use LinkedIn if you must"
- [4]: /about/ "Stalk me"
+ [1]: /about/ "About me"
