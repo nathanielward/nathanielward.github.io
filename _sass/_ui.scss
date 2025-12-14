@@ -1,378 +1,416 @@
 @charset "utf-8";
 
-$text-color:       	#555!default;
-$header-color:		#333;
-$brand-face:        	"Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif!default;
-$base-font-size:	18px;
-$base-line-height:	27px;
-$base-letter-spacing: 	0.1em;
-$header-font:		$brand-face;
-$code-font:		Menlo, Monaco, Courier, monospace;
-$h1-size:		1.5em;		//27px
-$h2-size:		1.33em;		//24px
-$background-color:	#fff;
-$highlight-color:	#f28b10;	// orange
-$link-color:		#084769;	// blue-green
-$link-hover-color:	#032d44;	// dark blue-green
-$meta-color:		#999;		// light gray
+/* Typography-forward refresh (Practical Typography-ish):
+   - Serif stack: Charter → Source Serif → Times New Roman → serif
+   - Sans accent: Source Sans Pro for structure (tables, meta, markers)
+   - Responsive body size + readable leading
+   - Constrained measure (~65ch)
+   - Paragraph spacing (no first-line indents)
+   - Vertical rhythm tokens (rhythm-first spacing)
+*/
 
-// Dark mode
-@mixin dark-mode {
-  @media (prefers-color-scheme: dark) { @content; }
-}
-$background-color-dark:	#000;
-$text-color-dark:       #bbb;
-$header-color-dark:	#ddd;
-$highlight-color-dark:	#f1ab5d;	// orange
-$link-color-dark:	#129fec;	// blue-green
-$link-hover-color-dark:	#0873ad;	// dark blue-green
-$meta-color-dark:	#999;		// light gray
+:root{
+  --text-size: clamp(16px, 1.2vmin + 12px, 20px);
+  --line: 1.42;
+  --measure: 65ch;
+  --pad-x: clamp(16px, 3vw, 32px);
+  --pad-y: clamp(24px, 4vw, 50px);
 
-body {
-   padding: 50px 0;
-   font-size: $base-font-size;
-   font-family: $brand-face;
-   font-style: normal;
-   font-weight: 400;
-   color: $text-color;
-   @include dark-mode {
-	   color: $text-color-dark; 
-	   background-color: $background-color-dark;
-	}
-}
+  /* Base paragraph gap (kept for compatibility) */
+  --gap: 0.9em;
 
-div.grid {
-   margin: 0 auto;
-   display: block;
-   white-space: nowrap;
-   text-align: center;
-   padding-bottom: $base-line-height;
-   min-height: 100%;
-   width: auto;
-}
+  /* Vertical rhythm tokens (derive everything from one unit) */
+  --rh: var(--gap);
+  --rh-0: 0;
+  --rh-1: calc(var(--rh) * 0.5);   /* tight */
+  --rh-2: var(--rh);               /* normal (paragraph) */
+  --rh-3: calc(var(--rh) * 1.5);   /* roomy */
+  --rh-4: calc(var(--rh) * 2.2);   /* section break */
 
-div {
-   text-align: left;
-   white-space: normal;
-   vertical-align: top;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-   box-sizing: border-box;
-   padding: 0 2%;
-   max-width: 40*$base-font-size;
-   width: 40*$base-font-size;
+  /* Accent sans */
+  --sans: "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* existing palette preserved */
+  --c-text: #555;
+  --c-text-dark: #bbb;
+  --c-bg-dark: #000;
+
+  --c-heading: #333;
+  --c-heading-dark: #ddd;
+
+  --c-accent: #f28b10;
+  --c-accent-dark: #f1ab5d;
+
+  --c-link: #084769;
+  --c-link-dark: #129fec;
+  --c-link-hover: #032d44;
+  --c-link-hover-dark: #0873ad;
+
+  --c-meta: #999;
 }
 
-div.grid__item.sidebar {
-	}
+body{
+  margin: 0;
+  padding: var(--pad-y) 0;
+  font-size: var(--text-size);
+  font-family: Charter, "Source Serif", "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--c-text);
+  line-height: var(--line);
 
-.rule {
-	color: $highlight-color;
-	@include dark-mode {
-	   color: $highlight-color-dark; 
-	}
-	border: none;
-	border-bottom-width: 1px;
-	border-bottom-style: solid;
-	margin-bottom: $base-line-height*2; 	// 54px
-	margin-top: $base-line-height*2;	// 54px
-	}
-	
-h1 {
-   font-size: $h1-size;						//27px
-   line-height: $base-line-height*1.48;				//40 = 27*1.48
-   text-align: center;
-   font-weight: 600;
-   font-style: normal;
-   color: $header-color;
-   @include dark-mode {
-	   color: $header-color-dark; 
-	}
-   width: 98%;
-   letter-spacing: $base-letter-spacing/2;
+  font-kerning: normal;
+  font-feature-settings: "kern" 1, "liga" 1;
+  text-rendering: optimizeLegibility;
+
+  text-align: left;
+  hyphens: auto;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
-	.intro h1 {
-		font-weight: 400;
-		}
-
-h2 {
-   font-size: $h2-size;
-   line-height: $base-line-height;
-   margin: 0px 0px $base-line-height 0px;
-   font-weight: 400;
-   color: $header-color;
-   @include dark-mode {
-	   color: $header-color-dark; 
-	}
+@media (prefers-color-scheme: dark){
+  body{
+    color: var(--c-text-dark);
+    background-color: var(--c-bg-dark);
+  }
 }
 
-p, li {
-   font-size: 1em;
-   line-height: $base-line-height;
-   margin: 0px 0px $base-line-height 0px;
-   font-weight: 400;
-   font-style: normal;
+/* Layout wrapper */
+div.grid{
+  margin: 0 auto;
+  display: block;
+  padding-bottom: calc(var(--rh-3));
+  min-height: 100%;
+  width: 100%;
 }
 
+/* Main content block: measured, responsive, centered on page */
+div{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 
+  margin: 0 auto;
+  padding: 0 var(--pad-x);
+
+  max-width: var(--measure);
+  width: 100%;
+
+  text-align: left;
+  white-space: normal;
+  vertical-align: top;
+}
+
+/* Horizontal rule / divider */
+.rule{
+  color: var(--c-accent);
+  border: none;
+  border-bottom: 1px solid currentColor;
+  margin: var(--rh-4) 0;
+}
+
+@media (prefers-color-scheme: dark){
+  .rule{ color: var(--c-accent-dark); }
+}
+
+/* Headings: smaller, calmer, spacing does the work */
+h1, h2, h3, h4, h5, h6{
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  word-break: normal;
+  text-wrap: balance;
+}
+h1{
+  font-size: clamp(1.75rem, 1.6vw + 1.15rem, 2.35rem);
+  line-height: 1.15;
+  text-align: left;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--c-heading);
+  margin: 0 0 var(--rh-2) 0;
+  letter-spacing: -0.01em;
+}
+
+@media (prefers-color-scheme: dark){
+  h1{ color: var(--c-heading-dark); }
+}
+
+.intro h1{ font-weight: 400; }
+
+h2{
+  font-size: clamp(1.2rem, 0.9vw + 1.0rem, 1.55rem);
+  line-height: 1.25;
+  margin: var(--rh-4) 0 var(--rh-2) 0;
+  font-weight: 600;
+  color: var(--c-heading);
+  letter-spacing: -0.005em;
+}
+
+@media (prefers-color-scheme: dark){
+  h2{ color: var(--c-heading-dark); }
+}
+
+/* Context-sensitive breathing room for h2 */
+p + h2,
+ul + h2,
+ol + h2,
+table + h2,
+blockquote + h2{
+  margin-top: var(--rh-4);
+}
+
+/* If h2 follows another heading, keep it tighter */
+h1 + h2{
+  margin-top: var(--rh-3);
+}
+
+/* Copy rhythm */
+p, li{
+  font-size: 1em;
+  line-height: var(--line);
+  margin: 0 0 var(--rh-2) 0;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Better “hug” between headings and first paragraph */
+h1 + p, h2 + p{ margin-top: 0; }
+
+/* Lists: keep prose serif; make ordered markers sans */
+ol{
+  margin: 0 0 var(--rh-2) 0;
+  padding-left: 1.25em; /* modest, avoids cramped markers */
+}
+
+ul{
+  margin: 0 0 var(--rh-2) 0;
+  padding-left: 1.25em;
+}
+
+ol li::marker{
+  font-family: var(--sans);
+  font-weight: 600;
+}
+
+/* Blockquotes: indentation only (no border), rhythm handled like normal text */
 blockquote{
-   quotes:"";
-   margin:0 2.5em;
-   text-indent:0;
-    
-    p {
-    	font-style: italic;
-    	}
-    	
-	i, em {
-		font-style: normal;
-		}
-
-    p:last-of-type{
-    	margin-bottom: $base-line-height;
-    	}
+  quotes: "";
+  margin: 0 0 var(--rh-2) 0;
+  padding-left: 1.5em;
+  text-indent: 0;
 }
 
-p.meta {
-	font-size: .737em; /* 14px --> 14 / 19 = .737 */
-	line-height: 1.939em; /* 27px --> 27 / 14 = 1.939 */
-	letter-spacing: $base-letter-spacing;
-	margin-top: $base-line-height;
-	text-transform: uppercase;
-	color: $meta-color;
-	@include dark-mode {
-	   color: $meta-color-dark; 
-	}
-	font-weight: 500;
+blockquote p{
+  font-style: italic;
+  margin: 0 0 var(--rh-2) 0;
+  padding: 0;
 }
 
-.unsupervised {
-	font-weight: 400;
-	text-align: center;
-	text-transform: uppercase;
-	letter-spacing: $base-letter-spacing*2;
-	}
-
-	// Decoration
-	.unsupervised:before {
-		content: "\2015";
-		position: relative;
-		top: 0;
-		right: 0;
-		left: 0;
-		line-height: 0;
-		text-align: center
-		}
-
-	.unsupervised:after {
-		content: "\2015";
-		position: relative;
-		top: 0;
-		right: 0;
-		left: 0;
-		line-height: 0;
-		text-align: center
-		}
-
-/*--- LINKS ---*/
-a {
-	color: $link-color;
-	@include dark-mode {
-	   color: $link-color-dark; 
-	}
-	text-decoration:none;
-	}
-
-h1 a, .h2 a, .unsupervised a {
-	color: $header-color;
-	@include dark-mode {
-	   color: $header-color-dark; 
-	}
-	}
-
-a:hover{
-	color: $link-hover-color;
-	@include dark-mode {
-	   color: $link-hover-color-dark; 
-	}
-	}
-
-h1 a:hover, h1 a.permalink:hover { 
-	color: $link-color; 
-	@include dark-mode {
-	   color: $link-color-dark; 
-	}
+blockquote p:last-child{
+  margin-bottom: 0;
 }
 
-.unsupervised, .post_content h1 {
-	a {
-		color: $text-color;
-		@include dark-mode {
-		   color: $text-color-dark; 
-		}
-		border-bottom: 0px;
-		}
-	a:hover {
-		color: $link-color;
-		border-bottom: 1px dotted $link-color;
-		@include dark-mode {
-		   color: $link-color-dark; 
-		   border-bottom-color: $link-color-dark;
-		}
-		}
-	}
+blockquote i,
+blockquote em{ font-style: normal; }
 
-.post_content, .info, .meta, .sidebar {
-	a {
-		border-bottom: 1px dotted $link-color;
-		@include dark-mode {
-		   	border-bottom-color: $link-color-dark; 
-		}
-		}
-	a:hover {
-		border-bottom: 1px solid $link-hover-color;
-		@include dark-mode {
-			border-bottom-color: $link-hover-color-dark; 
-		}
-		}
-	}
-
-
-
-
-/*--- TYPOGRAPHY ---*/
-.caps, .numbers, abbr {
-	font-size: .778em; /* 14px --> 14 / 18 = .778 */
-	line-height: 1.939em; /* 27px --> 27 / 14 = 1.939 */
-	letter-spacing: $base-letter-spacing; /* per http://www.webtypography.net/Rhythm_and_Proportion/Horizontal_Motion/2.1.6/ */
-	}
-
-.caps .numbers { font-size: 1em; } /* deals with numbers inside caps */
-
-code,kbd,pre,samp{
-	font-family: $code-font;
-	font-weight:300
-	}
-sup,sub{
-	vertical-align:baseline;
-	position:relative;
-	top:-0.4em;
-	font-size:.75em
-	}
-sub{
-	top:0.4em
-	}
-
-strong, b {
-	font-weight: 700;
-	}
-em, i {
-	font-style: italic;
-	}
-
-.meta-ital {
-	text-transform: none;
-	font-style: italic;
-	}
-.count {
-	font-size: 1em;
-	line-height: $base-line-height;
-	}
-.pagination {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	text-align: center;
-	}
-.pagination ul {
-	margin-left: 0;
-	}
-.pagination li, .comment-nav li {
-	display: inline;
-	padding-left: 1em;
-	}
-	
-	.pagination .active {
-		font-weight: bold;
-		}
-
-.comment-form-elements {
-	list-style-type: none;
-	margin: 0;
-
-	li {
-		margin-bottom: $base-line-height;
-		}
-	}
-table {
-	font-family: $brand-face;
-	margin: auto;
-	border-collapse: collapse;
-	}
-
-td, th {
-	padding: 0 1em;	
-	}
-
-thead {
-	border-top: 1px solid $highlight-color;
-	border-bottom: 1px solid $highlight-color;
-	@include dark-mode {
-		border-top-color: $highlight-color-dark; 
-		border-bottom-color: $highlight-color-dark;
-	}
-	}
-
-
-
-/*--- MISC ---*/
-
-img {
-	max-width: 100%;
-	}
-
-// ensure iframes expand to fill width
-iframe {
-	//height:auto !important;
-	width:100% !important;
-	}
-
-::selection {
-	background: $highlight-color; /* Safari */
-	@include dark-mode {
-	   background: $highlight-color-dark; 
-	}
-	}
-::-moz-selection {
-	background: $highlight-color; /* Firefox */
-	@include dark-mode {
-	   background: $highlight-color-dark; 
-	}
+/* Meta text: sans accent */
+p.meta{
+  font-family: var(--sans);
+  font-size: 0.78em;
+  line-height: 1.6;
+  letter-spacing: 0.12em;
+  margin-top: var(--rh-2);
+  text-transform: uppercase;
+  color: var(--c-meta);
+  font-weight: 500;
 }
 
-
-
-/*			Narrower screens		*/
-@media only screen and (max-width: 900px) {
-
-	div {
-	   display: block;
-	   margin: 0 auto;
-	   width: 100%;
-	   padding: 0 1em;
-	}
-	
-	div.grid {padding: 0}
-
+@media (prefers-color-scheme: dark){
+  p.meta{ color: var(--c-meta); }
 }
 
-/*			Narrowest screens		*/
-@media only screen and (max-width: 480px) {
+/* Unsupervised marker preserved */
+.unsupervised{
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
 
-	h1 {
-	   font-size: 1.22em;		// 22px = 18 * 1.22
-	   line-height: 1.123em; 	// 27 = 22 * 1.123
-	}
+.unsupervised:before,
+.unsupervised:after{
+  content: "\2015";
+  position: relative;
+  top: 0;
+  right: 0;
+  left: 0;
+  line-height: 0;
+  text-align: center;
+}
 
+/* Links + hover + borders: keep exactly your colors/behavior */
+a{
+  color: var(--c-link);
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark){
+  a{ color: var(--c-link-dark); }
+}
+
+h1 a, .h2 a, .unsupervised a{ color: var(--c-heading); }
+
+@media (prefers-color-scheme: dark){
+  h1 a, .h2 a, .unsupervised a{ color: var(--c-heading-dark); }
+}
+
+a:hover{ color: var(--c-link-hover); }
+
+@media (prefers-color-scheme: dark){
+  a:hover{ color: var(--c-link-hover-dark); }
+}
+
+h1 a:hover, h1 a.permalink:hover{ color: var(--c-link); }
+
+@media (prefers-color-scheme: dark){
+  h1 a:hover, h1 a.permalink:hover{ color: var(--c-link-dark); }
+}
+
+.unsupervised a, .post_content h1 a{
+  color: var(--c-text);
+  border-bottom: 0px;
+}
+
+@media (prefers-color-scheme: dark){
+  .unsupervised a, .post_content h1 a{ color: var(--c-text-dark); }
+}
+
+.unsupervised a:hover, .post_content h1 a:hover{
+  color: var(--c-link);
+  border-bottom: 1px dotted var(--c-link);
+}
+
+@media (prefers-color-scheme: dark){
+  .unsupervised a:hover, .post_content h1 a:hover{
+    color: var(--c-link-dark);
+    border-bottom-color: var(--c-link-dark);
+  }
+}
+
+.post_content a, .info a, .meta a, .sidebar a{
+  border-bottom: 1px dotted var(--c-link);
+}
+
+@media (prefers-color-scheme: dark){
+  .post_content a, .info a, .meta a, .sidebar a{
+    border-bottom-color: var(--c-link-dark);
+  }
+}
+
+.post_content a:hover, .info a:hover, .meta a:hover, .sidebar a:hover{
+  border-bottom: 1px solid var(--c-link-hover);
+}
+
+@media (prefers-color-scheme: dark){
+  .post_content a:hover, .info a:hover, .meta a:hover, .sidebar a:hover{
+    border-bottom-color: var(--c-link-hover-dark);
+  }
+}
+
+/* Small caps / numbers / abbr / small: sans accent */
+small, abbr{
+  font-family: var(--sans);
+  font-size: 0.78em;
+  line-height: 1.6;
+  letter-spacing: 0.1em;
+}
+
+.caps, .numbers{
+  font-family: var(--sans);
+  font-size: 0.78em;
+  line-height: 1.6;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Code: keep monospace */
+code, kbd, pre, samp{
+  font-family: Menlo, Monaco, Courier, monospace;
+  font-weight: 400;
+  font-size: 0.95em;
+}
+
+sup, sub{
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+  font-size: 0.75em;
+}
+sub{ top: 0.4em; }
+
+strong, b{ font-weight: 700; }
+em, i{ font-style: italic; }
+.meta-ital{ text-transform: none; font-style: italic; }
+
+.count{
+  font-size: 1em;
+  line-height: var(--line);
+}
+
+/* Pagination + comment styles kept, just inherit rhythm */
+.pagination{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+.pagination ul{ margin-left: 0; }
+.pagination li, .comment-nav li{ display: inline; padding-left: 1em; }
+.pagination .active{ font-weight: bold; }
+
+.comment-form-elements{ list-style-type: none; margin: 0; }
+.comment-form-elements li{ margin-bottom: var(--rh-2); }
+
+/* Tables: rhythm + subtle texture (Markdown-friendly: no thead required) */
+table{
+  width: 100%;
+  margin: var(--rh-2) 0;     /* left-aligned in column */
+  border-collapse: collapse;
+  table-layout: auto;
+  font-size: 0.95em;
+  line-height: 1.3;
+}
+
+th, td{
+  padding: calc(var(--rh) * 0.35) 1em;
+  vertical-align: baseline;
+}
+
+th:first-child, td:first-child{ padding-left: 0; }
+th:last-child,  td:last-child { padding-right: 0; }
+
+/* Header row rule (works for Markdown-generated tables) */
+table tr:first-child th{
+  font-family: var(--sans);
+  border-bottom: 1px solid var(--c-accent);
+  padding-bottom: calc(var(--rh) * 0.35);
+  font-weight: 400;          /* medium-bold, not shouty */
+  letter-spacing: 0;         /* calmer than UI-style spacing */
+}
+
+img{ max-width: 100%; height: auto; }
+iframe{ width: 100% !important; }
+
+::selection{ background: var(--c-accent); }
+@media (prefers-color-scheme: dark){ ::selection{ background: var(--c-accent-dark); } }
+
+::-moz-selection{ background: var(--c-accent); }
+@media (prefers-color-scheme: dark){ ::-moz-selection{ background: var(--c-accent-dark); } }
+
+/* Mobile: measure + padding already responsive; just tighten h1 a bit */
+@media only screen and (max-width: 480px){
+  h1{ line-height: 1.12; }
 }
