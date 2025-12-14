@@ -1,22 +1,17 @@
 ---
-title: About Nathaniel Ward
+title: About
 permalink: "/about/"
 layout: page
 ---
 
-I am a marketer and fundraiser in Washington, DC, working to advance freedom.
+Over roughly two decades in marketing and fundraising, my work has evolved from building and scaling an online fundraising program. Today, I focus on inspiring business leaders to generously support ideas and institutions that enable human progress.
 
-After more than a decade building a highly successful online fundraising program, today I work to inspire some of the country's most successful business leaders to advance the principles of human progress.
+My education reinforced the idea that many of the most valuable lessons come not from credentials, but from experience—an outlook that informs both my professional work and the writing collected here.
 
+Opinions expressed on this site are my own.
 
-My undergraduate and graduate degrees taught me that the most valuable lessons come from experience.
+## Contact
 
-Opinions expressed on this site are my own.
+If you’d like to get in touch, you can find me on [LinkedIn][1].
 
-## Contact me
-
-Have a question? Find me on [micro.blog][3] or [LinkedIn][4]. 
-
-
- [3]: https://micro.blog/nathanielward "Microbloggery"
- [4]: http://www.linkedin.com/in/nathanieleward/ "Not as bad as Facebook"
+[1]: https://www.linkedin.com/in/nathanieleward/
