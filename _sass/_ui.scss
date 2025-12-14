@@ -398,8 +398,8 @@ em, i{ font-style: italic; }
 
 /* Optional subtle divider only when both exist */
 .pagination__next{
-  padding-left: 1rem;
-  border-left: 1px solid var(--c-meta);
+  padding-left: 0;
+  border-left: 0;
 }
 
 /* Make it feel like navigation/meta, not body copy */
@@ -459,15 +459,14 @@ iframe{ width: 100% !important; }
 .footer{
   margin-top: var(--rh-4);
   padding-top: var(--rh-2);
-
-  font-family: var(--sans);
-  font-size: 0.75em;
-  line-height: 1.35;
   color: var(--c-meta);
 }
 
 .footer p{
   margin: 0 0 var(--rh-1) 0;
+  font-family: inherit;
+  font-size: 0.85em;
+  line-height: 1.45;
 }
 
 .footer p:last-child{
