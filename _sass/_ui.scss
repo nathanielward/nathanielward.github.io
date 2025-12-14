@@ -10,7 +10,7 @@
 */
 
 :root{
-  --text-size: clamp(16px, 1.2vmin + 12px, 20px);
+  --text-size: clamp(16px, calc(1.2vmin + 12px), 20px);
   --line: 1.42;
   --measure: 65ch;
   --pad-x: clamp(16px, 3vw, 32px);
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6{
   text-wrap: balance;
 }
 h1{
-  font-size: clamp(1.75rem, 1.6vw + 1.15rem, 2.35rem);
+  font-size: clamp(1.75rem, calc(1.6vw + 1.15rem), 2.35rem);
   line-height: 1.15;
   text-align: left;
   font-weight: 600;
@@ -141,7 +141,7 @@ h1{
 .intro h1{ font-weight: 400; }
 
 h2{
-  font-size: clamp(1.2rem, 0.9vw + 1.0rem, 1.55rem);
+  font-size: clamp(1.2rem, calc(0.9vw + 1.0rem), 1.55rem);
   line-height: 1.25;
   margin: var(--rh-4) 0 var(--rh-2) 0;
   font-weight: 600;
