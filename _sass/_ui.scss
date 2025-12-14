@@ -360,16 +360,46 @@ em, i{ font-style: italic; }
   line-height: var(--line);
 }
 
-/* Pagination + comment styles kept, just inherit rhythm */
+/* Pagination: two-ended nav (iOS-friendly, no stray dividers) */
 .pagination{
+  margin: var(--rh-4) 0 0;
+  padding: 0;
+  text-align: left;
+}
+
+.pagination ul{
   margin: 0;
   padding: 0;
-  list-style-type: none;
-  text-align: center;
+  list-style: none;
+
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
 }
-.pagination ul{ margin-left: 0; }
-.pagination li, .comment-nav li{ display: inline; padding-left: 1em; }
-.pagination .active{ font-weight: bold; }
+
+.pagination li{
+  display: block;
+  padding: 0;
+}
+
+/* Newer left, Older right */
+.pagination__prev{ margin-right: auto; }
+.pagination__next{ margin-left: auto; }
+
+/* Optional subtle divider only when both exist */
+.pagination__next{
+  padding-left: 1rem;
+  border-left: 1px solid var(--c-meta);
+}
+
+/* Make it feel like navigation/meta, not body copy */
+.pagination a{
+  font-family: var(--sans);
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-bottom: 0;
+}
 
 .comment-form-elements{ list-style-type: none; margin: 0; }
 .comment-form-elements li{ margin-bottom: var(--rh-2); }
