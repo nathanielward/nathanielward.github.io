@@ -203,18 +203,37 @@ blockquote{
   text-indent: 0;
 }
 
-blockquote p,li{
+/* Quoted: paragraphs and lists */
+blockquote p,
+blockquote li{
   font-style: italic;
   margin: 0 0 var(--rh-2) 0;
   padding: 0;
 }
 
-blockquote p:last-child{
+/* Lists inside blockquotes: keep calm, prose-first */
+blockquote ul,
+blockquote ol{
+  margin: 0 0 var(--rh-2) 0;
+  padding-left: 1.25em;
+}
+
+/* Italicize markers so bullets feel quoted, not UI */
+blockquote li::marker{
+  font-style: italic;
+}
+
+/* Avoid extra space at the end */
+blockquote p:last-child,
+blockquote li:last-child{
   margin-bottom: 0;
 }
 
+/* Prevent nested emphasis from double-italicizing */
 blockquote i,
-blockquote em{ font-style: normal; }
+blockquote em{
+  font-style: normal;
+}
 
 /* Meta text: sans accent */
 p.meta{
