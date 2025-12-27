@@ -203,7 +203,7 @@ blockquote{
   text-indent: 0;
 }
 
-/* Quoted: paragraphs and lists */
+/* Italicize the whole quote voice, including lists */
 blockquote p,
 blockquote li{
   font-style: italic;
@@ -211,27 +211,31 @@ blockquote li{
   padding: 0;
 }
 
-/* Lists inside blockquotes: keep calm, prose-first */
+/* Lists inside blockquotes should follow the same rhythm as body lists */
 blockquote ul,
 blockquote ol{
   margin: 0 0 var(--rh-2) 0;
-  padding-left: 1.25em;
+  padding-left: 1.25em; /* match your global list indent */
 }
 
-/* Italicize markers so bullets feel quoted, not UI */
-blockquote li::marker{
-  font-style: italic;
-}
-
-/* Avoid extra space at the end */
+/* Keep the last element from adding extra space */
 blockquote p:last-child,
-blockquote li:last-child{
+blockquote ul:last-child,
+blockquote ol:last-child{
   margin-bottom: 0;
 }
 
-/* Prevent nested emphasis from double-italicizing */
-blockquote i,
-blockquote em{
+/* Make markers match the quote voice too (and override global ordered-marker styling) */
+blockquote ul li::marker,
+blockquote ol li::marker{
+  font-style: italic;
+  font-family: inherit;
+  font-weight: inherit;
+}
+
+/* If you use <em> inside an already-italic quote, render it upright for contrast */
+blockquote em,
+blockquote i{
   font-style: normal;
 }
 
