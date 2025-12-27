@@ -14,8 +14,9 @@ Oh, and a small bag of gummy bears.
 
 The instruction manual leans into it:
 
-> - After years of thorough scientific research, we came to a solution => At the end of each chapter, you will be told a specific amount of bears to consume.
-> - ﻿﻿Eating an incorrect amount than prescribed in the manual might lead to a sudden boost of energy. Please consult a professional in the closest candy store.  
+> After years of thorough scientific research, we came to a solution => At the end of each chapter, you will be told a specific amount of bears to consume.
+> 
+> Eating an incorrect amount than prescribed in the manual might lead to a sudden boost of energy. Please consult a professional in the closest candy store.  
 > 
 > Hide the Haribo for now! From our experience, an unattended bag with sweets will suddenly disappear. Confirmed by multiple cases all around the World.
 
