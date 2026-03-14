@@ -1,6 +1,6 @@
 ---
 title: The toilet doesn’t care how you feel
-date: 2026-03-14 12:50:00 -04:00
+date: 2026-03-14 12:51:00 -04:00
 author: Nathaniel Ward
 layout: post
 ---
