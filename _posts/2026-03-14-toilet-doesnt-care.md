@@ -13,6 +13,6 @@ But that framing made the problem worse. On top of my broken toilet, I had to de
 
 Here’s what shifted things: realizing that the toilet doesn’t care how I feel about it. It needs fixing whether I’m frustrated or not. The frustration isn’t doing any useful work — it’s just a second unpleasant thing running alongside the first.
 
-The solution wasn’t learning to love DIY. It wasn’t steeling myself more firmly against discomfort. It was recognizing that my frustration was optional, and setting it aside.
+The solution wasn’t learning to love DIY, or steeling myself more firmly against discomfort. The solution was recognizing that my frustration was optional, and setting it aside. 
 
-Not suppressing it. Not muscling through it. Just noticing it wasn’t helping and moving on.
+Just noticing it wasn’t helping and moving on.
