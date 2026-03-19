@@ -21,7 +21,7 @@ In practice, it means you’re always a little bit behind.
 
 An inbox full of updates tells you what’s happening — not what matters, not what’s required of you, not what should happen today. Figuring that out is its own work, layered on top of the actual work.
 
-The fix I’ve landed on: one list, maintained separately from the project tools my team uses. Not a replacement for those tools, but a filter. 
+The fix I’ve landed on: one list, maintained separately from the project tools my team uses. A filter that sits on top of the existing tools.
 
 I treat the notifications as inputs. When something actually requires action, I pull it out and add it to the list, alongside everything else competing for my time. Then I decide what to work on next.
 
