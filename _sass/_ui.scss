@@ -510,7 +510,7 @@ iframe{
 
 .footer{
   margin-top: var(--rh-4);
-  padding-top: var(--rh-2);
+  padding-top: 0; // was var(--rh-2);
   color: var(--c-meta);
 }
 
