@@ -36,14 +36,14 @@
   --c-meta: #8b9296;
 
   --c-accent: #436785;
-  --c-link: #3d6485;
+  --c-link: #1f405b; /* was #3d6485; */
   --c-link-hover: #1f405b;
 
   --c-bg-dark: #0d0f0e;
   --c-text-dark: #c7cbcc;
   --c-heading-dark: #eef1f1;
   --c-accent-dark: #8aa4ba;
-  --c-link-dark: #9fc5e6;
+  --c-link-dark: #c2ddf3; /* was 9fc5e6; */
   --c-link-hover-dark: #c2ddf3;
 }
 
@@ -502,8 +502,8 @@ iframe{
 
 @media only screen and (max-width: 480px){
   .unsupervised{
-    font-size: 0.78em;
-    letter-spacing: 0.22em;
+    font-size: 0.92em;
+    letter-spacing: 0.18em;
     margin-bottom: var(--rh-3);
   }
 }
