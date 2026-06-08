@@ -4,18 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-Over roughly two decades in marketing and fundraising, my work has taken different forms.
+# About
+How do people make decisions? What persuades them, what doesn’t, and why? What are the implications for a free and open society?
 
-I focused initially on direct response—building and scaling an online fundraising program.
+These questions have shaped my work in marketing and fundraising for more than twenty years. Working to move people to act, at scale, turns out to be a surprisingly good education in human nature. 
 
-Today, I focus on inspiring business leaders to generously support ideas and institutions that enable human progress.
-
-My education reinforced the idea that many of the most valuable lessons come not from credentials but from experience—an outlook that informs both my professional work and the writing collected here.
-
-Opinions expressed on this site are my own.
+This is where I keep coming back to those questions — across marketing, economics, culture, technology, or wherever the thread leads.
 
 ## Contact
 
-If you’d like to get in touch, you can find me on [LinkedIn][1].
+You can find me on [LinkedIn][1].
+
+## Obligatory disclaimer
+
+Opinions expressed on this site are my own.
 
 [1]: https://www.linkedin.com/in/nathanieleward/
