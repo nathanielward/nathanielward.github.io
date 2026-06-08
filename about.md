@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-# About
 How do people make decisions? What persuades them, what doesn’t, and why? What are the implications for a free and open society?
 
 These questions have shaped my work in marketing and fundraising for more than twenty years. Working to move people to act, at scale, turns out to be a surprisingly good education in human nature. 
