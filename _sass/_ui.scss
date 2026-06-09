@@ -134,10 +134,6 @@ h1{
   h1{ color: var(--c-heading-dark); }
 }
 
-.intro h1{
-  font-weight: 600;
-}
-
 h2{
   font-family: var(--serif);
   font-size: 1.35rem;
@@ -309,32 +305,28 @@ h1 a,
 
 .post_content a,
 .info a,
-.meta a,
-.sidebar a{
+.meta a{
   border-bottom: 1px solid rgba(61, 100, 133, 0.42);
 }
 
 @media (prefers-color-scheme: dark){
   .post_content a,
   .info a,
-  .meta a,
-  .sidebar a{
+  .meta a{
     border-bottom-color: rgba(159, 197, 230, 0.5);
   }
 }
 
 .post_content a:hover,
 .info a:hover,
-.meta a:hover,
-.sidebar a:hover{
+.meta a:hover{
   border-bottom-color: var(--c-link-hover);
 }
 
 @media (prefers-color-scheme: dark){
   .post_content a:hover,
   .info a:hover,
-  .meta a:hover,
-  .sidebar a:hover{
+  .meta a:hover{
     border-bottom-color: var(--c-link-hover-dark);
   }
 }
@@ -392,11 +384,6 @@ i{
   font-style: italic;
 }
 
-.count{
-  font-size: 1em;
-  line-height: var(--line);
-}
-
 .pagination{
   margin: var(--rh-4) 0 0;
   padding: 0;
@@ -439,15 +426,6 @@ i{
   margin-left: auto;
   padding-left: 0;
   border-left: 0;
-}
-
-.comment-form-elements{
-  list-style-type: none;
-  margin: 0;
-}
-
-.comment-form-elements li{
-  margin-bottom: var(--rh-2);
 }
 
 table{
