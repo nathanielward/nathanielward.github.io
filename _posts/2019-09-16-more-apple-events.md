@@ -12,7 +12,7 @@ layout: post
 [Charlie Warzel calls for an end to Apple product-launch events](https://www.nytimes.com/2019/09/11/opinion/apple-keynote-2019.html):
 
 > But what started as a Steve Jobs TED talk has become a parody — a decadent pageant of Palo Alto executives, clothed in their finest Dad Casual, reading ad copy as lead-ins for vaguely sexual jump-cut videos of brushed aluminum under nightclub lighting. The events are exhausting love letters to consumerism complete with rounds of applause from the laptop-lit faces of the tech blogging audience when executives mention that you (yes you!) can hold the future in your hands for just $24.95 per month or $599 with trade-in.
-
+>
 > The entire event is at odds with our current moment — one in which inequality, economic precarity and populist frustration have infiltrated our politics and reshaped our relationships with once-adored tech companies. But it’s not just the tech backlash. When the world feels increasingly volatile and fragile, it feels a little obscene to gather to worship a $1,000 phone.
 
 This is exactly wrong. The current moment requires *more* events like Apple’s.
