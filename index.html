@@ -3,37 +3,35 @@ layout: default
 ---
 
 	{% if page.url == "/" %}	
-	<div class="grid__item one-whole intro">
-		<article class="post_content"><section class="post_content_main">
+	<div class="intro">
 		{% capture home_content %}{% include home.md %}{% endcapture %}
 		{{ home_content | markdownify }}
-		</section></article>
-		<hr class="rule  rule--ornament">
+		<hr class="rule">
 	</div>
 	{% endif %}
 
-	<div class="grid__item one-whole">
+	<div>
   	{% for post in paginator.posts %}
-		<article class="post_content h-entry">
+		<article class="post_content">
 
-			<h1 class="p-name">
+			<h1>
 			{% if post.linked %}<a href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} &rarr;</a>
 			{% else %}
-			<a class="u-url" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
 			{% endif %}</h1>
 	
-			<section class="post_content_main e-content">
+			<section>
 				{{ post.content }}
-				{% if post.linked %}<p><a class="permalink u-url" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
+				{% if post.linked %}<p><a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
 			</section>
 			<footer>
-			<p class="meta"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+			<p class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 
 
 			</footer>
 		</article>
 
-		<hr class="rule  rule--ornament">
+		<hr class="rule">
 	{% endfor %}
 	
 <nav class="pagination" aria-label="Pagination">
