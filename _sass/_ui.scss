@@ -95,11 +95,20 @@ article {
   vertical-align: top;
 }
 
+body > article {
+  padding: 0 var(--pad-x);
+}
+
 .rule{
   color: var(--c-accent);
   border: none;
   border-bottom: 1px solid currentColor;
   margin: var(--rh-4) 0;
+}
+
+body > .rule {
+  margin-left: var(--pad-x);
+  margin-right: var(--pad-x);
 }
 
 @media (prefers-color-scheme: dark){
