@@ -2,12 +2,12 @@
 layout: default
 ---
 
-	<div class="grid__item one-whole">
+	<div>
 		<article class="post_content">
 
 			{% include headline.html %}
 	
-			<section class="post_content_main">
+			<section>
 				{{ content }}
 				{% if page.linked %}<p><a class="permalink" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
 			</section>
@@ -17,5 +17,5 @@ layout: default
 			</footer>
 		</article>
 
-		<hr class="rule  rule--ornament">
-	</div><!-- /one-whole -->
+		<hr class="rule">
+	</div>
