@@ -49,7 +49,7 @@
 
 body{
   margin: 0;
-  padding: var(--pad-y) 0;
+  padding: var(--pad-y) 0 var(--rh-3);
   font-size: var(--text-size);
   font-family: var(--serif);
   font-style: normal;
@@ -72,14 +72,6 @@ body{
     color: var(--c-text-dark);
     background: var(--c-bg-dark);
   }
-}
-
-div.grid{
-  margin: 0 auto;
-  display: block;
-  padding-bottom: var(--rh-3);
-  min-height: 100%;
-  width: 100%;
 }
 
 div, header, article, footer, main {
@@ -478,13 +470,13 @@ iframe{
   }
 }
 
-.footer{
+footer {
   margin-top: var(--rh-4);
   padding-top: 0; /* was var(--rh-2);*/
   color: var(--c-meta);
 }
 
-.footer p {
+footer p {
   margin: 0 0 var(--rh-1) 0;
   font-family: var(--sans);
   font-size: 0.78em;
@@ -492,22 +484,22 @@ iframe{
   color: var(--c-meta);
 }
 
-.footer p:last-child{
+footer p:last-child{
   margin-bottom: 0;
 }
 
-.footer a{
+footer a{
   color: inherit;
   border-bottom: 1px solid rgba(139, 146, 150, 0.45);
 }
 
-.footer a:hover{
+footer a:hover{
   color: var(--c-link-hover);
   border-bottom-style: solid;
 }
 
 @media (prefers-color-scheme: dark){
-  .footer a:hover{
+  footer a:hover{
     color: var(--c-link-hover-dark);
   }
 }
