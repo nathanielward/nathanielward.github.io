@@ -74,10 +74,20 @@ body{
   }
 }
 
-header, article, footer, main {
+header, main, footer, .intro {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 0 var(--pad-x);
+  max-width: var(--measure);
+  width: 100%;
+  text-align: left;
+  white-space: normal;
+  vertical-align: top;
+}
+
+article {
+  box-sizing: border-box;
+  margin: 0 auto;
   max-width: var(--measure);
   width: 100%;
   text-align: left;
