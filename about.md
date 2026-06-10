@@ -4,18 +4,16 @@ permalink: "/about/"
 layout: page
 ---
 
-How do people make decisions? What persuades them, what doesn’t, and why? What are the implications for a free and open society?
+*Why do people behave the way they do? What drives human action, what doesn't, and why? And what are the implications for a free society?*
 
-These questions have shaped my work in marketing and fundraising for more than twenty years. Working to move people to act, at scale, turns out to be a surprisingly good education in human nature. 
+These questions have shaped how I see the world — and this site is where I keep coming back to them, across marketing, economics, culture, technology, and wherever else the thread leads.
 
-This is where I keep coming back to those questions — across marketing, economics, culture, technology, or wherever the thread leads.
+I've spent more than twenty years trying to understand what moves people to act. First in direct marketing, learning what actually persuades donors at scale. Then in major gift fundraising, working to inspire some of the country's most successful philanthropists to give at the highest levels. The work turned out to be a surprisingly good education in human nature.
+
+Those experiences kept pointing me back to the same questions. And the answers, I've come to think, are more often found in the unplanned messiness of life than in grand designs. The accumulated decisions of people pursuing their own ends tend to yield a future that's pretty awesome.
 
 ## Contact
 
 You can find me on [LinkedIn][1].
-
-## Obligatory disclaimer
-
-Opinions expressed on this site are my own.
 
 [1]: https://www.linkedin.com/in/nathanieleward/
