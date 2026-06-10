@@ -511,6 +511,11 @@ footer p {
   color: var(--c-meta);
 }
 
+footer p:first-child {
+  font-size: 0.85em;
+  color: var(--c-text);
+}
+
 footer p:last-child{
   margin-bottom: 0;
 }
