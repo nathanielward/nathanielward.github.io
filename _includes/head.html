@@ -2,7 +2,6 @@
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <title>{% if page.title %}{{ page.title }} | {% endif %}Nathaniel Ward</title>
 <meta name="author" content="Nathaniel Ward">
@@ -13,32 +12,23 @@
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
 <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
 
-
-<!-- Prefetch DNS for external assets (Twitter widgets etc). -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style/style.css">
 
-<link rel="dns-prefetch" href="//www.google-analytics.com">
-
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@nathanielward">
-<meta name="twitter:domain" content="nathanielward.net">
-<meta name="twitter:creator" content="@nathanielward">
+<meta property="og:image" content="/nw500.jpg">
+    
 {% if page.title %}
     <meta property="og:title" content="{{ page.title }} | Nathaniel Ward" />
-    <meta property="twitter:title" content="{{ page.title }} | Nathaniel Ward" />
 {% endif %}
-<meta name="twitter:image:src" content="/nw500.jpg">
 {% if page.excerpt %}
 	<meta name="description" content="{{ page.excerpt| strip_html }}">
-    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}">
 	<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
 {% else %}
 	<meta name="description" content="{{ site.description }}">
-    <meta name="twitter:description" content="{{ site.description }}">
 	<meta property="og:description" content="{{ site.description }}" />
 {% endif %}
 {% if page.tags %}
@@ -50,6 +40,7 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="me" href="https://micro.blog/nathanielward" />
 	<link rel="me" href="https://twitter.com/nathanielward" />
-	<link rel="me" htef="https://github.com/nathanielward/" />
+	<link rel="me" href="https://github.com/nathanielward/" />
+    <link rel="me" href="https://bsky.app/profile/nathanielward.net" />
 	<link rel="me" href="https://mastodon.social/@nathanielward" />
 </head>
