@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Nathaniel Ward is a marketer and fundraiser in Washington, DC, working to advance freedom.
+description: Essays and thoughts about human behavior — drawing on marketing, fundraising, and an eye for what gets missed.
 baseurl: 
 url: https://www.nathanielward.net
 permalink: "/:year/:month/:title"
