@@ -95,7 +95,7 @@ article {
   vertical-align: top;
 }
 
-body > article {
+body > article, body > footer {
   padding: 0 var(--pad-x);
 }
 
