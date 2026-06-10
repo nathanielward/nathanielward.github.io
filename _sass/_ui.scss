@@ -99,6 +99,13 @@ body > article, body > footer {
   padding: 0 var(--pad-x);
 }
 
+@media only screen and (max-width: 480px){
+  body > article, body > footer, header, main, .intro {
+    padding-left: clamp(24px, 5vw, 34px);
+    padding-right: clamp(24px, 5vw, 34px);
+  }
+}
+
 .rule{
   color: var(--c-accent);
   border: none;
