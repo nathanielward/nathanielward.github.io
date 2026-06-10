@@ -259,27 +259,27 @@ a:hover{
 
 h1 a,
 .h2 a,
-.unsupervised a{
+.unsupervised a, .intro a{
   color: var(--c-heading);
 }
 
 @media (prefers-color-scheme: dark){
   h1 a,
   .h2 a,
-  .unsupervised a{
+  .unsupervised a, .intro a{
     color: var(--c-heading-dark);
   }
 }
 
 .unsupervised a,
-.post_content h1 a{
+.post_content h1 a, .intro a {
   color: var(--c-heading);
   border-bottom: 0;
 }
 
 @media (prefers-color-scheme: dark){
   .unsupervised a,
-  .post_content h1 a{
+  .post_content h1 a, .intro a {
     color: var(--c-heading-dark);
   }
 }
@@ -299,28 +299,28 @@ h1 a,
 
 .post_content a,
 .info a,
-.meta a{
+.meta a, .intro a {
   border-bottom: 1px solid rgba(61, 100, 133, 0.42);
 }
 
 @media (prefers-color-scheme: dark){
   .post_content a,
   .info a,
-  .meta a{
+  .meta a, .intro a {
     border-bottom-color: rgba(159, 197, 230, 0.5);
   }
 }
 
 .post_content a:hover,
 .info a:hover,
-.meta a:hover{
+.meta a:hover, .intro a:hover {
   border-bottom-color: var(--c-link-hover);
 }
 
 @media (prefers-color-scheme: dark){
   .post_content a:hover,
   .info a:hover,
-  .meta a:hover{
+  .meta a:hover, intro a:hover {
     border-bottom-color: var(--c-link-hover-dark);
   }
 }
