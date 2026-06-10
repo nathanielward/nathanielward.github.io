@@ -101,8 +101,8 @@ body > article, body > footer {
 
 @media only screen and (max-width: 480px){
   body > article, body > footer, header, main, .intro {
-    padding-left: clamp(24px, 5vw, 34px);
-    padding-right: clamp(24px, 5vw, 34px);
+    padding-left: calc(var(--pad-x) * 2);
+    padding-right: calc(var(--pad-x) * 2);
   }
 }
 
