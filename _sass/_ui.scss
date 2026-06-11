@@ -531,6 +531,9 @@ footer a:hover{
 }
 
 @media (prefers-color-scheme: dark){
+  footer a{
+    color: var(--c-link-dark);
+  }
   footer a:hover{
     color: var(--c-link-hover-dark);
   }
