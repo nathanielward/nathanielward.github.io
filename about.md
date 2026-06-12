@@ -12,6 +12,8 @@ I've spent more than twenty years trying to understand what moves people to act.
 
 Those experiences kept pointing me back to the same questions. And the answers, I've come to think, are more often found in the unplanned messiness of life than in grand designs. The accumulated decisions of people pursuing their own ends tend to yield a future that's pretty awesome.
 
+Some of the [people, books, and ideas](/influences/) that got me here.
+
 ## Start Here
 
 New here? These are the posts I'd point you to first.
