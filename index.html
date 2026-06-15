@@ -17,12 +17,12 @@ layout: default
 			<h1>
 			{% if post.linked %}<a href="{{ post.linked }}" title="Link to external page">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} &rarr;</a>
 			{% else %}
-			<a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+			<a href="{{ post.url | replace:'index.html','' | absolute_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
 			{% endif %}</h1>
 	
 			<section>
 				{{ post.content }}
-				{% if post.linked %}<p><a href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
+				{% if post.linked %}<p><a href="{{ post.url | replace:'index.html','' | absolute_url }}" title="Permanent link to this post" rel="bookmark">&para;</a></p>{% endif %}
 			</section>
 			<p class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
 
@@ -35,19 +35,10 @@ layout: default
   {% if paginator.total_pages > 1 %}
     <ul>
       {% if paginator.previous_page %}
-        <li class="pagination__prev">
-          {% if paginator.previous_page == 1 %}
-            <a href="/">&laquo; Newer</a>
-          {% else %}
-            <a href="/page{{ paginator.previous_page }}">&laquo; Newer</a>
-          {% endif %}
-        </li>
+        <li class="pagination__prev"><a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a></li>
       {% endif %}
-
       {% if paginator.next_page %}
-        <li class="pagination__next">
-          <a href="/page{{ paginator.next_page }}">Older &raquo;</a>
-        </li>
+        <li class="pagination__next"><a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a></li>
       {% endif %}
     </ul>
   {% endif %}
