@@ -1,7 +1,7 @@
 <head>
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>{% if page.title %}{{ page.title }} &middot; {% endif %}Nathaniel Ward</title>
 <meta name="author" content="Nathaniel Ward">
@@ -14,17 +14,18 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:wght@400;600;700&display=swap&subset=latin" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:wght@400;600;700&display=swap&subset=latin"></noscript>
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style/style.css">
-
-<meta name="twitter:card" content="summary">
-<meta property="og:image" content="/social-preview.jpeg">
+<link rel="stylesheet" href="{{ '/style/style.css' | absolute_url }}">
+	
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="{{ '/social-preview.jpeg' | absolute_url }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
     
 {% if page.title %}
-    <meta property="og:title" content="{{ page.title }} | Nathaniel Ward" />
+    <meta property="og:title" content="{{ page.title }} · Nathaniel Ward" />
 {% endif %}
 {% if page.excerpt %}
 	<meta name="description" content="{{ page.excerpt| strip_html }}">
@@ -37,9 +38,9 @@
 <meta name="keywords" content="{{ page.tags }}">
 {% endif %}
 
-	<link rel="alternate" type="application/rss+xml" title="Nathaniel Ward" href="{{ site.baseurl }}/feed.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Nathaniel Ward" href="{{ '/feed.xml' | absolute_url }}">
 
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 	<link rel="me" href="https://micro.blog/nathanielward" />
 	<link rel="me" href="https://twitter.com/nathanielward" />
 	<link rel="me" href="https://github.com/nathanielward/" />
