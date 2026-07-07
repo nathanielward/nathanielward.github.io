@@ -5,8 +5,6 @@ author: Nathaniel Ward
 layout: post
 ---
 
-Most of the AI criticism lately follows a similar script. 
-
 Customer service bots that [can't answer](https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles) what seem like basic questions. Executives who mandated AI everywhere and now own the [cost overruns](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify). Lawyers who got caught [citing cases that don't exist](https://reason.com/category/law/ai-in-court/).
 
 These stories are often treated as evidence that AI is overhyped and doomed to fail, maybe even that it should be discarded.
